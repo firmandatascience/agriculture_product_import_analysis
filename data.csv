@@ -1,0 +1,2752 @@
+Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Yield
+Maize,2001,Kharif     ,Andhra Pradesh,337533.0,986011,928.4,2.801818182
+Maize,2001,Rabi       ,Andhra Pradesh,90752.0,470744,928.4,5.592857143
+Onion,2001,Kharif     ,Andhra Pradesh,17736.0,234978,928.4,12.74411765
+Onion,2001,Rabi       ,Andhra Pradesh,14089.0,324477,928.4,21.08136364
+Rice,2001,Kharif     ,Andhra Pradesh,2426073.0,6500545,928.4,2.627272727
+Rice,2001,Rabi       ,Andhra Pradesh,1398674.0,4889246,928.4,3.025909091
+Wheat,2001,Rabi       ,Andhra Pradesh,13793.0,9486,928.4,0.6275
+Maize,2001,Kharif     ,Assam,19600.0,13940,1824.7,0.608695652
+Onion,2001,Whole Year ,Assam,7476.0,17453,1824.7,2.351304348
+Rice,2001,Autumn     ,Assam,495698.0,487719,1824.7,1.120434783
+Rice,2001,Summer     ,Assam,325987.0,653036,1824.7,1.806521739
+Rice,2001,Winter     ,Assam,1714736.0,2713493,1824.7,1.600434783
+Wheat,2001,Rabi       ,Assam,72245.0,85300,1824.7,1.185217391
+Rice,2001,Kharif     ,Goa,32746.0,79071,2530.6,2.41
+Rice,2001,Rabi       ,Goa,16637.0,47452,2530.6,2.85
+Maize,2001,Kharif     ,Karnataka,505574.0,1274858,1002.9,2.663333333
+Maize,2001,Rabi       ,Karnataka,65189.0,152769,1002.9,2.279
+Maize,2001,Summer     ,Karnataka,9272.0,23960,1002.9,2.6265
+Onion,2001,Whole Year ,Karnataka,125815.0,721033,1002.9,7.9108
+Rice,2001,Kharif     ,Karnataka,1087967.0,2393946,1002.9,2.154814815
+Rice,2001,Rabi       ,Karnataka,53480.0,99699,1002.9,1.840714286
+Rice,2001,Summer     ,Karnataka,276277.0,740400,1002.9,2.4368
+Wheat,2001,Rabi       ,Karnataka,260486.0,198822,1002.9,0.777333333
+Rice,2001,Autumn     ,Kerala,116540.0,235838,2946.7,1.886923077
+Rice,2001,Summer     ,Kerala,43850.0,105032,2946.7,2.151428571
+Rice,2001,Winter     ,Kerala,161978.0,362634,2946.7,2.153571429
+Maize,2001,Kharif     ,Meghalaya,16866.0,25247,4241.0,1.471428571
+Rice,2001,Kharif     ,Meghalaya,107761.0,188971,4241.0,1.751428571
+Wheat,2001,Rabi       ,Meghalaya,2753.0,4812,4241.0,1.455
+Onion,2001,Whole Year ,Puducherry,16.0,251,1434.5875,15.69
+Rice,2001,Kharif     ,Puducherry,26263.0,66868,1434.5875,2.415
+Maize,2001,Kharif     ,West Bengal,33288.0,86409,1556.6,2.314285714
+Rice,2001,Autumn     ,West Bengal,353048.0,731778,1556.6,2.094705882
+Rice,2001,Summer     ,West Bengal,1366273.0,4166145,1556.6,2.788823529
+Rice,2001,Winter     ,West Bengal,3783766.0,8917625,1556.6,2.235294118
+Wheat,2001,Rabi       ,West Bengal,434004.0,961533,1556.6,2.109444444
+Maize,2002,Kharif     ,Andhra Pradesh,413659.0,912047,648.1,1.491363636
+Maize,2002,Rabi       ,Andhra Pradesh,111990.0,573695,648.1,5.602272727
+Onion,2002,Kharif     ,Andhra Pradesh,15403.0,171950,648.1,10.49411765
+Onion,2002,Rabi       ,Andhra Pradesh,11725.0,240657,648.1,19.15952381
+Rice,2002,Kharif     ,Andhra Pradesh,2109301.0,5054013,648.1,2.202727273
+Rice,2002,Rabi       ,Andhra Pradesh,712766.0,2272773,648.1,2.533636364
+Wheat,2002,Rabi       ,Andhra Pradesh,11044.0,14898,648.1,1.09
+Maize,2002,Kharif     ,Assam,19812.0,14194,1973.6,0.606086957
+Onion,2002,Whole Year ,Assam,7500.0,17467,1973.6,2.337826087
+Rice,2002,Autumn     ,Assam,464497.0,444884,1973.6,1.076521739
+Rice,2002,Summer     ,Assam,327468.0,622358,1973.6,1.794347826
+Rice,2002,Winter     ,Assam,1748715.0,2670560,1973.6,1.545652174
+Wheat,2002,Rabi       ,Assam,69061.0,77952,1973.6,1.152272727
+Rice,2002,Kharif     ,Goa,33728.0,90072,2516.3,2.67
+Rice,2002,Rabi       ,Goa,16441.0,44695,2516.3,2.72
+Rice,2002,Autumn     ,Kerala,112438.0,233217,2511.2,2.130769231
+Rice,2002,Summer     ,Kerala,41079.0,111850,2511.2,2.212142857
+Rice,2002,Winter     ,Kerala,157004.0,343792,2511.2,2.123571429
+Maize,2002,Kharif     ,Tamil Nadu,121057.0,191646,315.9,1.806956522
+Onion,2002,Whole Year ,Tamil Nadu,23492.0,198715,315.9,8.54625
+Rice,2002,Kharif     ,Tamil Nadu,1516537.0,3577108,315.9,2.884642857
+Maize,2002,Kharif     ,West Bengal,27724.0,55300,1629.1,1.895384615
+Rice,2002,Autumn     ,West Bengal,384965.0,796652,1629.1,2.092777778
+Rice,2002,Summer     ,West Bengal,1406078.0,4198595,1629.1,2.747777778
+Rice,2002,Winter     ,West Bengal,4051084.0,9393991,1629.1,2.221666667
+Wheat,2002,Rabi       ,West Bengal,405350.0,887437,1629.1,1.992777778
+Maize,2003,Kharif     ,Andhra Pradesh,557812.0,1671502,826.0,2.420909091
+Maize,2003,Rabi       ,Andhra Pradesh,162802.0,805284,826.0,5.081818182
+Onion,2003,Kharif     ,Andhra Pradesh,16862.0,234546,826.0,12.80157895
+Onion,2003,Rabi       ,Andhra Pradesh,12187.0,284935,826.0,19.88333333
+Rice,2003,Kharif     ,Andhra Pradesh,2108904.0,5841539,826.0,2.670909091
+Rice,2003,Rabi       ,Andhra Pradesh,865734.0,3111263,826.0,2.729090909
+Wheat,2003,Rabi       ,Andhra Pradesh,11928.0,6741,826.0,0.481818182
+Maize,2003,Kharif     ,Assam,19569.0,14051,2213.7,0.607391304
+Onion,2003,Whole Year ,Assam,7332.0,17142,2213.7,2.34173913
+Rice,2003,Autumn     ,Assam,441143.0,430374,2213.7,1.118695652
+Rice,2003,Summer     ,Assam,319480.0,573189,2213.7,1.493913043
+Rice,2003,Winter     ,Assam,1769203.0,2877371,2213.7,1.618695652
+Wheat,2003,Rabi       ,Assam,69954.0,73186,2213.7,1.040909091
+Rice,2003,Kharif     ,Goa,35471.0,115996,3011.6,3.27
+Rice,2003,Rabi       ,Goa,17330.0,54665,3011.6,3.15
+Maize,2003,Kharif     ,Karnataka,545546.0,1066107,867.6,2.3356
+Maize,2003,Rabi       ,Karnataka,64199.0,123529,867.6,1.943478261
+Maize,2003,Summer     ,Karnataka,8428.0,20264,867.6,2.470909091
+Onion,2003,Whole Year ,Karnataka,101221.0,360469,867.6,6.0956
+Rice,2003,Kharif     ,Karnataka,944272.0,2100123,867.6,2.133333333
+Rice,2003,Rabi       ,Karnataka,54629.0,158046,867.6,2.892
+Rice,2003,Summer     ,Karnataka,74998.0,292230,867.6,3.8768
+Wheat,2003,Rabi       ,Karnataka,231994.0,96150,867.6,0.516428571
+Rice,2003,Autumn     ,Kerala,102770.0,220132,2386.0,2.140769231
+Rice,2003,Summer     ,Kerala,37186.0,83239,2386.0,1.845
+Rice,2003,Winter     ,Kerala,147384.0,266674,2386.0,1.960714286
+Maize,2003,Kharif     ,Meghalaya,16900.0,25929,3321.3,1.528571429
+Rice,2003,Kharif     ,Meghalaya,109721.0,200703,3321.3,1.798571429
+Wheat,2003,Rabi       ,Meghalaya,862.0,1540,3321.3,1.49
+Onion,2003,Whole Year ,Puducherry,7.0,100,1434.5875,8.75
+Rice,2003,Kharif     ,Puducherry,25065.0,67003,1434.5875,2.993333333
+Maize,2003,Kharif     ,Tamil Nadu,160159.0,250992,345.6,1.7856
+Onion,2003,Whole Year ,Tamil Nadu,23452.0,211173,345.6,8.768076923
+Rice,2003,Kharif     ,Tamil Nadu,1396651.0,3222776,345.6,2.728214286
+Maize,2003,Kharif     ,West Bengal,55530.0,126059,1526.7,2.133333333
+Rice,2003,Autumn     ,West Bengal,339753.0,719205,1526.7,2.131666667
+Rice,2003,Summer     ,West Bengal,1390148.0,4289454,1526.7,2.879444444
+Rice,2003,Winter     ,West Bengal,4126706.0,9653580,1526.7,2.283333333
+Wheat,2003,Rabi       ,West Bengal,425721.0,985686,1526.7,2.194444444
+Maize,2004,Kharif     ,Karnataka,783835.0,2310082,1117.7,3.0068
+Maize,2004,Rabi       ,Karnataka,57478.0,171589,1117.7,2.84826087
+Maize,2004,Summer     ,Karnataka,9056.0,27678,1117.7,3.007826087
+Onion,2004,Whole Year ,Karnataka,136038.0,841333,1117.7,7.8688
+Rice,2004,Kharif     ,Karnataka,1055061.0,2627561,1117.7,2.37
+Rice,2004,Rabi       ,Karnataka,43861.0,144235,1117.7,3.388666667
+Rice,2004,Summer     ,Karnataka,209257.0,935326,1117.7,4.251666667
+Wheat,2004,Rabi       ,Karnataka,241991.0,206296,1117.7,0.845333333
+Rice,2004,Autumn     ,Kerala,105349.0,241824,2880.2,2.271538462
+Rice,2004,Summer     ,Kerala,35732.0,89752,2880.2,2.256923077
+Rice,2004,Winter     ,Kerala,148893.0,335529,2880.2,2.175714286
+Maize,2004,Kharif     ,Meghalaya,16875.0,24000,4767.9,1.465714286
+Rice,2004,Autumn     ,Meghalaya,32667.0,37766,4767.9,1.492857143
+Rice,2004,Summer     ,Meghalaya,9224.0,37439,4767.9,2.078333333
+Rice,2004,Winter     ,Meghalaya,69659.0,118514,4767.9,1.792857143
+Wheat,2004,Rabi       ,Meghalaya,863.0,1564,4767.9,1.156666667
+Maize,2004,Kharif     ,Tamil Nadu,189893.0,294717,1034.0,1.758846154
+Onion,2004,Whole Year ,Tamil Nadu,26491.0,256359,1034.0,9.490357143
+Rice,2004,Kharif     ,Tamil Nadu,1872822.0,5061622,1034.0,3.015172414
+Maize,2005,Kharif     ,Andhra Pradesh,593135.0,2098190,1075.5,3.803636364
+Maize,2005,Rabi       ,Andhra Pradesh,164827.0,988711,1075.5,6.032272727
+Onion,2005,Kharif     ,Andhra Pradesh,20434.0,364201,1075.5,15.5455
+Onion,2005,Rabi       ,Andhra Pradesh,15952.0,332092,1075.5,20.49047619
+Rice,2005,Kharif     ,Andhra Pradesh,2526108.0,6376990,1075.5,2.549090909
+Rice,2005,Rabi       ,Andhra Pradesh,1455643.0,5326634,1075.5,3.132272727
+Wheat,2005,Rabi       ,Andhra Pradesh,11109.0,8891,1075.5,0.774
+Maize,2005,Kharif     ,Assam,18969.0,13745,2184.6,0.635925926
+Onion,2005,Whole Year ,Assam,7726.0,18291,2184.6,2.373333333
+Rice,2005,Autumn     ,Assam,398316.0,398077,2184.6,1.132222222
+Rice,2005,Summer     ,Assam,314671.0,559969,2184.6,1.637692308
+Rice,2005,Winter     ,Assam,1707340.0,2594392,2184.6,1.502592593
+Wheat,2005,Rabi       ,Assam,49961.0,53735,2184.6,1.084230769
+Maize,2005,Kharif     ,Karnataka,842243.0,2486900,1316.2,3.1212
+Maize,2005,Rabi       ,Karnataka,81621.0,282618,1316.2,3.341304348
+Maize,2005,Summer     ,Karnataka,11990.0,37005,1316.2,3.096666667
+Onion,2005,Kharif     ,Karnataka,136344.0,759619,1316.2,6.543913043
+Onion,2005,Rabi       ,Karnataka,10900.0,112992,1316.2,10.36952381
+Onion,2005,Summer     ,Karnataka,4075.0,67545,1316.2,16.31842105
+Rice,2005,Kharif     ,Karnataka,1075993.0,2770413,1316.2,2.50962963
+Rice,2005,Rabi       ,Karnataka,44944.0,97483,1316.2,2.2675
+Rice,2005,Summer     ,Karnataka,364244.0,1131350,1316.2,3.0144
+Wheat,2005,Rabi       ,Karnataka,252588.0,226369,1316.2,0.880714286
+Rice,2005,Autumn     ,Kerala,98256.0,212520,3030.9,2.096923077
+Rice,2005,Summer     ,Kerala,21857.0,59733,3030.9,2.345714286
+Rice,2005,Winter     ,Kerala,155629.0,357734,3030.9,2.189285714
+Maize,2005,Kharif     ,Meghalaya,16898.0,24424,3374.4,1.481428571
+Rice,2005,Autumn     ,Meghalaya,32678.0,43762,3374.4,1.597142857
+Rice,2005,Summer     ,Meghalaya,9791.0,39910,3374.4,2.245
+Rice,2005,Winter     ,Meghalaya,63602.0,124605,3374.4,1.971428571
+Wheat,2005,Rabi       ,Meghalaya,670.0,1198,3374.4,1.306666667
+Maize,2005,Kharif     ,Tamil Nadu,202830.0,0,1364.1,0.0
+Onion,2005,Whole Year ,Tamil Nadu,29169.0,233796,1364.1,8.07826087
+Rice,2005,Kharif     ,Tamil Nadu,2050455.0,5209433,1364.1,2.895517241
+Maize,2005,Kharif     ,West Bengal,71753.0,207252,1650.1,2.601764706
+Rice,2005,Autumn     ,West Bengal,288129.0,605612,1650.1,2.116111111
+Rice,2005,Summer     ,West Bengal,1381957.0,4047038,1650.1,2.767222222
+Rice,2005,Winter     ,West Bengal,4112863.0,9858092,1650.1,2.317222222
+Wheat,2005,Rabi       ,West Bengal,366729.0,773514,1650.1,1.953333333
+Onion,2006,Rabi       ,Puducherry,1.0,4,1434.5875,4.0
+Onion,2006,Summer     ,Puducherry,2.0,10,1434.5875,5.0
+Rice,2006,Kharif     ,Puducherry,5010.0,13285,1434.5875,2.64
+Rice,2006,Rabi       ,Puducherry,12061.0,33581,1434.5875,4.05
+Rice,2006,Summer     ,Puducherry,4574.0,13942,1434.5875,3.05
+Maize,2006,Kharif     ,Meghalaya,17039.0,25334,2454.7,1.541428571
+Rice,2006,Autumn     ,Meghalaya,32679.0,44736,2454.7,1.641428571
+Rice,2006,Rabi       ,Meghalaya,9854.0,39940,2454.7,2.077142857
+Rice,2006,Winter     ,Meghalaya,61752.0,115533,2454.7,1.852857143
+Wheat,2006,Rabi       ,Meghalaya,656.0,1183,2454.7,1.32
+Maize,2006,Kharif     ,Andhra Pradesh,535709.0,1284991,845.2,2.942727273
+Maize,2006,Rabi       ,Andhra Pradesh,190172.0,1177003,845.2,6.363181818
+Onion,2006,Kharif     ,Andhra Pradesh,18601.0,306843,845.2,15.37055556
+Onion,2006,Rabi       ,Andhra Pradesh,12439.0,272602,845.2,19.59105263
+Rice,2006,Kharif     ,Andhra Pradesh,2640870.0,6949186,845.2,2.689090909
+Rice,2006,Rabi       ,Andhra Pradesh,1337020.0,4922944,845.2,3.036818182
+Wheat,2006,Rabi       ,Andhra Pradesh,10016.0,8796,845.2,0.68
+Maize,2006,Kharif     ,Assam,18657.0,13557,1774.9,0.6252
+Onion,2006,Whole Year ,Assam,6870.0,16775,1774.9,2.384814815
+Rice,2006,Autumn     ,Assam,379441.0,335708,1774.9,1.028148148
+Rice,2006,Summer     ,Assam,312471.0,630162,1774.9,1.837037037
+Rice,2006,Winter     ,Assam,1504647.0,1950144,1774.9,1.269259259
+Wheat,2006,Rabi       ,Assam,59573.0,67413,1774.9,1.134444444
+Maize,2006,Kharif     ,Karnataka,865850.0,2354023,1146.3,2.7448
+Maize,2006,Rabi       ,Karnataka,78902.0,237039,1146.3,2.7208
+Maize,2006,Summer     ,Karnataka,15780.0,50467,1146.3,3.203333333
+Onion,2006,Whole Year ,Karnataka,151289.0,859132,1146.3,6.4348
+Rice,2006,Kharif     ,Karnataka,1066981.0,2723038,1146.3,2.428148148
+Rice,2006,Rabi       ,Karnataka,44063.0,99796,1146.3,2.335333333
+Rice,2006,Summer     ,Karnataka,284632.0,822692,1146.3,2.6825
+Wheat,2006,Rabi       ,Karnataka,269494.0,223806,1146.3,0.810714286
+Rice,2006,Autumn     ,Kerala,83859.0,191241,3429.7,2.270769231
+Rice,2006,Summer     ,Kerala,35946.0,103571,3429.7,2.497857143
+Rice,2006,Winter     ,Kerala,143724.0,346763,3429.7,2.286428571
+Maize,2006,Whole Year ,Tamil Nadu,197782.0,759112,927.9,4.483076923
+Onion,2006,Whole Year ,Tamil Nadu,29587.0,258333,927.9,8.720454545
+Rice,2006,Kharif     ,Tamil Nadu,1931397.0,6610607,927.9,3.584827586
+Maize,2006,Kharif     ,West Bengal,85446.0,253505,1631.4,2.723125
+Rice,2006,Autumn     ,West Bengal,283859.0,575294,1631.4,2.001111111
+Rice,2006,Summer     ,West Bengal,1401233.0,4520656,1631.4,3.028888889
+Rice,2006,Winter     ,West Bengal,4001936.0,9649942,1631.4,2.291666667
+Wheat,2006,Rabi       ,West Bengal,350621.0,799876,1631.4,2.168888889
+Onion,2007,Rabi       ,Puducherry,3.0,25,1434.5875,8.33
+Rice,2007,Kharif     ,Puducherry,4379.0,12878,1434.5875,2.986666667
+Rice,2007,Rabi       ,Puducherry,11411.0,28051,1434.5875,3.02
+Rice,2007,Summer     ,Puducherry,4647.0,12395,1434.5875,2.21
+Maize,2007,Kharif     ,Assam,18362.0,13317,2154.1,0.60962963
+Onion,2007,Whole Year ,Assam,6697.0,16323,2154.1,2.37037037
+Rice,2007,Autumn     ,Assam,354115.0,347992,2154.1,1.082592593
+Rice,2007,Summer     ,Assam,322889.0,731851,2154.1,2.085925926
+Rice,2007,Winter     ,Assam,1646992.0,2238765,2154.1,1.36962963
+Wheat,2007,Rabi       ,Assam,56069.0,70797,2154.1,1.225185185
+Maize,2007,Kharif     ,Karnataka,1015117.0,2950506,1323.3,3.112962963
+Maize,2007,Rabi       ,Karnataka,77654.0,260972,1323.3,3.109230769
+Maize,2007,Summer     ,Karnataka,20026.0,64553,1323.3,3.179259259
+Onion,2007,Kharif     ,Karnataka,165668.0,987538,1323.3,6.5028
+Onion,2007,Rabi       ,Karnataka,11727.0,98738,1323.3,8.509047619
+Onion,2007,Summer     ,Karnataka,4706.0,39752,1323.3,7.833809524
+Rice,2007,Kharif     ,Karnataka,1051466.0,2791181,1323.3,2.567586207
+Rice,2007,Rabi       ,Karnataka,40325.0,86756,1323.3,2.255333333
+Rice,2007,Summer     ,Karnataka,324525.0,990578,1323.3,2.846923077
+Wheat,2007,Rabi       ,Karnataka,275583.0,280384,1323.3,1.018
+Rice,2007,Autumn     ,Kerala,77533.0,168108,3489.6,2.07
+Rice,2007,Summer     ,Kerala,45447.0,109277,3489.6,2.335714286
+Rice,2007,Winter     ,Kerala,105958.0,251103,3489.6,2.252857143
+Maize,2007,Whole Year ,Tamil Nadu,223428.0,810057,1067.2,4.077307692
+Onion,2007,Whole Year ,Tamil Nadu,29809.0,287208,1067.2,9.574347826
+Rice,2007,Kharif     ,Tamil Nadu,1789170.0,5039954,1067.2,3.213793103
+Maize,2007,Kharif     ,West Bengal,34570.0,72463,2007.5,1.775454545
+Maize,2007,Rabi       ,West Bengal,17363.0,81620,2007.5,3.295
+Maize,2007,Summer     ,West Bengal,25240.0,90290,2007.5,2.845294118
+Rice,2007,Autumn     ,West Bengal,281618.0,565825,2007.5,1.956111111
+Rice,2007,Summer     ,West Bengal,1511593.0,4926105,2007.5,3.048888889
+Rice,2007,Winter     ,West Bengal,3926544.0,9227590,2007.5,2.261666667
+Wheat,2007,Rabi       ,West Bengal,352579.0,917284,2007.5,2.452222222
+Rice,2008,Kharif     ,Puducherry,4493.0,12290,1434.5875,3.0
+Rice,2008,Rabi       ,Puducherry,11306.0,24163,1434.5875,2.82
+Rice,2008,Summer     ,Puducherry,4981.0,14263,1434.5875,2.125
+Maize,2008,Kharif     ,Andhra Pradesh,497803.0,1566921,944.6,3.601818182
+Maize,2008,Rabi       ,Andhra Pradesh,354157.0,2584881,944.6,6.952727273
+Onion,2008,Kharif     ,Andhra Pradesh,26723.0,439644,944.6,15.30888889
+Onion,2008,Rabi       ,Andhra Pradesh,13737.0,289004,944.6,18.40631579
+Rice,2008,Kharif     ,Andhra Pradesh,2803076.0,8379635,944.6,2.913636364
+Rice,2008,Rabi       ,Andhra Pradesh,1584140.0,5861498,944.6,3.236818182
+Wheat,2008,Rabi       ,Andhra Pradesh,13687.0,15421,944.6,1.026666667
+Maize,2008,Kharif     ,Assam,17382.0,12619,2109.9,0.595555556
+Onion,2008,Whole Year ,Assam,6963.0,16816,2109.9,2.381481481
+Rice,2008,Autumn     ,Assam,350649.0,374010,2109.9,1.117777778
+Rice,2008,Summer     ,Assam,360266.0,768582,2109.9,1.951153846
+Rice,2008,Winter     ,Assam,1773211.0,2865843,2109.9,1.607407407
+Wheat,2008,Rabi       ,Assam,50053.0,54551,2109.9,1.045769231
+Maize,2008,Kharif     ,Karnataka,932901.0,2549564,1164.1,2.895555556
+Maize,2008,Rabi       ,Karnataka,107533.0,319095,1164.1,2.845
+Maize,2008,Summer     ,Karnataka,27868.0,87643,1164.1,3.073928571
+Onion,2008,Kharif     ,Karnataka,117822.0,611170,1164.1,5.7176
+Onion,2008,Rabi       ,Karnataka,13415.0,89581,1164.1,6.771363636
+Onion,2008,Summer     ,Karnataka,3775.0,20587,1164.1,5.57952381
+Rice,2008,Kharif     ,Karnataka,1129883.0,2906761,1164.1,2.513448276
+Rice,2008,Rabi       ,Karnataka,40982.0,89072,1164.1,2.514166667
+Rice,2008,Summer     ,Karnataka,343122.0,1035706,1164.1,2.786923077
+Wheat,2008,Rabi       ,Karnataka,268600.0,257181,1164.1,1.012857143
+Rice,2008,Autumn     ,Kerala,79381.0,192770,2524.8,2.295384615
+Rice,2008,Summer     ,Kerala,49762.0,148370,2524.8,2.446428571
+Rice,2008,Winter     ,Kerala,105122.0,249101,2524.8,2.260714286
+Maize,2008,Kharif     ,Meghalaya,17117.0,25716,3114.3,1.545714286
+Rice,2008,Autumn     ,Meghalaya,32570.0,41908,3114.3,1.53
+Rice,2008,Summer     ,Meghalaya,12752.0,46600,3114.3,2.154285714
+Rice,2008,Winter     ,Meghalaya,62723.0,115354,3114.3,1.802857143
+Wheat,2008,Rabi       ,Meghalaya,416.0,739,3114.3,1.245
+Maize,2008,Whole Year ,Tamil Nadu,286639.0,1257882,1201.9,5.226296296
+Onion,2008,Whole Year ,Tamil Nadu,30255.0,286040,1201.9,10.1544
+Rice,2008,Kharif     ,Tamil Nadu,1931603.0,5183385,1201.9,3.562580645
+Maize,2008,Autumn     ,West Bengal,36843.0,97825,1560.1,2.369090909
+Maize,2008,Rabi       ,West Bengal,17955.0,91856,1560.1,3.217272727
+Maize,2008,Summer     ,West Bengal,35976.0,153753,1560.1,2.743529412
+Rice,2008,Autumn     ,West Bengal,292444.0,604968,1560.1,2.04
+Rice,2008,Summer     ,West Bengal,1556662.0,4358011,1560.1,2.646666667
+Rice,2008,Winter     ,West Bengal,4086590.0,10074261,1560.1,2.393888889
+Wheat,2008,Rabi       ,West Bengal,306985.0,764528,1560.1,2.172777778
+Rice,2009,Kharif     ,Puducherry,4650.0,13501,1434.5875,2.893333333
+Rice,2009,Rabi       ,Puducherry,11178.0,25378,1434.5875,2.903333333
+Rice,2009,Summer     ,Puducherry,5098.0,13451,1434.5875,1.965
+Maize,2009,Kharif     ,Andhra Pradesh,501624.0,996315,711.0,3.095
+Maize,2009,Rabi       ,Andhra Pradesh,281008.0,1764883,711.0,6.097272727
+Onion,2009,Kharif     ,Andhra Pradesh,22954.0,374804,711.0,15.85611111
+Onion,2009,Rabi       ,Andhra Pradesh,13608.0,333288,711.0,25.09052632
+Rice,2009,Kharif     ,Andhra Pradesh,2062870.0,5956396,711.0,2.790909091
+Rice,2009,Rabi       ,Andhra Pradesh,1377866.0,4881871,711.0,3.098636364
+Wheat,2009,Rabi       ,Andhra Pradesh,9872.0,10319,711.0,0.95
+Maize,2009,Kharif     ,Assam,19481.0,13981,1727.1,0.617407407
+Onion,2009,Whole Year ,Assam,6785.0,15801,1727.1,2.375185185
+Rice,2009,Autumn     ,Assam,340830.0,334655,1727.1,1.070740741
+Rice,2009,Summer     ,Assam,394442.0,859790,1727.1,1.903703704
+Rice,2009,Winter     ,Assam,1762324.0,3213979,1727.1,1.780740741
+Wheat,2009,Rabi       ,Assam,60067.0,65301,1727.1,1.097037037
+Maize,2009,Kharif     ,Karnataka,1108434.0,2585194,1321.0,2.418148148
+Maize,2009,Rabi       ,Karnataka,103702.0,262272,1321.0,2.43962963
+Maize,2009,Summer     ,Karnataka,28341.0,77530,1321.0,2.839642857
+Onion,2009,Kharif     ,Karnataka,174311.0,615452,1321.0,4.2968
+Onion,2009,Rabi       ,Karnataka,13815.0,81847,1321.0,7.0895
+Onion,2009,Summer     ,Karnataka,3777.0,28828,1321.0,7.65
+Rice,2009,Kharif     ,Karnataka,1102221.0,2734838,1321.0,2.397931034
+Rice,2009,Rabi       ,Karnataka,37747.0,84636,1321.0,2.416666667
+Rice,2009,Summer     ,Karnataka,346510.0,1057933,1321.0,2.806923077
+Wheat,2009,Rabi       ,Karnataka,283427.0,263877,1321.0,0.919285714
+Rice,2009,Autumn     ,Kerala,77249.0,192050,2821.5,2.303076923
+Rice,2009,Summer     ,Kerala,49279.0,134005,2821.5,2.385
+Rice,2009,Winter     ,Kerala,107485.0,272284,2821.5,2.286428571
+Maize,2009,Kharif     ,Meghalaya,17209.0,26167,2995.9,1.574285714
+Rice,2009,Autumn     ,Meghalaya,32560.0,41798,2995.9,1.542857143
+Rice,2009,Summer     ,Meghalaya,12777.0,46943,2995.9,2.171428571
+Rice,2009,Winter     ,Meghalaya,62825.0,115388,2995.9,1.802857143
+Wheat,2009,Rabi       ,Meghalaya,405.0,718,2995.9,1.25
+Maize,2009,Whole Year ,Tamil Nadu,244159.0,1138126,928.5,4.798888889
+Onion,2009,Whole Year ,Tamil Nadu,31024.0,302563,928.5,9.8704
+Rice,2009,Kharif     ,Tamil Nadu,1845553.0,5665258,928.5,3.539677419
+Onion,2010,Rabi       ,Puducherry,1.0,7,1434.5875,7.0
+Rice,2010,Kharif     ,Puducherry,4384.0,12602,1434.5875,2.673333333
+Rice,2010,Rabi       ,Puducherry,10920.0,26585,1434.5875,3.446666667
+Rice,2010,Summer     ,Puducherry,4710.0,12773,1434.5875,2.7
+Maize,2010,Kharif     ,Assam,19772.0,14110,2578.5,0.61
+Onion,2010,Whole Year ,Assam,6906.0,15408,2578.5,2.308518519
+Rice,2010,Autumn     ,Assam,307988.0,355825,2578.5,1.272592593
+Rice,2010,Summer     ,Assam,398785.0,1027575,2578.5,2.342222222
+Rice,2010,Winter     ,Assam,1830682.0,3649129,2578.5,1.958888889
+Wheat,2010,Rabi       ,Assam,44772.0,56216,2578.5,1.196666667
+Maize,2010,Kharif     ,Andhra Pradesh,439530.0,1639069,1297.0,3.821818182
+Maize,2010,Rabi       ,Andhra Pradesh,303916.0,2313946,1297.0,7.073636364
+Onion,2010,Kharif     ,Andhra Pradesh,25612.0,499564,1297.0,17.78625
+Onion,2010,Rabi       ,Andhra Pradesh,17787.0,360959,1297.0,18.2145
+Rice,2010,Kharif     ,Andhra Pradesh,2921793.0,7509866,1297.0,2.666818182
+Rice,2010,Rabi       ,Andhra Pradesh,1829516.0,6909447,1297.0,3.325909091
+Wheat,2010,Rabi       ,Andhra Pradesh,10085.0,13143,1297.0,1.311818182
+Maize,2010,Kharif     ,Karnataka,1139899.0,3908386,1317.7,3.354285714
+Maize,2010,Rabi       ,Karnataka,115803.0,321962,1317.7,2.8475
+Maize,2010,Summer     ,Karnataka,30734.0,104275,1317.7,3.294137931
+Onion,2010,Kharif     ,Karnataka,143154.0,893739,1317.7,6.8968
+Onion,2010,Rabi       ,Karnataka,14430.0,98814,1317.7,7.219047619
+Onion,2010,Summer     ,Karnataka,4680.0,49792,1317.7,10.59809524
+Rice,2010,Kharif     ,Karnataka,1129304.0,3192746,1317.7,2.654
+Rice,2010,Rabi       ,Karnataka,49700.0,117501,1317.7,2.668333333
+Rice,2010,Summer     ,Karnataka,360062.0,1163725,1317.7,2.935714286
+Wheat,2010,Rabi       ,Karnataka,254755.0,300237,1317.7,1.166470588
+Rice,2010,Autumn     ,Kerala,70498.28,170262,3131.8,2.236923077
+Rice,2010,Summer     ,Kerala,51132.63,137465,3131.8,2.48
+Rice,2010,Winter     ,Kerala,91555.59,215011,3131.8,2.202142857
+Maize,2010,Kharif     ,Meghalaya,17276.0,26500,3119.7,1.561428571
+Rice,2010,Autumn     ,Meghalaya,32596.0,42492,3119.7,1.53
+Rice,2010,Rabi       ,Meghalaya,12797.0,47413,3119.7,2.077142857
+Rice,2010,Winter     ,Meghalaya,62892.0,117116,3119.7,1.828571429
+Wheat,2010,Rabi       ,Meghalaya,393.0,704,3119.7,1.2475
+Onion,2011,Rabi       ,Puducherry,1.0,7,1434.5875,7.0
+Rice,2011,Kharif     ,Puducherry,4237.0,12794,1434.5875,3.046666667
+Rice,2011,Rabi       ,Puducherry,10324.0,23489,1434.5875,2.856666667
+Rice,2011,Summer     ,Puducherry,2015.0,5831,1434.5875,2.49
+Maize,2011,Kharif     ,Assam,21297.0,17075,1743.4,0.693333333
+Onion,2011,Whole Year ,Assam,7372.0,22595,1743.4,3.02962963
+Rice,2011,Autumn     ,Assam,276486.0,338015,1743.4,1.268518519
+Rice,2011,Summer     ,Assam,393619.0,1080072,1743.4,2.489615385
+Rice,2011,Winter     ,Assam,1875601.0,3297591,1743.4,1.797037037
+Wheat,2011,Rabi       ,Assam,40194.0,48592,1743.4,1.169615385
+Maize,2011,Kharif     ,Andhra Pradesh,530919.0,1492303,861.9,3.427727273
+Maize,2011,Rabi       ,Andhra Pradesh,332805.0,2163376,861.9,6.432272727
+Onion,2011,Kharif     ,Andhra Pradesh,39613.0,554878,861.9,13.41823529
+Onion,2011,Rabi       ,Andhra Pradesh,17378.0,444871,861.9,24.52894737
+Rice,2011,Kharif     ,Andhra Pradesh,2873949.0,8563334,861.9,2.909090909
+Rice,2011,Rabi       ,Andhra Pradesh,1221899.0,4328458,861.9,3.031818182
+Wheat,2011,Rabi       ,Andhra Pradesh,8255.0,10914,861.9,1.306666667
+Maize,2011,Kharif     ,Karnataka,1206528.0,3433881,1178.986364,2.855357143
+Maize,2011,Rabi       ,Karnataka,111362.0,347253,1178.986364,3.0375
+Maize,2011,Summer     ,Karnataka,31494.0,106783,1178.986364,3.159655172
+Onion,2011,Kharif     ,Karnataka,136540.0,674001,1178.986364,5.5184
+Onion,2011,Rabi       ,Karnataka,13695.0,108989,1178.986364,8.495454545
+Onion,2011,Summer     ,Karnataka,3572.0,21998,1178.986364,6.214285714
+Rice,2011,Kharif     ,Karnataka,1117720.0,3218289,1178.986364,2.702666667
+Rice,2011,Rabi       ,Karnataka,43192.0,94196,1178.986364,2.378181818
+Rice,2011,Summer     ,Karnataka,255223.0,869134,1178.986364,2.931428571
+Wheat,2011,Rabi       ,Karnataka,225472.0,200932,1178.986364,0.981333333
+Rice,2011,Autumn     ,Kerala,68134.83,171662,3035.1,2.301538462
+Rice,2011,Summer     ,Kerala,47290.01,149217,3035.1,2.7
+Rice,2011,Winter     ,Kerala,92734.9,248114,3035.1,2.426428571
+Maize,2011,Kharif     ,Meghalaya,17303.0,26939,4083.104545,1.58
+Rice,2011,Autumn     ,Meghalaya,32605.0,43401,4083.104545,1.511428571
+Rice,2011,Rabi       ,Meghalaya,12836.0,54206,4083.104545,2.07
+Rice,2011,Winter     ,Meghalaya,63434.0,125124,4083.104545,1.91
+Wheat,2011,Rabi       ,Meghalaya,395.0,710,4083.104545,1.34
+Maize,2011,Kharif     ,Tamil Nadu,176287.0,1001667,926.5,5.832307692
+Maize,2011,Rabi       ,Tamil Nadu,104342.0,693800,926.5,6.611481481
+Onion,2011,Whole Year ,Tamil Nadu,34913.0,376947,926.5,11.16703704
+Rice,2011,Kharif     ,Tamil Nadu,1903772.0,7458657,926.5,4.226451613
+Maize,2012,Kharif     ,Andhra Pradesh,565000.0,2341000,968.7,4.040952381
+Maize,2012,Rabi       ,Andhra Pradesh,407000.0,2513000,968.7,6.119545455
+Onion,2012,Kharif     ,Andhra Pradesh,25000.0,450000,968.7,15.35285714
+Onion,2012,Rabi       ,Andhra Pradesh,14000.0,386000,968.7,25.34375
+Rice,2012,Kharif     ,Andhra Pradesh,2487000.0,7167000,968.7,2.969545455
+Rice,2012,Rabi       ,Andhra Pradesh,1141000.0,4344000,968.7,3.243636364
+Wheat,2012,Rabi       ,Andhra Pradesh,8000.0,9000,968.7,1.25
+Maize,2012,Kharif     ,Assam,23695.0,21258,2167.5,0.771481481
+Onion,2012,Whole Year ,Assam,7099.0,25893,2167.5,3.265185185
+Rice,2012,Autumn     ,Assam,238178.0,308745,2167.5,1.291481481
+Rice,2012,Summer     ,Assam,389140.0,1155877,2167.5,2.7724
+Rice,2012,Winter     ,Assam,1857410.0,3655430,2167.5,1.968888889
+Wheat,2012,Rabi       ,Assam,33984.0,44190,2167.5,1.2508
+Maize,2012,Kharif     ,Karnataka,1161644.0,2978477,956.2,2.741071429
+Maize,2012,Rabi       ,Karnataka,127577.0,386114,956.2,3.155185185
+Maize,2012,Summer     ,Karnataka,32413.0,111382,956.2,3.439666667
+Onion,2012,Kharif     ,Karnataka,67739.0,359625,956.2,5.5388
+Onion,2012,Rabi       ,Karnataka,12087.0,79118,956.2,7.056666667
+Onion,2012,Summer     ,Karnataka,3543.0,20096,956.2,5.650952381
+Rice,2012,Kharif     ,Karnataka,1048427.0,2667359,956.2,2.418333333
+Rice,2012,Rabi       ,Karnataka,45326.0,109309,956.2,2.394615385
+Rice,2012,Summer     ,Karnataka,185162.0,587711,956.2,2.747777778
+Wheat,2012,Rabi       ,Karnataka,225274.0,178871,956.2,0.846428571
+Maize,2012,Whole Year ,Kerala,180.0,15,2187.6,0.535
+Onion,2012,Whole Year ,Kerala,40.0,0,2187.6,0.0
+Rice,2012,Autumn     ,Kerala,63232.0,161083,2187.6,2.41
+Rice,2012,Summer     ,Kerala,47294.0,134609,2187.6,2.482142857
+Rice,2012,Winter     ,Kerala,86751.0,212607,2187.6,2.355
+Wheat,2012,Whole Year ,Kerala,1.0,0,2187.6,0.0
+Maize,2012,Whole Year ,Meghalaya,18015.0,38732,2945.3,2.2
+Rice,2012,Autumn     ,Meghalaya,33000.0,66000,2945.3,2.232857143
+Rice,2012,Rabi       ,Meghalaya,13267.0,56786,2945.3,2.13
+Rice,2012,Winter     ,Meghalaya,63484.0,142867,2945.3,2.118571429
+Wheat,2012,Rabi       ,Meghalaya,406.0,742,2945.3,1.356666667
+Maize,2013,Kharif     ,Andhra Pradesh,109846.0,407657,1062.3,3.460769231
+Maize,2013,Rabi       ,Andhra Pradesh,242269.0,1805828,1062.3,7.458461538
+Onion,2013,Kharif     ,Andhra Pradesh,20959.0,394680,1062.3,18.40181818
+Onion,2013,Rabi       ,Andhra Pradesh,5326.0,117905,1062.3,19.63545455
+Rice,2013,Kharif     ,Andhra Pradesh,1705555.0,4356822,1062.3,2.715384615
+Rice,2013,Rabi       ,Andhra Pradesh,877885.0,3636603,1062.3,3.408461538
+Wheat,2013,Rabi       ,Andhra Pradesh,348.0,249,1062.3,0.68
+Maize,2013,Kharif     ,Assam,24068.0,76998,1797.7,3.53037037
+Onion,2013,Whole Year ,Assam,7436.0,28812,1797.7,3.347037037
+Rice,2013,Autumn     ,Assam,223332.0,294440,1797.7,1.386296296
+Rice,2013,Summer     ,Assam,399132.0,1189858,1797.7,2.655925926
+Rice,2013,Winter     ,Assam,1880737.0,3709081,1797.7,1.982592593
+Wheat,2013,Rabi       ,Assam,31294.0,40444,1797.7,1.232
+Rice,2013,Kharif     ,Goa,28330.0,80114,3642.6,2.82
+Rice,2013,Rabi       ,Goa,14490.0,46397,3642.6,3.205
+Maize,2013,Kharif     ,Karnataka,1246109.0,3950152,1235.6,3.165
+Maize,2013,Rabi       ,Karnataka,103879.0,318029,1235.6,2.988888889
+Maize,2013,Summer     ,Karnataka,27180.0,88183,1235.6,3.111724138
+Onion,2013,Kharif     ,Karnataka,112723.0,745697,1235.6,6.9688
+Onion,2013,Rabi       ,Karnataka,19940.0,140107,1235.6,7.312608696
+Onion,2013,Summer     ,Karnataka,5914.0,46434,1235.6,8.033333333
+Rice,2013,Kharif     ,Karnataka,1035111.0,3057894,1235.6,2.792666667
+Rice,2013,Rabi       ,Karnataka,40896.0,102639,1235.6,2.545833333
+Rice,2013,Summer     ,Karnataka,264028.0,892066,1235.6,3.022962963
+Wheat,2013,Rabi       ,Karnataka,209079.0,210041,1235.6,1.068571429
+Maize,2013,Whole Year ,Kerala,51.0,71,3255.4,1.445
+Onion,2013,Whole Year ,Kerala,103.0,0,3255.4,0.0
+Rice,2013,Autumn     ,Kerala,51922.0,141234,3255.4,2.416923077
+Rice,2013,Summer     ,Kerala,46865.0,137477,3255.4,2.673571429
+Rice,2013,Winter     ,Kerala,100824.0,285614,3255.4,2.506428571
+Maize,2013,Whole Year ,Meghalaya,18025.0,39655,2448.4,2.16
+Rice,2013,Autumn     ,Meghalaya,22569.0,48727,2448.4,2.448571429
+Rice,2013,Rabi       ,Meghalaya,13444.0,58685,2448.4,2.396363636
+Rice,2013,Winter     ,Meghalaya,46424.0,111289,2448.4,2.238571429
+Wheat,2013,Rabi       ,Meghalaya,422.0,789,2448.4,1.506
+Maize,2013,Kharif     ,Tamil Nadu,223113.0,1458297,740.9,6.161111111
+Maize,2013,Rabi       ,Tamil Nadu,157316.0,786919,740.9,5.431724138
+Onion,2013,Kharif     ,Tamil Nadu,9104.0,105866,740.9,11.31961538
+Onion,2013,Rabi       ,Tamil Nadu,15883.0,134505,740.9,8.304615385
+Rice,2013,Kharif     ,Tamil Nadu,1725730.0,7115195,740.9,4.491935484
+Maize,2014,Kharif     ,Andhra Pradesh,99863.0,328758,687.6,3.446923077
+Maize,2014,Rabi       ,Andhra Pradesh,203463.0,1609315,687.6,7.481538462
+Onion,2014,Kharif     ,Andhra Pradesh,29445.0,540640,687.6,17.84545455
+Onion,2014,Rabi       ,Andhra Pradesh,3983.0,85150,687.6,19.12090909
+Rice,2014,Kharif     ,Andhra Pradesh,1634921.0,5097447,687.6,3.184615385
+Rice,2014,Rabi       ,Andhra Pradesh,759034.0,3358137,687.6,3.541538462
+Wheat,2014,Rabi       ,Andhra Pradesh,320.0,256,687.6,1.02
+Maize,2014,Kharif     ,Assam,27953.0,93179,1899.0,2.96962963
+Onion,2014,Whole Year ,Assam,8283.0,32421,1899.0,3.382592593
+Rice,2014,Autumn     ,Assam,196188.0,280693,1899.0,1.531481481
+Rice,2014,Summer     ,Assam,416353.0,1224046,1899.0,2.613076923
+Rice,2014,Winter     ,Assam,1882756.0,3717906,1899.0,1.977777778
+Wheat,2014,Rabi       ,Assam,23646.0,28769,1899.0,1.199615385
+Rice,2014,Kharif     ,Goa,27840.0,81269,3491.2,2.925
+Rice,2014,Rabi       ,Goa,14130.0,39236,3491.2,2.775
+Maize,2014,Kharif     ,Karnataka,1210336.0,3788289,1238.5,3.134642857
+Maize,2014,Rabi       ,Karnataka,102820.0,347250,1238.5,3.191785714
+Maize,2014,Summer     ,Karnataka,23928.0,78040,1238.5,3.19
+Onion,2014,Kharif     ,Karnataka,165553.0,850280,1238.5,5.48
+Onion,2014,Rabi       ,Karnataka,13779.0,91319,1238.5,7.599090909
+Onion,2014,Summer     ,Karnataka,5782.0,28365,1238.5,5.114090909
+Rice,2014,Kharif     ,Karnataka,1000025.0,3057611,1238.5,2.812333333
+Rice,2014,Rabi       ,Karnataka,48096.0,118479,1238.5,2.493846154
+Rice,2014,Summer     ,Karnataka,278414.0,851657,1238.5,2.852
+Wheat,2014,Rabi       ,Karnataka,197615.0,260093,1238.5,1.289285714
+Maize,2014,Whole Year ,Kerala,67.0,69,3046.4,1.166666667
+Onion,2014,Whole Year ,Kerala,61.0,0,3046.4,0.0
+Rice,2014,Autumn     ,Kerala,63981.0,161477,3046.4,2.215384615
+Rice,2014,Summer     ,Kerala,45188.0,146165,3046.4,2.801428571
+Rice,2014,Winter     ,Kerala,88990.0,254450,3046.4,2.500714286
+Wheat,2014,Whole Year ,Kerala,1.0,3,3046.4,3.0
+Maize,2014,Whole Year ,Meghalaya,18037.0,40764,3484.4,2.214545455
+Onion,2014,Rabi       ,Meghalaya,499.0,4231,3484.4,8.006
+Rice,2014,Autumn     ,Meghalaya,33102.0,76631,3484.4,2.507272727
+Rice,2014,Rabi       ,Meghalaya,13620.0,62687,3484.4,2.505454545
+Rice,2014,Winter     ,Meghalaya,63601.0,158920,3484.4,2.319090909
+Wheat,2014,Rabi       ,Meghalaya,442.0,844,3484.4,1.568
+Maize,2014,Kharif     ,Tamil Nadu,191481.0,1663616,911.3,8.406538462
+Maize,2014,Rabi       ,Tamil Nadu,130471.0,984135,911.3,7.637586207
+Onion,2014,Kharif     ,Tamil Nadu,11835.0,100221,911.3,8.114074074
+Onion,2014,Rabi       ,Tamil Nadu,16270.0,140110,911.3,8.551111111
+Rice,2014,Kharif     ,Tamil Nadu,1794991.0,7949437,911.3,4.730322581
+Maize,2015,Kharif     ,Andhra Pradesh,75017.0,276205,940.7,3.876923077
+Maize,2015,Rabi       ,Andhra Pradesh,157628.0,1135482,940.7,5.915384615
+Onion,2015,Kharif     ,Andhra Pradesh,33867.0,573224,940.7,16.65909091
+Onion,2015,Rabi       ,Andhra Pradesh,7375.0,122524,940.7,14.99583333
+Rice,2015,Kharif     ,Andhra Pradesh,1398884.0,4115558,940.7,3.091538462
+Rice,2015,Rabi       ,Andhra Pradesh,761911.0,3402713,940.7,3.671538462
+Wheat,2015,Rabi       ,Andhra Pradesh,164.0,115,940.7,0.696666667
+Onion,2015,Summer     ,Puducherry,1.0,6,1980.6,6.0
+Rice,2015,Kharif     ,Puducherry,3817.0,12250,1980.6,2.273333333
+Rice,2015,Rabi       ,Puducherry,8505.0,19587,1980.6,2.47
+Rice,2015,Summer     ,Puducherry,3941.0,12049,1980.6,2.225
+Maize,2015,Kharif     ,Assam,28420.0,87175,2155.3,2.514074074
+Onion,2015,Whole Year ,Assam,8503.0,80339,2155.3,6.916296296
+Rice,2015,Autumn     ,Assam,191322.0,256729,2155.3,1.398888889
+Rice,2015,Summer     ,Assam,404982.0,1141336,2155.3,2.488076923
+Rice,2015,Winter     ,Assam,1888683.0,3727039,2155.3,1.965925926
+Wheat,2015,Rabi       ,Assam,20975.0,24489,2155.3,1.1756
+Maize,2015,Kharif     ,Meghalaya,18056.0,41242,3870.8,2.24
+Onion,2015,Rabi       ,Meghalaya,521.0,4595,3870.8,8.331
+Rice,2015,Autumn     ,Meghalaya,33136.0,77453,3870.8,2.551818182
+Rice,2015,Rabi       ,Meghalaya,13649.0,62901,3870.8,2.557272727
+Rice,2015,Winter     ,Meghalaya,63670.0,160722,3870.8,2.347272727
+Wheat,2015,Rabi       ,Meghalaya,448.0,875,3870.8,1.646
+Rice,2015,Kharif     ,Goa,27730.0,78489,2587.1,2.83
+Rice,2015,Rabi       ,Goa,13614.0,36579,2587.1,2.76
+Maize,2015,Kharif     ,Karnataka,1091587.0,2982667,1024.9,2.7225
+Maize,2015,Rabi       ,Karnataka,103950.0,258320,1024.9,2.544285714
+Maize,2015,Summer     ,Karnataka,24754.0,69486,1024.9,2.877407407
+Onion,2015,Kharif     ,Karnataka,173510.0,757715,1024.9,4.7168
+Onion,2015,Rabi       ,Karnataka,15694.0,88814,1024.9,6.207083333
+Onion,2015,Summer     ,Karnataka,6246.0,27006,1024.9,4.536666667
+Rice,2015,Kharif     ,Karnataka,977005.0,2641669,1024.9,2.525666667
+Rice,2015,Rabi       ,Karnataka,29329.0,71420,1024.9,2.456428571
+Rice,2015,Summer     ,Karnataka,103711.0,307524,1024.9,2.785769231
+Wheat,2015,Rabi       ,Karnataka,173856.0,128988,1024.9,0.854285714
+Maize,2015,Whole Year ,Kerala,59.0,74,2602.9,1.73
+Onion,2015,Whole Year ,Kerala,27.0,0,2602.9,0.0
+Rice,2015,Autumn     ,Kerala,60418.0,160894,2602.9,2.327692308
+Rice,2015,Summer     ,Kerala,47334.0,144706,2602.9,2.67
+Rice,2015,Winter     ,Kerala,89118.0,243675,2602.9,2.370714286
+Wheat,2015,Whole Year ,Kerala,2.0,3,2602.9,1.5
+Maize,2015,Kharif     ,Tamil Nadu,201750.0,1483163,1201.9,7.782
+Maize,2015,Rabi       ,Tamil Nadu,153314.0,1049167,1201.9,6.849655172
+Onion,2015,Kharif     ,Tamil Nadu,16013.0,154375,1201.9,9.524166667
+Onion,2015,Rabi       ,Tamil Nadu,19796.0,128339,1201.9,6.711071429
+Rice,2015,Kharif     ,Tamil Nadu,2000212.0,7374681,1201.9,4.061290323
+Maize,2016,Kharif     ,Andhra Pradesh,85501.0,354764,890.0,3.907692308
+Maize,2016,Rabi       ,Andhra Pradesh,164778.0,1298137,890.0,6.493846154
+Onion,2016,Kharif     ,Andhra Pradesh,32006.0,555944,890.0,21.05416667
+Onion,2016,Rabi       ,Andhra Pradesh,3511.0,77209,890.0,22.11
+Rice,2016,Kharif     ,Andhra Pradesh,1519656.0,5233690,890.0,3.361538462
+Rice,2016,Rabi       ,Andhra Pradesh,585363.0,2768647,890.0,3.727692308
+Wheat,2016,Rabi       ,Andhra Pradesh,33.0,76,890.0,2.155
+Onion,2016,Summer     ,Puducherry,1.0,5,1391.3,5.0
+Rice,2016,Kharif     ,Puducherry,3693.0,13151,1391.3,3.24
+Rice,2016,Rabi       ,Puducherry,8412.0,23024,1391.3,3.436666667
+Rice,2016,Summer     ,Puducherry,4100.0,15989,1391.3,2.535
+Maize,2016,Kharif     ,Assam,31333.0,91219,2296.8,2.545925926
+Onion,2016,Whole Year ,Assam,8266.0,81282,2296.8,7.141111111
+Rice,2016,Autumn     ,Assam,168044.0,228206,2296.8,1.405185185
+Rice,2016,Summer     ,Assam,408132.0,1131872,2296.8,2.412692308
+Rice,2016,Winter     ,Assam,1890960.0,3767357,2296.8,1.996666667
+Wheat,2016,Rabi       ,Assam,17452.0,23459,2296.8,1.2684
+Maize,2016,Kharif     ,Meghalaya,18128.0,41543,3837.1,2.245454545
+Onion,2016,Rabi       ,Meghalaya,551.0,4939,3837.1,8.427
+Rice,2016,Autumn     ,Meghalaya,33646.0,78965,3837.1,2.552727273
+Rice,2016,Rabi       ,Meghalaya,13670.0,63373,3837.1,2.573636364
+Rice,2016,Winter     ,Meghalaya,63862.0,162180,3837.1,2.359090909
+Wheat,2016,Rabi       ,Meghalaya,456.0,878,3837.1,1.632
+Rice,2016,Kharif     ,Goa,27630.0,77109,3266.9,2.795
+Rice,2016,Rabi       ,Goa,13193.0,36118,3266.9,2.745
+Maize,2016,Kharif     ,Karnataka,1262641.0,2988982,1147.2,2.6025
+Maize,2016,Rabi       ,Karnataka,87280.0,262415,1147.2,2.6956
+Maize,2016,Summer     ,Karnataka,20282.0,62889,1147.2,3.482222222
+Onion,2016,Kharif     ,Karnataka,183065.0,1314804,1147.2,7.5872
+Onion,2016,Rabi       ,Karnataka,14675.0,210164,1147.2,13.12625
+Onion,2016,Summer     ,Karnataka,3231.0,47561,1147.2,14.20695652
+Rice,2016,Kharif     ,Karnataka,942025.0,2611754,1147.2,2.529666667
+Rice,2016,Rabi       ,Karnataka,18686.0,49615,1147.2,2.525333333
+Rice,2016,Summer     ,Karnataka,73832.0,212837,1147.2,2.852692308
+Wheat,2016,Rabi       ,Karnataka,168242.0,171429,1147.2,0.944285714
+Maize,2016,Whole Year ,Kerala,65.0,68,2924.3,1.775
+Onion,2016,Whole Year ,Kerala,31.0,0,2924.3,0.0
+Rice,2016,Autumn     ,Kerala,56601.0,167181,2924.3,2.524615385
+Rice,2016,Summer     ,Kerala,42544.0,127905,2924.3,2.534285714
+Rice,2016,Winter     ,Kerala,72253.0,141397,2924.3,2.102142857
+Wheat,2016,Whole Year ,Kerala,1.0,1,2924.3,1.0
+Maize,2016,Kharif     ,Tamil Nadu,169144.0,770221,912.4,4.682222222
+Maize,2016,Rabi       ,Tamil Nadu,145886.0,183156,912.4,1.654827586
+Onion,2016,Kharif     ,Tamil Nadu,13602.0,141117,912.4,10.27692308
+Onion,2016,Rabi       ,Tamil Nadu,17597.0,89105,912.4,5.267407407
+Rice,2016,Kharif     ,Tamil Nadu,1442841.0,3554113,912.4,3.068387097
+Maize,2017,Kharif     ,Andhra Pradesh,107276.0,501801,868.2,4.422307692
+Maize,2017,Rabi       ,Andhra Pradesh,229264.0,1824103,868.2,7.576153846
+Onion,2017,Kharif     ,Andhra Pradesh,17336.0,662728,868.2,381.42
+Onion,2017,Rabi       ,Andhra Pradesh,7382.0,249866,868.2,44.62
+Rice,2017,Kharif     ,Andhra Pradesh,1476928.0,4941933,868.2,3.25
+Rice,2017,Rabi       ,Andhra Pradesh,741258.0,3519409,868.2,3.887692308
+Wheat,2017,Kharif     ,Andhra Pradesh,11.0,8,868.2,0.85
+Wheat,2017,Rabi       ,Andhra Pradesh,38.0,27,868.2,0.716666667
+Onion,2017,Kharif     ,Puducherry,2.0,10,1582.4,5.0
+Onion,2017,Summer     ,Puducherry,1.0,5,1582.4,5.0
+Rice,2017,Kharif     ,Puducherry,4325.0,15281,1582.4,3.256666667
+Rice,2017,Rabi       ,Puducherry,8749.0,25188,1582.4,3.27
+Rice,2017,Summer     ,Puducherry,4297.0,15518,1582.4,2.85
+Maize,2017,Kharif     ,Assam,31537.0,98783,2098.563636,2.989259259
+Onion,2017,Whole Year ,Assam,8338.0,80374,2098.563636,7.297037037
+Rice,2017,Autumn     ,Assam,154511.0,209349,2098.563636,1.418148148
+Rice,2017,Summer     ,Assam,400402.0,1191244,2098.563636,2.704615385
+Rice,2017,Winter     ,Assam,1878798.0,3883120,2098.563636,2.063703704
+Wheat,2017,Rabi       ,Assam,17786.0,24658,2098.563636,1.3388
+Maize,2017,Kharif     ,Meghalaya,18152.0,41624,4472.3,2.246363636
+Onion,2017,Rabi       ,Meghalaya,551.0,4939,4472.3,8.427
+Rice,2017,Autumn     ,Meghalaya,33575.0,78848,4472.3,2.551818182
+Rice,2017,Rabi       ,Meghalaya,13683.0,63428,4472.3,2.576363636
+Rice,2017,Winter     ,Meghalaya,63883.0,162272,4472.3,2.36
+Wheat,2017,Rabi       ,Meghalaya,460.0,887,4472.3,1.636
+Rice,2017,Kharif     ,Goa,27219.0,71279,2772.5,2.635
+Rice,2017,Rabi       ,Goa,11301.0,31718,2772.5,2.855
+Maize,2017,Kharif     ,Karnataka,1183334.0,5150460,1111.7,4.282857143
+Maize,2017,Rabi       ,Karnataka,100156.0,371937,1111.7,3.7392
+Maize,2017,Summer     ,Karnataka,23518.0,88268,1111.7,3.739230769
+Onion,2017,Kharif     ,Karnataka,117973.0,1302084,1111.7,11.2825
+Onion,2017,Rabi       ,Karnataka,21870.0,310093,1111.7,13.49416667
+Onion,2017,Summer     ,Karnataka,5651.0,68169,1111.7,11.80772727
+Rice,2017,Kharif     ,Karnataka,737547.0,2123100,1111.7,2.9
+Rice,2017,Rabi       ,Karnataka,30634.0,81726,1111.7,2.773076923
+Rice,2017,Summer     ,Karnataka,224744.0,702645,1111.7,3.063703704
+Wheat,2017,Rabi       ,Karnataka,193338.0,219087,1111.7,1.065333333
+Maize,2017,Whole Year ,Kerala,70.66,160,2664.8,1.1775
+Onion,2017,Whole Year ,Kerala,9.0,0,2664.8,0.0
+Rice,2017,Autumn     ,Kerala,58278.0,148913,2664.8,2.217692308
+Rice,2017,Summer     ,Kerala,49693.0,153463,2664.8,2.733571429
+Rice,2017,Winter     ,Kerala,81115.0,218934,2664.8,2.483571429
+Wheat,2017,Whole Year ,Kerala,1.0,1,2664.8,1.0
+Maize,2017,Kharif     ,Tamil Nadu,166195.0,1532106,970.9,8.962
+Maize,2017,Rabi       ,Tamil Nadu,158323.0,1059526,970.9,6.956785714
+Onion,2017,Kharif     ,Tamil Nadu,6293.0,61084,970.9,9.714166667
+Onion,2017,Rabi       ,Tamil Nadu,16518.0,153558,970.9,9.684074074
+Rice,2017,Autumn     ,Tamil Nadu,235255.0,906616,970.9,3.967857143
+Rice,2017,Summer     ,Tamil Nadu,276272.0,1234550,970.9,4.451428571
+Rice,2017,Winter     ,Tamil Nadu,1317338.0,4497284,970.9,4.139
+Maize,2018,Kharif     ,Andhra Pradesh,104370.0,431440,1220.5,3.716923077
+Maize,2018,Rabi       ,Andhra Pradesh,161853.0,1131719,1220.5,5.788461538
+Onion,2018,Kharif     ,Andhra Pradesh,24750.0,677050,1220.5,247.5727273
+Onion,2018,Rabi       ,Andhra Pradesh,5021.0,299805,1220.5,80.268
+Rice,2018,Kharif     ,Andhra Pradesh,1563887.0,5243250,1220.5,3.263846154
+Rice,2018,Rabi       ,Andhra Pradesh,644417.0,2991289,1220.5,3.699230769
+Wheat,2018,Rabi       ,Andhra Pradesh,102.0,19,1220.5,0.095
+Onion,2018,Kharif     ,Puducherry,1.0,3,1693.9,3.0
+Onion,2018,Summer     ,Puducherry,1.0,6,1693.9,6.0
+Rice,2018,Kharif     ,Puducherry,4298.0,16082,1693.9,3.373333333
+Rice,2018,Rabi       ,Puducherry,9048.0,30635,1693.9,3.976666667
+Rice,2018,Summer     ,Puducherry,4515.0,16626,1693.9,2.885
+Maize,2018,Kharif     ,Assam,32264.0,105003,2372.9,2.868518519
+Onion,2018,Whole Year ,Assam,8211.0,84835,2372.9,7.455185185
+Rice,2018,Autumn     ,Assam,144766.0,209122,2372.9,1.492592593
+Rice,2018,Summer     ,Assam,400873.0,1145512,2372.9,2.645
+Rice,2018,Winter     ,Assam,1879539.0,4082738,2372.9,2.15
+Wheat,2018,Rabi       ,Assam,16945.0,23693,2372.9,1.371666667
+Maize,2018,Kharif     ,Meghalaya,18163.0,41667,5649.1,2.246363636
+Onion,2018,Rabi       ,Meghalaya,557.0,4997,5649.1,8.429
+Rice,2018,Autumn     ,Meghalaya,33494.0,78214,5649.1,2.545454545
+Rice,2018,Rabi       ,Meghalaya,13624.0,63050,5649.1,2.569090909
+Rice,2018,Winter     ,Meghalaya,63814.0,161706,5649.1,2.352727273
+Wheat,2018,Rabi       ,Meghalaya,462.0,892,5649.1,1.638
+Rice,2018,Kharif     ,Goa,25841.0,70272,4406.0,2.72
+Rice,2018,Rabi       ,Goa,10543.0,28582,4406.0,2.72
+Maize,2018,Kharif     ,Karnataka,1296051.0,3407725,1419.1,2.882413793
+Maize,2018,Rabi       ,Karnataka,93618.0,317479,1419.1,3.1972
+Maize,2018,Summer     ,Karnataka,19621.0,67607,1419.1,3.2775
+Onion,2018,Kharif     ,Karnataka,193156.0,1462077,1419.1,8.4024
+Onion,2018,Rabi       ,Karnataka,16788.0,222577,1419.1,12.06083333
+Onion,2018,Summer     ,Karnataka,3665.0,38682,1419.1,10.361
+Rice,2018,Kharif     ,Karnataka,1037158.0,2949318,1419.1,2.637
+Rice,2018,Rabi       ,Karnataka,11442.0,28334,1419.1,2.480833333
+Rice,2018,Summer     ,Karnataka,150993.0,484330,1419.1,2.9272
+Wheat,2018,Rabi       ,Karnataka,157525.0,163113,1419.1,0.960740741
+Maize,2018,Whole Year ,Kerala,104.326,145,2989.7,4.508
+Onion,2018,Whole Year ,Kerala,5.21,0,2989.7,0.0
+Rice,2018,Autumn     ,Kerala,60718.46,101943,2989.7,1.565384615
+Rice,2018,Summer     ,Kerala,48858.28,196784,2989.7,3.09
+Rice,2018,Winter     ,Kerala,88449.47,279529,2989.7,2.684285714
+Wheat,2018,Whole Year ,Kerala,1.4,2,2989.7,1.45
+Maize,2018,Kharif     ,Tamil Nadu,168944.0,1283603,986.2,7.625384615
+Maize,2018,Rabi       ,Tamil Nadu,221658.0,1550834,986.2,6.984
+Onion,2018,Kharif     ,Tamil Nadu,12414.0,108888,986.2,8.912692308
+Onion,2018,Rabi       ,Tamil Nadu,19273.0,109707,986.2,5.878518519
+Rice,2018,Autumn     ,Tamil Nadu,279647.0,1198496,986.2,4.184827586
+Rice,2018,Summer     ,Tamil Nadu,236904.0,992095,986.2,3.997333333
+Rice,2018,Winter     ,Tamil Nadu,1204714.0,3940959,986.2,3.749032258
+Maize,2019,Kharif     ,Andhra Pradesh,95591.0,450932,899.2,4.653076923
+Maize,2019,Rabi       ,Andhra Pradesh,205100.0,1670288,899.2,6.698461538
+Onion,2019,Kharif     ,Andhra Pradesh,23864.0,524198,899.2,22.22444444
+Onion,2019,Rabi       ,Andhra Pradesh,12250.0,256890,899.2,21.7675
+Rice,2019,Kharif     ,Andhra Pradesh,1526425.0,5342033,899.2,3.517692308
+Rice,2019,Rabi       ,Andhra Pradesh,829557.0,3798058,899.2,3.873076923
+Wheat,2019,Rabi       ,Andhra Pradesh,37.0,11,899.2,0.155
+Onion,2019,Kharif     ,Puducherry,2.0,10,1317.0,5.0
+Onion,2019,Summer     ,Puducherry,1.0,5,1317.0,5.0
+Rice,2019,Kharif     ,Puducherry,4323.0,15171,1317.0,3.216666667
+Rice,2019,Rabi       ,Puducherry,9397.0,28114,1317.0,3.883333333
+Rice,2019,Summer     ,Puducherry,4518.0,16060,1317.0,3.55
+Maize,2019,Kharif     ,Assam,36636.0,128036,2084.7,3.155555556
+Onion,2019,Whole Year ,Assam,8155.0,88892,2084.7,8.022962963
+Rice,2019,Autumn     ,Assam,127223.0,193215,2084.7,1.464814815
+Rice,2019,Summer     ,Assam,395518.0,1025571,2084.7,2.492307692
+Rice,2019,Winter     ,Assam,1878208.0,3996018,2084.7,2.137037037
+Wheat,2019,Rabi       ,Assam,11336.0,14430,2084.7,1.272083333
+Maize,2019,Kharif     ,Meghalaya,18174.0,41760,3844.4,2.254545455
+Onion,2019,Rabi       ,Meghalaya,561.0,5037,3844.4,8.431
+Rice,2019,Autumn     ,Meghalaya,33480.0,78074,3844.4,2.510909091
+Rice,2019,Rabi       ,Meghalaya,13628.0,63081,3844.4,2.57
+Rice,2019,Winter     ,Meghalaya,63889.0,162321,3844.4,2.36
+Wheat,2019,Rabi       ,Meghalaya,464.0,898,3844.4,1.638
+Rice,2019,Kharif     ,Goa,24411.0,60556,4489.5,2.475
+Rice,2019,Rabi       ,Goa,10287.0,29819,4489.5,2.95
+Maize,2019,Kharif     ,Karnataka,1355321.0,4228095,1422.3,3.572068966
+Maize,2019,Rabi       ,Karnataka,114070.0,394898,1422.3,3.466785714
+Maize,2019,Summer     ,Karnataka,31000.0,122718,1422.3,3.905357143
+Onion,2019,Kharif     ,Karnataka,155401.0,1255733,1422.3,8.256153846
+Onion,2019,Rabi       ,Karnataka,36940.0,515416,1422.3,13.21884615
+Onion,2019,Summer     ,Karnataka,10300.0,119070,1422.3,11.37333333
+Rice,2019,Kharif     ,Karnataka,964087.0,3088937,1422.3,2.924
+Rice,2019,Rabi       ,Karnataka,11266.0,31038,1422.3,2.881428571
+Rice,2019,Summer     ,Karnataka,272701.0,827998,1422.3,2.86862069
+Wheat,2019,Rabi       ,Karnataka,158319.0,180114,1422.3,1.08125
+Maize,2019,Whole Year ,Kerala,113.0,140,3119.2,1.82
+Rice,2019,Autumn     ,Kerala,55895.0,145076,3119.2,1.949230769
+Rice,2019,Summer     ,Kerala,61006.0,212586,3119.2,2.815714286
+Rice,2019,Winter     ,Kerala,81279.0,247879,3119.2,2.503571429
+Wheat,2019,Whole Year ,Kerala,1.0,2,3119.2,2.0
+Maize,2019,Kharif     ,Tamil Nadu,168587.0,1506526,910.1,8.614827586
+Maize,2019,Rabi       ,Tamil Nadu,164978.0,1108221,910.1,6.841666667
+Onion,2019,Kharif     ,Tamil Nadu,11137.0,101952,910.1,9.088148148
+Onion,2019,Rabi       ,Tamil Nadu,22663.0,159883,910.1,7.237407407
+Rice,2019,Autumn     ,Tamil Nadu,206535.0,847692,910.1,4.077241379
+Rice,2019,Summer     ,Tamil Nadu,339990.0,1463054,910.1,4.095
+Rice,2019,Winter     ,Tamil Nadu,1360882.0,4954415,910.1,3.818387097
+Maize,2001,Autumn     ,Bihar,244793.0,396864,1247.0,1.768108108
+Maize,2001,Rabi       ,Bihar,187399.0,622294,1247.0,2.911818182
+Maize,2001,Summer     ,Bihar,149864.0,388209,1247.0,2.469189189
+Onion,2001,Whole Year ,Bihar,14083.0,134445,1247.0,10.47351351
+Rice,2001,Autumn     ,Bihar,2844474.0,4354156,1247.0,1.409189189
+Rice,2001,Kharif     ,Bihar,126106.0,243661,1247.0,1.792903226
+Rice,2001,Summer     ,Bihar,593959.0,703404,1247.0,1.098275862
+Wheat,2001,Rabi       ,Bihar,2181543.0,4499130,1247.0,1.977567568
+Maize,2001,Kharif     ,Chhattisgarh,93820.0,69708,1550.0,0.75375
+Onion,2001,Whole Year ,Chhattisgarh,3836.0,33857,1550.0,8.872
+Rice,2001,Kharif     ,Chhattisgarh,3810112.0,5073721,1550.0,1.34375
+Wheat,2001,Rabi       ,Chhattisgarh,97861.0,103480,1550.0,1.195
+Maize,2001,Kharif     ,Gujarat,443500.0,884600,666.5,2.108666667
+Onion,2001,Whole Year ,Gujarat,24200.0,638700,666.5,29.52625
+Rice,2001,Kharif     ,Gujarat,664000.0,1028700,666.5,1.533571429
+Rice,2001,Summer     ,Gujarat,3800.0,11500,666.5,2.935
+Wheat,2001,Rabi       ,Gujarat,470100.0,1144700,666.5,2.474736842
+Maize,2001,Kharif     ,Haryana,17944.0,47000,483.8,1.051764706
+Onion,2001,Whole Year ,Haryana,3554.0,46600,483.8,13.56916667
+Rice,2001,Kharif     ,Haryana,1027505.0,2726000,483.8,2.645555556
+Wheat,2001,Rabi       ,Haryana,2299876.0,9437000,483.8,3.979473684
+Maize,2001,Kharif     ,Himachal Pradesh,301282.0,668228,918.1,2.463333333
+Onion,2001,Whole Year ,Himachal Pradesh,1112.0,11045,918.1,8.397777778
+Rice,2001,Kharif     ,Himachal Pradesh,80579.0,137418,918.1,1.654545455
+Wheat,2001,Rabi       ,Himachal Pradesh,366518.0,637068,918.1,1.72
+Maize,2001,Kharif     ,Madhya Pradesh,843065.0,1672641,955.0,1.943555556
+Onion,2001,Whole Year ,Madhya Pradesh,23057.0,324596,955.0,13.41155556
+Rice,2001,Kharif     ,Madhya Pradesh,1766150.0,1685799,955.0,0.849333333
+Wheat,2001,Rabi       ,Madhya Pradesh,3691707.0,5993596,955.0,1.654888889
+Maize,2001,Kharif     ,Maharashtra,254500.0,459110,1035.8,1.910769231
+Maize,2001,Rabi       ,Maharashtra,63100.0,116100,1035.8,1.887142857
+Maize,2001,Summer     ,Maharashtra,8500.0,11700,1035.8,1.293529412
+Rice,2001,Kharif     ,Maharashtra,1487200.0,2590400,1035.8,1.261875
+Rice,2001,Summer     ,Maharashtra,26800.0,60800,1035.8,2.192
+Wheat,2001,Rabi       ,Maharashtra,776000.0,1077400,1035.8,1.313793103
+Maize,2001,Kharif     ,Mizoram,5493.0,13758,2406.4,2.076666667
+Maize,2001,Rabi       ,Mizoram,1884.0,2887,2406.4,1.6025
+Rice,2001,Kharif     ,Mizoram,55880.0,105713,2406.4,1.825
+Maize,2001,Kharif     ,Nagaland,45000.0,90000,1532.0,2.025
+Rice,2001,Kharif     ,Nagaland,155000.0,235000,1532.0,1.485
+Rice,2001,Rabi       ,Nagaland,1500.0,2000,1532.0,1.76
+Wheat,2001,Rabi       ,Nagaland,6000.0,12350,1532.0,2.04
+Maize,2001,Kharif     ,Odisha,51428.0,46658,1672.5,0.714615385
+Onion,2001,Whole Year ,Odisha,19410.0,173430,1672.5,8.714333333
+Rice,2001,Kharif     ,Odisha,4500000.0,7220000,1672.5,1.583666667
+Wheat,2001,Rabi       ,Odisha,6976.0,10565,1672.5,1.1288
+Maize,2001,Kharif     ,Punjab,165000.0,449000,479.3,2.7625
+Rice,2001,Kharif     ,Punjab,2487000.0,8816000,479.3,3.517058824
+Wheat,2001,Rabi       ,Punjab,3420000.0,15499000,479.3,4.487058824
+Rice,2001,Kharif     ,Tamil Nadu,2059878.0,6583630,481.3,3.532857143
+Maize,2001,Kharif     ,Uttar Pradesh,913718.0,1488204,849.9,1.500869565
+Maize,2001,Rabi       ,Uttar Pradesh,17419.0,28376,849.9,1.63516129
+Rice,2001,Kharif     ,Uttar Pradesh,6068496.0,12849116,849.9,2.016086957
+Rice,2001,Summer     ,Uttar Pradesh,2829.0,6741,849.9,2.097777778
+Wheat,2001,Rabi       ,Uttar Pradesh,9255937.0,25498002,849.9,2.729565217
+Maize,2001,Kharif     ,Uttarakhand,32938.0,40682,1541.3,1.185384615
+Maize,2001,Rabi       ,Uttarakhand,125.0,183,1541.3,1.1
+Onion,2001,Whole Year ,Uttarakhand,1642.0,8089,1541.3,6.451538462
+Rice,2001,Kharif     ,Uttarakhand,280816.0,567662,1541.3,1.608461538
+Rice,2001,Rabi       ,Uttarakhand,3761.0,11855,1541.3,2.2625
+Wheat,2001,Rabi       ,Uttarakhand,375967.0,721618,1541.3,1.616153846
+Maize,2002,Autumn     ,Bihar,255035.0,428182,1105.8,1.757567568
+Maize,2002,Rabi       ,Bihar,187707.0,520263,1105.8,2.553513514
+Maize,2002,Summer     ,Bihar,160863.0,432637,1105.8,2.609459459
+Onion,2002,Whole Year ,Bihar,13589.0,116759,1105.8,8.524054054
+Rice,2002,Autumn     ,Bihar,583274.0,682933,1105.8,1.060714286
+Rice,2002,Summer     ,Bihar,120354.0,197607,1105.8,1.625517241
+Rice,2002,Winter     ,Bihar,2881073.0,4205026,1105.8,1.345945946
+Wheat,2002,Rabi       ,Bihar,2130933.0,4040610,1105.8,1.844054054
+Maize,2002,Kharif     ,Chhattisgarh,93955.0,122611,1001.4,1.279375
+Onion,2002,Whole Year ,Chhattisgarh,4145.0,34830,1001.4,8.068
+Rice,2002,Kharif     ,Chhattisgarh,3777661.0,2634853,1001.4,0.710625
+Wheat,2002,Rabi       ,Chhattisgarh,93846.0,98592,1001.4,1.185
+Maize,2002,Kharif     ,Gujarat,464500.0,792600,458.4,1.671875
+Onion,2002,Whole Year ,Gujarat,25000.0,715400,458.4,28.60875
+Rice,2002,Kharif     ,Gujarat,469000.0,541700,458.4,1.209230769
+Rice,2002,Summer     ,Gujarat,11800.0,54700,458.4,4.53
+Wheat,2002,Rabi       ,Gujarat,435600.0,856600,458.4,2.185789474
+Maize,2002,Kharif     ,Haryana,15886.0,29000,353.9,0.478333333
+Onion,2002,Whole Year ,Haryana,1609.0,36000,353.9,19.29692308
+Rice,2002,Kharif     ,Haryana,905651.0,2468000,353.9,2.495
+Wheat,2002,Rabi       ,Haryana,2267140.0,9188000,353.9,3.947894737
+Maize,2002,Kharif     ,Himachal Pradesh,299801.0,483333,890.8,1.6075
+Onion,2002,Whole Year ,Himachal Pradesh,807.0,4541,890.8,5.328
+Rice,2002,Kharif     ,Himachal Pradesh,83273.0,85653,890.8,1.133636364
+Wheat,2002,Rabi       ,Himachal Pradesh,359439.0,495558,890.8,1.389166667
+Maize,2002,Kharif     ,Karnataka,578711.0,1165155,860.8,2.174
+Maize,2002,Rabi       ,Karnataka,59503.0,149203,860.8,2.483181818
+Maize,2002,Summer     ,Karnataka,11330.0,28584,860.8,2.472173913
+Onion,2002,Whole Year ,Karnataka,114975.0,535821,860.8,7.0436
+Rice,2002,Kharif     ,Karnataka,1030464.0,2103709,860.8,2.035185185
+Rice,2002,Rabi       ,Karnataka,50456.0,102312,860.8,2.000666667
+Rice,2002,Summer     ,Karnataka,73863.0,184064,860.8,2.378
+Wheat,2002,Rabi       ,Karnataka,246855.0,147748,860.8,0.572142857
+Maize,2002,Kharif     ,Madhya Pradesh,848970.0,1486546,800.8,1.662
+Onion,2002,Whole Year ,Madhya Pradesh,24620.0,344975,800.8,12.75155556
+Rice,2002,Kharif     ,Madhya Pradesh,1671107.0,1024930,800.8,0.608
+Wheat,2002,Rabi       ,Madhya Pradesh,3369481.0,4916044,800.8,1.500666667
+Maize,2002,Kharif     ,Maharashtra,301200.0,629700,967.4,1.725185185
+Maize,2002,Rabi       ,Maharashtra,61700.0,100100,967.4,1.382727273
+Maize,2002,Summer     ,Maharashtra,8300.0,13500,967.4,1.386315789
+Rice,2002,Kharif     ,Maharashtra,1496800.0,1793000,967.4,0.8903125
+Rice,2002,Summer     ,Maharashtra,26500.0,61100,967.4,2.288
+Wheat,2002,Rabi       ,Maharashtra,759800.0,983900,967.4,1.234333333
+Maize,2002,Kharif     ,Meghalaya,16922.0,25879,4355.3,1.527142857
+Rice,2002,Kharif     ,Meghalaya,107742.0,190937,4355.3,1.767142857
+Wheat,2002,Rabi       ,Meghalaya,2714.0,4745,4355.3,1.455
+Maize,2002,Kharif     ,Mizoram,6889.0,13820,2627.0,1.89
+Maize,2002,Rabi       ,Mizoram,600.0,1059,2627.0,1.695
+Rice,2002,Kharif     ,Mizoram,57067.0,109205,2627.0,1.89
+Maize,2002,Kharif     ,Nagaland,40000.0,80000,1536.6,2.02875
+Rice,2002,Kharif     ,Nagaland,150000.0,223400,1536.6,1.46375
+Wheat,2002,Rabi       ,Nagaland,7650.0,15820,1536.6,2.0775
+Maize,2002,Kharif     ,Odisha,43100.0,42400,1102.8,0.9248
+Onion,2002,Whole Year ,Odisha,26410.0,238790,1102.8,8.852666667
+Rice,2002,Kharif     ,Odisha,4273000.0,3278000,1102.8,0.753333333
+Wheat,2002,Rabi       ,Odisha,4627.0,5767,1102.8,1.133636364
+Maize,2002,Kharif     ,Punjab,152000.0,310000,301.8,2.083333333
+Rice,2002,Kharif     ,Punjab,2530000.0,8880000,301.8,3.438823529
+Wheat,2002,Rabi       ,Punjab,3375000.0,14175000,301.8,4.13
+Maize,2002,Kharif     ,Uttarakhand,28506.0,32127,1610.3,1.043076923
+Maize,2002,Rabi       ,Uttarakhand,82.0,127,1610.3,1.455
+Onion,2002,Rabi       ,Uttarakhand,8497.0,87690,1610.3,10.32
+Onion,2002,Summer     ,Uttarakhand,11216.0,125394,1610.3,11.18
+Onion,2002,Whole Year ,Uttarakhand,1920.0,8839,1610.3,6.455384615
+Rice,2002,Kharif     ,Uttarakhand,271219.0,511526,1610.3,1.461538462
+Rice,2002,Rabi       ,Uttarakhand,4090.0,11649,1610.3,2.8
+Wheat,2002,Rabi       ,Uttarakhand,374802.0,721653,1610.3,1.650769231
+Maize,2002,Autumn     ,Jharkhand,62780.33,74310,1041.2,1.203571429
+Rice,2002,Autumn     ,Jharkhand,136359.61,89082,1041.2,1.516666667
+Rice,2002,Winter     ,Jharkhand,922658.68,974008,1041.2,1.062222222
+Wheat,2002,Rabi       ,Jharkhand,57203.69,78365,1041.2,1.42125
+Maize,2003,Kharif     ,Bihar,259030.0,438013,1353.9,1.68
+Maize,2003,Rabi       ,Bihar,196338.0,594736,1353.9,2.925945946
+Maize,2003,Summer     ,Bihar,161062.0,440821,1353.9,2.775
+Onion,2003,Whole Year ,Bihar,14545.0,137965,1353.9,9.284736842
+Rice,2003,Autumn     ,Bihar,553904.0,688189,1353.9,1.141666667
+Rice,2003,Kharif     ,Bihar,190236.0,270831,1353.9,1.42
+Rice,2003,Summer     ,Bihar,116885.0,169902,1353.9,1.324642857
+Rice,2003,Winter     ,Bihar,2907199.0,4589705,1353.9,1.456315789
+Wheat,2003,Rabi       ,Bihar,2076839.0,3688941,1353.9,1.747105263
+Maize,2003,Kharif     ,Chhattisgarh,98575.0,135048,1643.7,1.20625
+Onion,2003,Whole Year ,Chhattisgarh,4441.0,32548,1643.7,7.334
+Rice,2003,Kharif     ,Chhattisgarh,3828992.0,5567644,1643.7,1.4375
+Wheat,2003,Rabi       ,Chhattisgarh,106109.0,113138,1643.7,1.20875
+Maize,2003,Kharif     ,Delhi,93.0,184,962.3,1.98
+Rice,2003,Kharif     ,Delhi,6549.0,17909,962.3,2.73
+Wheat,2003,Rabi       ,Delhi,18973.0,82893,962.3,4.37
+Maize,2003,Kharif     ,Gujarat,484400.0,831900,902.5,1.825
+Onion,2003,Whole Year ,Gujarat,49100.0,1474600,902.5,31.65611111
+Rice,2003,Kharif     ,Gujarat,651400.0,1193200,902.5,1.7125
+Rice,2003,Summer     ,Gujarat,23900.0,83800,902.5,3.565714286
+Wheat,2003,Rabi       ,Gujarat,759500.0,2036500,902.5,2.68875
+Maize,2003,Kharif     ,Haryana,16570.0,41000,592.3,0.960588235
+Onion,2003,Whole Year ,Haryana,3319.0,80700,592.3,21.084
+Rice,2003,Kharif     ,Haryana,1015191.0,2790000,592.3,2.733333333
+Wheat,2003,Rabi       ,Haryana,2315496.0,9114000,592.3,3.825789474
+Maize,2003,Autumn     ,Jharkhand,89591.91,136371,1258.3,1.39
+Onion,2003,Whole Year ,Jharkhand,1137.98,9198,1258.3,9.12
+Rice,2003,Autumn     ,Jharkhand,614160.1,418254,1258.3,0.74
+Rice,2003,Winter     ,Jharkhand,1437560.59,1525099,1258.3,0.998636364
+Wheat,2003,Rabi       ,Jharkhand,60269.7,80183,1258.3,1.360909091
+Maize,2003,Kharif     ,Madhya Pradesh,898618.0,1858342,1163.0,1.916041667
+Onion,2003,Whole Year ,Madhya Pradesh,30958.0,416137,1163.0,12.86875
+Rice,2003,Kharif     ,Madhya Pradesh,1708583.0,1743430,1163.0,0.997916667
+Wheat,2003,Rabi       ,Madhya Pradesh,4078974.0,7357255,1163.0,1.797916667
+Maize,2003,Kharif     ,Maharashtra,311800.0,671000,1037.4,1.724444444
+Maize,2003,Rabi       ,Maharashtra,57900.0,81100,1037.4,1.689130435
+Onion,2003,Whole Year ,Maharashtra,133622.0,1663240,1037.4,12.44846154
+Rice,2003,Kharif     ,Maharashtra,1500400.0,2768600,1037.4,1.232258065
+Rice,2003,Summer     ,Maharashtra,29500.0,65500,1037.4,2.217
+Wheat,2003,Rabi       ,Maharashtra,664700.0,778200,1037.4,1.171666667
+Maize,2003,Kharif     ,Manipur,2340.0,7530,687.7,2.76
+Onion,2003,Whole Year ,Manipur,970.0,2060,687.7,2.068333333
+Rice,2003,Kharif     ,Manipur,157830.0,381240,687.7,2.305555556
+Maize,2003,Kharif     ,Mizoram,9765.0,19005,2499.5,1.981666667
+Maize,2003,Rabi       ,Mizoram,716.0,1277,2499.5,1.802
+Rice,2003,Kharif     ,Mizoram,59196.0,114630,2499.5,1.925
+Maize,2003,Kharif     ,Nagaland,45000.0,78000,1709.8,1.69125
+Maize,2003,Rabi       ,Nagaland,140.0,260,1709.8,1.71
+Rice,2003,Kharif     ,Nagaland,155000.0,220990,1709.8,1.36
+Rice,2003,Rabi       ,Nagaland,1000.0,2000,1709.8,1.945
+Wheat,2003,Rabi       ,Nagaland,10000.0,19500,1709.8,1.86625
+Maize,2003,Kharif     ,Odisha,55549.0,78744,1648.2,0.887307692
+Maize,2003,Rabi       ,Odisha,13760.0,18180,1648.2,1.32
+Onion,2003,Whole Year ,Odisha,26550.0,240340,1648.2,8.845666667
+Rice,2003,Kharif     ,Odisha,4501000.0,6801000,1648.2,1.516333333
+Wheat,2003,Rabi       ,Odisha,5129.0,7517,1648.2,1.377407407
+Maize,2003,Kharif     ,Punjab,154000.0,459000,451.7,3.086923077
+Rice,2003,Kharif     ,Punjab,2614000.0,9656000,451.7,3.678235294
+Wheat,2003,Rabi       ,Punjab,3444000.0,14489000,451.7,4.166470588
+Maize,2003,Kharif     ,Uttar Pradesh,817385.0,1117621,1075.6,1.296
+Maize,2003,Rabi       ,Uttar Pradesh,4172.0,5704,1075.6,1.348888889
+Maize,2003,Summer     ,Uttar Pradesh,20641.0,28216,1075.6,1.362166667
+Onion,2003,Rabi       ,Uttar Pradesh,8781.0,126033,1075.6,14.35414286
+Onion,2003,Summer     ,Uttar Pradesh,11390.0,112405,1075.6,9.894202899
+Rice,2003,Kharif     ,Uttar Pradesh,5719933.0,12476923,1075.6,2.066285714
+Rice,2003,Summer     ,Uttar Pradesh,7839.0,18016,1075.6,2.1595
+Wheat,2003,Rabi       ,Uttar Pradesh,9443104.0,26349910,1075.6,2.767428571
+Maize,2003,Kharif     ,Uttarakhand,31209.0,47446,1734.3,1.456153846
+Maize,2003,Summer     ,Uttarakhand,137.0,224,1734.3,1.623333333
+Onion,2003,Whole Year ,Uttarakhand,1719.0,19183,1734.3,11.30846154
+Rice,2003,Kharif     ,Uttarakhand,271671.0,520831,1734.3,1.640769231
+Rice,2003,Summer     ,Uttarakhand,5655.0,21126,1734.3,3.66
+Wheat,2003,Rabi       ,Uttarakhand,383387.0,729653,1734.3,1.525384615
+Maize,2004,Kharif     ,Andhra Pradesh,505358.0,1238622,781.8,2.819545455
+Maize,2004,Rabi       ,Andhra Pradesh,151474.0,824920,781.8,5.235714286
+Onion,2004,Kharif     ,Andhra Pradesh,21907.0,344540,781.8,14.4
+Onion,2004,Rabi       ,Andhra Pradesh,12248.0,258886,781.8,20.17047619
+Rice,2004,Kharif     ,Andhra Pradesh,2215067.0,6392717,781.8,2.720454545
+Rice,2004,Rabi       ,Andhra Pradesh,871135.0,3208328,781.8,2.83
+Wheat,2004,Rabi       ,Andhra Pradesh,9174.0,4605,781.8,0.387272727
+Onion,2004,Whole Year ,Assam,7122.0,16786,2536.9,2.396956522
+Rice,2004,Autumn     ,Assam,436244.0,286330,2536.9,0.802173913
+Rice,2004,Summer     ,Assam,311437.0,610136,2536.9,1.764347826
+Rice,2004,Winter     ,Assam,1636050.0,2574284,2536.9,1.551304348
+Wheat,2004,Rabi       ,Assam,63854.0,68083,2536.9,1.056956522
+Maize,2004,Kharif     ,Bihar,270973.0,443819,1147.8,1.597837838
+Maize,2004,Rabi       ,Bihar,192685.0,596181,1147.8,3.198
+Maize,2004,Summer     ,Bihar,153596.0,489273,1147.8,2.952368421
+Onion,2004,Whole Year ,Bihar,14115.0,106528,1147.8,7.463684211
+Rice,2004,Autumn     ,Bihar,534477.0,477325,1147.8,0.788148148
+Rice,2004,Summer     ,Bihar,116220.0,166198,1147.8,1.437407407
+Rice,2004,Winter     ,Bihar,2489419.0,1828633,1147.8,0.647105263
+Wheat,2004,Rabi       ,Bihar,2027643.0,3263385,1147.8,1.569473684
+Maize,2004,Kharif     ,Chhattisgarh,97851.0,139927,1122.8,1.343125
+Onion,2004,Whole Year ,Chhattisgarh,4472.0,27002,1122.8,6.1025
+Rice,2004,Kharif     ,Chhattisgarh,3843825.0,4586818,1122.8,1.160625
+Wheat,2004,Rabi       ,Chhattisgarh,99245.0,85215,1122.8,0.963125
+Maize,2004,Kharif     ,Delhi,82.0,125,651.9,1.52
+Rice,2004,Kharif     ,Delhi,8431.0,28216,651.9,3.35
+Wheat,2004,Rabi       ,Delhi,18695.0,80800,651.9,4.32
+Maize,2004,Kharif     ,Gujarat,459500.0,412500,719.8,1.0375
+Onion,2004,Whole Year ,Gujarat,44000.0,1221300,719.8,28.47894737
+Rice,2004,Kharif     ,Gujarat,665600.0,1157300,719.8,1.730666667
+Rice,2004,Summer     ,Gujarat,13800.0,39200,719.8,2.68625
+Wheat,2004,Rabi       ,Gujarat,727400.0,1805500,719.8,2.6312
+Maize,2004,Kharif     ,Haryana,15768.0,39000,484.6,0.746875
+Onion,2004,Whole Year ,Haryana,2823.0,68400,484.6,20.795
+Rice,2004,Kharif     ,Haryana,1024236.0,3010000,484.6,2.832777778
+Wheat,2004,Rabi       ,Haryana,2316674.0,9043000,484.6,3.774736842
+Maize,2004,Kharif     ,Madhya Pradesh,873546.0,1222964,895.7,1.34125
+Onion,2004,Whole Year ,Madhya Pradesh,35661.0,560306,895.7,15.03166667
+Rice,2004,Kharif     ,Madhya Pradesh,1675513.0,1302615,895.7,0.803541667
+Wheat,2004,Rabi       ,Madhya Pradesh,4188248.0,7320042,895.7,1.7075
+Maize,2004,Kharif     ,Maharashtra,353200.0,606900,1052.0,1.387777778
+Maize,2004,Rabi       ,Maharashtra,65000.0,130500,1052.0,1.723478261
+Maize,2004,Summer     ,Maharashtra,13400.0,20400,1052.0,1.462777778
+Rice,2004,Kharif     ,Maharashtra,1488200.0,2098200,1052.0,1.022903226
+Rice,2004,Summer     ,Maharashtra,20500.0,49000,1052.0,2.463
+Wheat,2004,Rabi       ,Maharashtra,755700.0,1016300,1052.0,1.199666667
+Maize,2004,Kharif     ,Nagaland,45400.0,81700,1711.5,1.80125
+Maize,2004,Rabi       ,Nagaland,1000.0,1800,1711.5,1.905
+Rice,2004,Kharif     ,Nagaland,153000.0,259750,1711.5,1.65625
+Rice,2004,Rabi       ,Nagaland,1000.0,2000,1711.5,1.99
+Wheat,2004,Rabi       ,Nagaland,8200.0,13000,1711.5,1.49125
+Maize,2004,Kharif     ,Punjab,154000.0,422000,366.4,2.883636364
+Rice,2004,Kharif     ,Punjab,2800000.0,10437000,366.4,3.788823529
+Wheat,2004,Rabi       ,Punjab,3482000.0,14698000,366.4,4.178823529
+Maize,2004,Kharif     ,Tripura,2790.0,2967,2706.3,1.0525
+Rice,2004,Kharif     ,Tripura,256076.0,602221,2706.3,2.24
+Wheat,2004,Rabi       ,Tripura,944.0,1942,2706.3,2.0525
+Maize,2004,Kharif     ,Uttarakhand,29501.0,44967,1219.6,1.438461538
+Maize,2004,Summer     ,Uttarakhand,74.0,147,1219.6,1.96
+Onion,2004,Whole Year ,Uttarakhand,2045.0,17694,1219.6,9.187692308
+Rice,2004,Kharif     ,Uttarakhand,281464.0,537876,1219.6,1.592307692
+Rice,2004,Summer     ,Uttarakhand,7511.0,22367,1219.6,2.975
+Wheat,2004,Rabi       ,Uttarakhand,387103.0,799221,1219.6,1.776923077
+Maize,2004,Autumn     ,Jharkhand,92036.15,133582,1149.2,1.367727273
+Onion,2004,Rabi       ,Jharkhand,1360.19,9804,1149.2,8.532
+Rice,2004,Autumn     ,Jharkhand,153608.9,105328,1149.2,0.714
+Rice,2004,Winter     ,Jharkhand,980642.41,901045,1149.2,0.85
+Wheat,2004,Rabi       ,Jharkhand,57905.58,72740,1149.2,1.257727273
+Maize,2004,Kharif     ,West Bengal,64629.0,190546,1612.9,2.584375
+Rice,2004,Autumn     ,West Bengal,320822.0,653044,1612.9,2.037222222
+Rice,2004,Summer     ,West Bengal,1376387.0,4257111,1612.9,2.857777778
+Rice,2004,Winter     ,West Bengal,4086404.0,9974734,1612.9,2.336111111
+Wheat,2004,Rabi       ,West Bengal,400093.0,841471,1612.9,2.104444444
+Maize,2005,Kharif     ,Bihar,276983.0,456105,907.8,1.619210526
+Maize,2005,Rabi       ,Bihar,212073.0,637203,907.8,2.773611111
+Maize,2005,Summer     ,Bihar,175218.0,426534,907.8,2.363611111
+Onion,2005,Whole Year ,Bihar,18401.0,160656,907.8,8.135263158
+Rice,2005,Autumn     ,Bihar,533233.0,503448,907.8,0.962666667
+Rice,2005,Summer     ,Bihar,113251.0,182827,907.8,1.304583333
+Rice,2005,Winter     ,Bihar,2604752.0,3023010,907.8,1.035263158
+Wheat,2005,Rabi       ,Bihar,2001771.0,2821120,907.8,1.349736842
+Maize,2005,Kharif     ,Chhattisgarh,101587.0,109598,1292.7,1.088125
+Onion,2005,Whole Year ,Chhattisgarh,4534.0,25491,1292.7,5.413333333
+Rice,2005,Kharif     ,Chhattisgarh,3854352.0,5267537,1292.7,1.30375
+Wheat,2005,Rabi       ,Chhattisgarh,97074.0,85191,1292.7,1.0125
+Maize,2005,Kharif     ,Delhi,79.0,144,653.1,1.82
+Rice,2005,Kharif     ,Delhi,7506.0,21092,653.1,2.81
+Wheat,2005,Rabi       ,Delhi,18279.0,79404,653.1,4.34
+Maize,2005,Kharif     ,Gujarat,456900.0,722400,942.4,1.618125
+Onion,2005,Whole Year ,Gujarat,73300.0,2057500,942.4,29.175
+Rice,2005,Kharif     ,Gujarat,648300.0,1209300,942.4,1.843125
+Rice,2005,Summer     ,Gujarat,24600.0,74300,942.4,3.054444444
+Wheat,2005,Rabi       ,Gujarat,858800.0,2319200,942.4,2.5792
+Maize,2005,Kharif     ,Haryana,17469.0,36000,516.9,0.4965
+Onion,2005,Whole Year ,Haryana,4044.0,92700,516.9,18.03076923
+Rice,2005,Kharif     ,Haryana,1046588.0,3194000,516.9,2.940526316
+Wheat,2005,Rabi       ,Haryana,2302682.0,8502000,516.9,3.6065
+Maize,2005,Kharif     ,Himachal Pradesh,295351.0,543061,1248.1,1.913333333
+Onion,2005,Rabi       ,Himachal Pradesh,829.0,4045,1248.1,4.994
+Rice,2005,Kharif     ,Himachal Pradesh,79366.0,112139,1248.1,1.396363636
+Wheat,2005,Rabi       ,Himachal Pradesh,358453.0,365885,1248.1,1.075833333
+Maize,2005,Kharif     ,Madhya Pradesh,852591.0,1240520,1032.7,1.380638298
+Onion,2005,Whole Year ,Madhya Pradesh,37656.0,575949,1032.7,14.14979167
+Rice,2005,Kharif     ,Madhya Pradesh,1700446.0,1687475,1032.7,0.881041667
+Wheat,2005,Rabi       ,Madhya Pradesh,3772615.0,6192368,1032.7,1.647083333
+Maize,2005,Kharif     ,Maharashtra,389100.0,829700,1387.2,1.67037037
+Maize,2005,Rabi       ,Maharashtra,70900.0,145400,1387.2,2.137307692
+Maize,2005,Summer     ,Maharashtra,9500.0,13700,1387.2,1.239473684
+Rice,2005,Kharif     ,Maharashtra,1473700.0,2596800,1387.2,1.215666667
+Rice,2005,Summer     ,Maharashtra,38800.0,72200,1387.2,2.007
+Wheat,2005,Rabi       ,Maharashtra,932800.0,1300700,1387.2,1.329333333
+Maize,2005,Kharif     ,Mizoram,10810.0,20720,2075.4,1.99875
+Maize,2005,Rabi       ,Mizoram,932.0,1983,2075.4,2.625
+Rice,2005,Whole Year ,Mizoram,56460.0,107740,2075.4,1.9425
+Maize,2005,Kharif     ,Nagaland,50000.0,90000,1568.6,1.8025
+Maize,2005,Rabi       ,Nagaland,1600.0,2880,1568.6,1.985
+Rice,2005,Kharif     ,Nagaland,155500.0,261300,1568.6,1.6425
+Rice,2005,Rabi       ,Nagaland,900.0,1800,1568.6,2.06
+Wheat,2005,Rabi       ,Nagaland,1200.0,1920,1568.6,1.66125
+Maize,2005,Kharif     ,Punjab,148000.0,403000,566.7,2.827
+Rice,2005,Kharif     ,Punjab,2642000.0,10193000,566.7,3.820588235
+Wheat,2005,Rabi       ,Punjab,3468000.0,14493000,566.7,4.145294118
+Maize,2005,Kharif     ,Tripura,2150.0,2100,1765.9,0.9825
+Rice,2005,Kharif     ,Tripura,253067.0,602947,1765.9,2.305
+Wheat,2005,Rabi       ,Tripura,1750.0,3184,1765.9,1.8325
+Maize,2005,Kharif     ,Uttarakhand,31372.0,39735,1353.3,1.142307692
+Maize,2005,Summer     ,Uttarakhand,89.0,182,1353.3,1.9875
+Onion,2005,Whole Year ,Uttarakhand,1996.0,26694,1353.3,12.83076923
+Rice,2005,Kharif     ,Uttarakhand,275459.0,526520,1353.3,1.62
+Rice,2005,Summer     ,Uttarakhand,8971.0,42646,1353.3,3.89
+Wheat,2005,Rabi       ,Uttarakhand,379237.0,642216,1353.3,1.353076923
+Maize,2005,Autumn     ,Jharkhand,74754.36,77410,965.2,1.040909091
+Onion,2005,Rabi       ,Jharkhand,1724.12,18805,965.2,11.6
+Rice,2005,Autumn     ,Jharkhand,149362.86,77860,965.2,0.557857143
+Rice,2005,Winter     ,Jharkhand,954735.25,536165,965.2,0.531363636
+Wheat,2005,Rabi       ,Jharkhand,50326.23,51263,965.2,1.023636364
+Maize,2006,Kharif     ,Bihar,259494.0,397591,1052.8,1.558918919
+Maize,2006,Rabi       ,Bihar,206084.0,744274,1052.8,3.231944444
+Maize,2006,Summer     ,Bihar,175637.0,614084,1052.8,3.389444444
+Rice,2006,Autumn     ,Bihar,517983.0,530242,1052.8,0.962413793
+Rice,2006,Summer     ,Bihar,109436.0,163989,1052.8,1.45173913
+Rice,2006,Winter     ,Bihar,2736591.0,4333716,1052.8,1.482702703
+Wheat,2006,Rabi       ,Bihar,2076727.0,4155541,1052.8,1.924324324
+Maize,2006,Kharif     ,Chhattisgarh,100145.0,123489,1317.2,1.048888889
+Onion,2006,Whole Year ,Chhattisgarh,4484.0,23106,1317.2,6.496470588
+Rice,2006,Kharif     ,Chhattisgarh,3905319.0,5441525,1317.2,1.247222222
+Wheat,2006,Rabi       ,Chhattisgarh,93213.0,93952,1317.2,1.06
+Maize,2006,Kharif     ,Delhi,67.0,122,462.7,1.82
+Rice,2006,Kharif     ,Delhi,7381.0,20815,462.7,2.82
+Wheat,2006,Rabi       ,Delhi,17884.0,77885,462.7,4.36
+Maize,2006,Kharif     ,Gujarat,447700.0,201700,1056.2,0.529375
+Onion,2006,Whole Year ,Gujarat,43300.0,1051800,1056.2,21.8045
+Rice,2006,Kharif     ,Gujarat,655600.0,1045200,1056.2,1.601875
+Rice,2006,Summer     ,Gujarat,33700.0,96000,1056.2,2.855555556
+Wheat,2006,Rabi       ,Gujarat,1072300.0,2791500,1056.2,2.5696
+Maize,2006,Kharif     ,Haryana,13412.0,30000,329.3,0.520625
+Onion,2006,Whole Year ,Haryana,2543.0,49700,329.3,18.98352941
+Rice,2006,Kharif     ,Haryana,1042036.0,3371000,329.3,2.8545
+Wheat,2006,Rabi       ,Haryana,2377067.0,10059000,329.3,4.062
+Maize,2006,Kharif     ,Himachal Pradesh,299037.0,695376,1207.0,2.363333333
+Onion,2006,Rabi       ,Himachal Pradesh,893.0,7617,1207.0,8.546
+Rice,2006,Kharif     ,Himachal Pradesh,79206.0,123485,1207.0,1.750909091
+Wheat,2006,Rabi       ,Himachal Pradesh,362245.0,596493,1207.0,1.6375
+Maize,2006,Kharif     ,Madhya Pradesh,879420.0,846002,1072.3,0.903617021
+Onion,2006,Whole Year ,Madhya Pradesh,37825.0,629635,1072.3,14.81125
+Rice,2006,Kharif     ,Madhya Pradesh,1674013.0,1389269,1072.3,0.856666667
+Wheat,2006,Rabi       ,Madhya Pradesh,4262382.0,7840446,1072.3,1.73125
+Maize,2006,Kharif     ,Maharashtra,475000.0,947800,1439.4,1.599642857
+Maize,2006,Rabi       ,Maharashtra,86000.0,176900,1439.4,2.1984
+Maize,2006,Summer     ,Maharashtra,19200.0,25300,1439.4,1.184761905
+Rice,2006,Kharif     ,Maharashtra,1491300.0,2488600,1439.4,1.166333333
+Rice,2006,Summer     ,Maharashtra,38000.0,81100,1439.4,2.176
+Wheat,2006,Rabi       ,Maharashtra,1230800.0,1871000,1439.4,1.451666667
+Maize,2006,Kharif     ,Nagaland,63200.0,105540,1362.5,1.67
+Maize,2006,Rabi       ,Nagaland,1500.0,2800,1362.5,1.995
+Rice,2006,Kharif     ,Nagaland,163680.0,261920,1362.5,1.595
+Rice,2006,Rabi       ,Nagaland,1000.0,1600,1362.5,1.605
+Wheat,2006,Rabi       ,Nagaland,1500.0,1250,1362.5,0.86
+Maize,2006,Kharif     ,Punjab,154000.0,481000,569.6,3.202307692
+Rice,2006,Kharif     ,Punjab,2621000.0,10138000,569.6,3.75
+Wheat,2006,Rabi       ,Punjab,3467000.0,14596000,569.6,4.148421053
+Maize,2006,Kharif     ,Tripura,2450.0,2420,1764.3,0.9925
+Rice,2006,Kharif     ,Tripura,250939.0,628200,1764.3,2.4225
+Wheat,2006,Rabi       ,Tripura,970.0,1845,1764.3,1.885
+Maize,2006,Kharif     ,Uttar Pradesh,842052.0,1116939,590.5,1.307826087
+Maize,2006,Rabi       ,Uttar Pradesh,4215.0,13278,590.5,3.120454545
+Maize,2006,Summer     ,Uttar Pradesh,25366.0,33635,590.5,1.325689655
+Onion,2006,Rabi       ,Uttar Pradesh,7525.0,144345,590.5,19.17927536
+Onion,2006,Summer     ,Uttar Pradesh,13173.0,153400,590.5,11.64536232
+Rice,2006,Kharif     ,Uttar Pradesh,5902577.0,11082993,590.5,1.846
+Rice,2006,Summer     ,Uttar Pradesh,18175.0,40620,590.5,1.995
+Wheat,2006,Rabi       ,Uttar Pradesh,9197642.0,25443428,590.5,2.725428571
+Maize,2006,Kharif     ,Uttarakhand,27163.0,35850,1178.9,1.138461538
+Maize,2006,Rabi       ,Uttarakhand,81.0,131,1178.9,1.626666667
+Onion,2006,Whole Year ,Uttarakhand,2116.0,11886,1178.9,6.464615385
+Rice,2006,Kharif     ,Uttarakhand,273662.0,540128,1178.9,1.645384615
+Rice,2006,Rabi       ,Uttarakhand,9923.0,31208,1178.9,3.145
+Wheat,2006,Rabi       ,Uttarakhand,377870.0,796548,1178.9,1.760769231
+Maize,2006,Autumn     ,Jharkhand,75712.78,116029,1465.1,1.457272727
+Onion,2006,Rabi       ,Jharkhand,2914.72,16719,1465.1,5.84
+Rice,2006,Autumn     ,Jharkhand,183635.05,254351,1465.1,1.274545455
+Rice,2006,Winter     ,Jharkhand,995583.37,1175595,1465.1,1.208181818
+Wheat,2006,Rabi       ,Jharkhand,124418.04,163905,1465.1,1.280454545
+Maize,2007,Kharif     ,Andhra Pradesh,519000.0,2377000,1004.2,4.237
+Maize,2007,Rabi       ,Andhra Pradesh,267000.0,1754000,1004.2,6.2215
+Onion,2007,Kharif     ,Andhra Pradesh,23000.0,370000,1004.2,13.81571429
+Onion,2007,Rabi       ,Andhra Pradesh,14000.0,270000,1004.2,18.07142857
+Rice,2007,Kharif     ,Andhra Pradesh,2578000.0,8191000,1004.2,3.094545455
+Rice,2007,Rabi       ,Andhra Pradesh,1406000.0,5133000,1004.2,3.159090909
+Wheat,2007,Rabi       ,Andhra Pradesh,8000.0,8000,1004.2,1.0
+Maize,2007,Autumn     ,Bihar,263299.0,321402,1600.2,1.305526316
+Maize,2007,Rabi       ,Bihar,214521.0,858245,1600.2,3.763611111
+Maize,2007,Summer     ,Bihar,181481.0,623215,1600.2,3.207142857
+Onion,2007,Whole Year ,Bihar,15216.0,136730,1600.2,8.736111111
+Rice,2007,Autumn     ,Bihar,524266.0,318517,1600.2,0.617
+Rice,2007,Summer     ,Bihar,110440.0,172291,1600.2,1.416666667
+Rice,2007,Winter     ,Bihar,2842665.0,3967956,1600.2,1.260789474
+Wheat,2007,Rabi       ,Bihar,2131232.0,4977463,1600.2,2.228421053
+Maize,2007,Kharif     ,Chhattisgarh,100591.0,157130,1246.2,1.468333333
+Onion,2007,Whole Year ,Chhattisgarh,4372.0,20891,1246.2,5.119411765
+Rice,2007,Kharif     ,Chhattisgarh,3902881.0,5634972,1246.2,1.393888889
+Wheat,2007,Rabi       ,Chhattisgarh,95020.0,104548,1246.2,1.299444444
+Maize,2007,Kharif     ,Gujarat,424000.0,583100,1021.6,1.401176471
+Onion,2007,Whole Year ,Gujarat,65400.0,2059200,1021.6,28.88190476
+Rice,2007,Kharif     ,Gujarat,726000.0,1376300,1021.6,1.8325
+Rice,2007,Summer     ,Gujarat,32600.0,97900,1021.6,3.043333333
+Wheat,2007,Rabi       ,Gujarat,1273900.0,3837700,1021.6,2.9304
+Maize,2007,Kharif     ,Haryana,13777.0,37000,443.8,0.979375
+Onion,2007,Whole Year ,Haryana,3193.0,63700,443.8,18.20733333
+Rice,2007,Kharif     ,Haryana,1072545.0,3606000,443.8,3.191578947
+Wheat,2007,Rabi       ,Haryana,2460680.0,10232000,443.8,4.036
+Maize,2007,Kharif     ,Himachal Pradesh,300150.0,682615,1095.4,2.303333333
+Onion,2007,Rabi       ,Himachal Pradesh,823.0,7036,1095.4,8.408
+Rice,2007,Kharif     ,Himachal Pradesh,78571.0,121453,1095.4,1.686363636
+Wheat,2007,Rabi       ,Himachal Pradesh,366592.0,504360,1095.4,1.500833333
+Maize,2007,Kharif     ,Madhya Pradesh,841830.0,1111216,740.4,1.1325
+Onion,2007,Whole Year ,Madhya Pradesh,41376.0,601524,740.4,12.21604167
+Rice,2007,Kharif     ,Madhya Pradesh,1634912.0,1325175,740.4,0.875
+Wheat,2007,Rabi       ,Madhya Pradesh,4089343.0,6729363,740.4,1.548958333
+Maize,2007,Kharif     ,Maharashtra,571100.0,1545200,1257.2,2.325357143
+Maize,2007,Rabi       ,Maharashtra,86700.0,223000,1257.2,2.6852
+Maize,2007,Summer     ,Maharashtra,13700.0,21600,1257.2,1.413684211
+Rice,2007,Kharif     ,Maharashtra,1535300.0,2912800,1257.2,1.377241379
+Rice,2007,Summer     ,Maharashtra,41400.0,98700,1257.2,2.486
+Wheat,2007,Rabi       ,Maharashtra,1252800.0,2371100,1257.2,1.782333333
+Maize,2007,Kharif     ,Meghalaya,17048.0,25138,4702.0,1.504285714
+Rice,2007,Autumn     ,Meghalaya,32604.0,37918,4702.0,1.498571429
+Rice,2007,Summer     ,Meghalaya,11546.0,48132,4702.0,2.022857143
+Rice,2007,Winter     ,Meghalaya,62170.0,114027,4702.0,1.812857143
+Wheat,2007,Rabi       ,Meghalaya,622.0,1120,4702.0,1.2425
+Maize,2007,Kharif     ,Nagaland,62140.0,112470,1769.0,1.835
+Maize,2007,Rabi       ,Nagaland,1500.0,2860,1769.0,1.91
+Rice,2007,Kharif     ,Nagaland,166000.0,308800,1769.0,1.8275
+Rice,2007,Rabi       ,Nagaland,1500.0,2500,1769.0,1.66
+Wheat,2007,Rabi       ,Nagaland,1150.0,1800,1769.0,1.56375
+Maize,2007,Kharif     ,Punjab,153000.0,521000,527.2,3.560833333
+Rice,2007,Kharif     ,Punjab,2610000.0,10489000,527.2,3.968
+Wheat,2007,Rabi       ,Punjab,3488000.0,15720000,527.2,4.4775
+Maize,2007,Kharif     ,Tripura,2123.0,2125,2831.8,0.995
+Rice,2007,Kharif     ,Tripura,252897.0,640424,2831.8,2.4375
+Wheat,2007,Rabi       ,Tripura,1023.0,1889,2831.8,1.88
+Maize,2007,Kharif     ,Uttar Pradesh,812088.0,1167245,672.9,1.360289855
+Maize,2007,Rabi       ,Uttar Pradesh,3627.0,10185,672.9,2.78
+Maize,2007,Summer     ,Uttar Pradesh,21930.0,31514,672.9,1.430714286
+Onion,2007,Rabi       ,Uttar Pradesh,9846.0,137576,672.9,13.97314286
+Onion,2007,Summer     ,Uttar Pradesh,11716.0,158183,672.9,13.49166667
+Rice,2007,Kharif     ,Uttar Pradesh,5690539.0,11731754,672.9,1.962
+Rice,2007,Summer     ,Uttar Pradesh,18849.0,48358,672.9,2.152142857
+Wheat,2007,Rabi       ,Uttar Pradesh,9114880.0,25679089,672.9,2.723571429
+Maize,2007,Kharif     ,Uttarakhand,28000.0,43659,1924.3,1.223846154
+Maize,2007,Summer     ,Uttarakhand,82.0,133,1924.3,1.636666667
+Onion,2007,Whole Year ,Uttarakhand,1976.0,10098,1924.3,5.836923077
+Rice,2007,Kharif     ,Uttarakhand,259805.0,523203,1924.3,1.709230769
+Rice,2007,Summer     ,Uttarakhand,12364.0,41864,1924.3,3.423333333
+Wheat,2007,Rabi       ,Uttarakhand,372919.0,798233,1924.3,1.673846154
+Maize,2007,Autumn     ,Jharkhand,76327.31,93851,1444.7,1.367272727
+Onion,2007,Rabi       ,Jharkhand,2958.96,18582,1444.7,6.168947368
+Rice,2007,Autumn     ,Jharkhand,183323.17,163692,1444.7,0.899047619
+Rice,2007,Winter     ,Jharkhand,1014731.14,1306932,1444.7,1.306363636
+Wheat,2007,Rabi       ,Jharkhand,54845.72,68534,1444.7,1.432727273
+Maize,2008,Autumn     ,Bihar,244993.0,373167,1197.7,1.592631579
+Maize,2008,Rabi       ,Bihar,206266.0,726382,1197.7,3.186388889
+Maize,2008,Summer     ,Bihar,189214.0,615797,1197.7,3.203714286
+Onion,2008,Whole Year ,Bihar,14805.0,137545,1197.7,8.775714286
+Rice,2008,Autumn     ,Bihar,546872.0,727414,1197.7,1.230344828
+Rice,2008,Summer     ,Bihar,105526.0,178240,1197.7,1.641
+Rice,2008,Winter     ,Bihar,2842875.0,4684328,1197.7,1.545789474
+Wheat,2008,Rabi       ,Bihar,2158345.0,4413017,1197.7,1.984473684
+Maize,2008,Kharif     ,Chhattisgarh,99375.0,139844,1117.9,1.263888889
+Onion,2008,Whole Year ,Chhattisgarh,4332.0,22242,1117.9,5.273125
+Rice,2008,Kharif     ,Chhattisgarh,3928815.0,4707499,1117.9,1.198333333
+Wheat,2008,Rabi       ,Chhattisgarh,94834.0,97424,1117.9,1.15
+Maize,2008,Kharif     ,Gujarat,418900.0,602600,746.1,1.478333333
+Onion,2008,Rabi       ,Gujarat,54400.0,1502800,746.1,26.605
+Rice,2008,Kharif     ,Gujarat,722100.0,1225500,746.1,1.615294118
+Rice,2008,Summer     ,Gujarat,25200.0,77400,746.1,2.921111111
+Wheat,2008,Rabi       ,Gujarat,1091400.0,2592600,746.1,2.349615385
+Maize,2008,Kharif     ,Haryana,11769.0,25200,715.6,1.152222222
+Onion,2008,Whole Year ,Haryana,2492.0,37400,715.6,178.6530769
+Rice,2008,Kharif     ,Haryana,1211149.0,3299000,715.6,2.569
+Wheat,2008,Rabi       ,Haryana,2461420.0,11360000,715.6,4.437142857
+Maize,2008,Kharif     ,Himachal Pradesh,297718.0,676644,1357.1,2.304166667
+Onion,2008,Rabi       ,Himachal Pradesh,776.0,4611,1357.1,5.795
+Rice,2008,Kharif     ,Himachal Pradesh,77709.0,118277,1357.1,1.6
+Wheat,2008,Rabi       ,Himachal Pradesh,359961.0,381180,1357.1,1.080833333
+Maize,2008,Kharif     ,Madhya Pradesh,826722.0,1131782,895.0,1.2356
+Onion,2008,Whole Year ,Madhya Pradesh,40146.0,582438,895.0,12.0858
+Rice,2008,Kharif     ,Madhya Pradesh,1706557.0,1571103,895.0,0.911020408
+Wheat,2008,Rabi       ,Madhya Pradesh,3997666.0,7272210,895.0,1.764
+Maize,2008,Kharif     ,Maharashtra,550100.0,1323000,1052.8,1.992222222
+Maize,2008,Rabi       ,Maharashtra,85900.0,206700,1052.8,2.3832
+Maize,2008,Summer     ,Maharashtra,9500.0,14500,1052.8,1.381
+Rice,2008,Kharif     ,Maharashtra,1499500.0,2234300,1052.8,1.170740741
+Rice,2008,Summer     ,Maharashtra,22000.0,53200,1052.8,2.421111111
+Wheat,2008,Rabi       ,Maharashtra,1021800.0,1516400,1052.8,1.431666667
+Maize,2008,Kharif     ,Manipur,17980.0,32250,1134.8,1.724444444
+Maize,2008,Rabi       ,Manipur,2250.0,3130,1134.8,1.467777778
+Rice,2008,Kharif     ,Manipur,210990.0,518250,1134.8,2.134444444
+Wheat,2008,Rabi       ,Manipur,2050.0,5120,1134.8,2.495
+Maize,2008,Kharif     ,Nagaland,63200.0,113760,1540.9,1.802727273
+Maize,2008,Rabi       ,Nagaland,1200.0,2160,1540.9,1.91
+Rice,2008,Kharif     ,Nagaland,173100.0,345090,1540.9,1.964545455
+Wheat,2008,Rabi       ,Nagaland,1380.0,2070,1540.9,1.502222222
+Maize,2008,Kharif     ,Punjab,151000.0,514000,691.3,3.419230769
+Rice,2008,Kharif     ,Punjab,2735000.0,11000000,691.3,3.9855
+Wheat,2008,Rabi       ,Punjab,3466000.0,15733000,691.3,4.5035
+Maize,2008,Kharif     ,Tripura,2093.0,2046,1827.8,0.99
+Rice,2008,Kharif     ,Tripura,242966.0,627175,1827.8,2.525
+Wheat,2008,Rabi       ,Tripura,635.0,1195,1827.8,1.905
+Maize,2008,Kharif     ,Uttar Pradesh,769793.0,1151245,891.6,1.366764706
+Maize,2008,Rabi       ,Uttar Pradesh,3617.0,9495,891.6,2.646086957
+Maize,2008,Summer     ,Uttar Pradesh,25472.0,38106,891.6,1.505862069
+Onion,2008,Rabi       ,Uttar Pradesh,10161.0,119110,891.6,11.71728571
+Rice,2008,Kharif     ,Uttar Pradesh,6011761.0,13051365,891.6,2.124428571
+Rice,2008,Summer     ,Uttar Pradesh,21621.0,45666,891.6,2.095
+Wheat,2008,Rabi       ,Uttar Pradesh,9513039.0,28554178,891.6,2.959857143
+Maize,2008,Kharif     ,Uttarakhand,26780.0,36287,1363.7,1.197692308
+Maize,2008,Summer     ,Uttarakhand,92.0,150,1363.7,1.53
+Onion,2008,Whole Year ,Uttarakhand,1869.0,7920,1363.7,5.134615385
+Rice,2008,Kharif     ,Uttarakhand,275711.0,528524,1363.7,1.627692308
+Rice,2008,Summer     ,Uttarakhand,12654.0,39797,1363.7,3.1
+Wheat,2008,Rabi       ,Uttarakhand,379081.0,770934,1363.7,1.491538462
+Onion,2008,Rabi       ,Jammu and Kashmir,383.0,932,1390.1,2.4475
+Wheat,2008,Rabi       ,Jammu and Kashmir,274022.0,492140,1390.1,1.435714286
+Maize,2008,Autumn     ,Jharkhand,72914.37,77225,1295.2,1.074166667
+Onion,2008,Rabi       ,Jharkhand,3049.28,15459,1295.2,4.964347826
+Rice,2008,Autumn     ,Jharkhand,188422.33,162674,1295.2,0.868695652
+Rice,2008,Winter     ,Jharkhand,1008437.16,1333906,1295.2,1.39125
+Wheat,2008,Rabi       ,Jharkhand,58602.34,79871,1295.2,1.43625
+Maize,2009,Autumn     ,Bihar,234920.0,401472,889.3,1.760526316
+Maize,2009,Rabi       ,Bihar,209236.0,544140,889.3,2.516
+Maize,2009,Summer     ,Bihar,196547.0,598834,889.3,2.8075
+Rice,2009,Autumn     ,Bihar,525890.0,471321,889.3,0.905666667
+Rice,2009,Summer     ,Bihar,95682.0,176656,889.3,1.492083333
+Rice,2009,Winter     ,Bihar,2502458.0,2992233,889.3,1.105526316
+Wheat,2009,Rabi       ,Bihar,2116098.0,4403841,889.3,2.076315789
+Maize,2009,Kharif     ,Chhattisgarh,101721.0,145368,956.9,1.412777778
+Onion,2009,Whole Year ,Chhattisgarh,5013.0,22924,956.9,4.292666667
+Rice,2009,Kharif     ,Chhattisgarh,3837610.0,4347316,956.9,1.106666667
+Wheat,2009,Rabi       ,Chhattisgarh,109163.0,118923,956.9,1.301764706
+Maize,2009,Kharif     ,Gujarat,411700.0,396600,618.0,1.008
+Onion,2009,Rabi       ,Gujarat,38500.0,1051400,618.0,26.69277778
+Rice,2009,Kharif     ,Gujarat,658500.0,1228400,618.0,1.693529412
+Rice,2009,Summer     ,Gujarat,21000.0,64600,618.0,3.034444444
+Wheat,2009,Rabi       ,Gujarat,878000.0,2351300,618.0,2.617692308
+Maize,2009,Kharif     ,Haryana,12199.0,26000,393.0,0.940555556
+Onion,2009,Whole Year ,Haryana,1535.0,31300,393.0,19.35785714
+Rice,2009,Kharif     ,Haryana,1206435.0,3628000,393.0,2.673809524
+Wheat,2009,Rabi       ,Haryana,2487756.0,10488000,393.0,4.133809524
+Maize,2009,Kharif     ,Himachal Pradesh,290199.0,530224,969.9,2.08
+Onion,2009,Rabi       ,Himachal Pradesh,918.0,5392,969.9,5.744
+Rice,2009,Kharif     ,Himachal Pradesh,76186.0,105787,969.9,1.484545455
+Wheat,2009,Rabi       ,Himachal Pradesh,350440.0,324174,969.9,0.933333333
+Maize,2009,Kharif     ,Maharashtra,673000.0,1530600,1002.4,1.972962963
+Maize,2009,Rabi       ,Maharashtra,101400.0,267200,1002.4,1.9875
+Maize,2009,Summer     ,Maharashtra,20100.0,30200,1002.4,1.348235294
+Rice,2009,Kharif     ,Maharashtra,1450000.0,2138100,1002.4,1.106071429
+Rice,2009,Summer     ,Maharashtra,20600.0,47700,1002.4,2.251111111
+Wheat,2009,Rabi       ,Maharashtra,1080900.0,1740200,1002.4,1.53
+Maize,2009,Kharif     ,Manipur,18300.0,33950,992.5,1.705555556
+Maize,2009,Rabi       ,Manipur,13500.0,23170,992.5,1.673333333
+Rice,2009,Kharif     ,Manipur,113890.0,265090,992.5,1.923333333
+Wheat,2009,Rabi       ,Manipur,12000.0,25050,992.5,2.073333333
+Maize,2009,Kharif     ,Nagaland,63100.0,65690,1225.9,1.037272727
+Maize,2009,Rabi       ,Nagaland,5000.0,7500,1225.9,1.51
+Rice,2009,Kharif     ,Nagaland,168570.0,240310,1225.9,1.393636364
+Wheat,2009,Rabi       ,Nagaland,2010.0,2410,1225.9,1.198888889
+Maize,2009,Kharif     ,Punjab,139000.0,475000,371.3,3.489166667
+Rice,2009,Kharif     ,Punjab,2802000.0,11236000,371.3,3.9775
+Wheat,2009,Rabi       ,Punjab,3522000.0,15169000,371.3,4.3205
+Maize,2009,Kharif     ,Tripura,2018.0,2030,2004.2,1.0
+Rice,2009,Kharif     ,Tripura,245538.0,640010,2004.2,2.5225
+Wheat,2009,Rabi       ,Tripura,667.0,1323,2004.2,1.9825
+Maize,2009,Kharif     ,Uttar Pradesh,674808.0,982139,585.8,1.431
+Maize,2009,Rabi       ,Uttar Pradesh,4636.0,14162,585.8,3.032083333
+Maize,2009,Summer     ,Uttar Pradesh,29237.0,42540,585.8,1.462833333
+Onion,2009,Rabi       ,Uttar Pradesh,10494.0,180225,585.8,16.93323944
+Onion,2009,Summer     ,Uttar Pradesh,12686.0,176246,585.8,13.71826087
+Rice,2009,Kharif     ,Uttar Pradesh,5148046.0,10714990,585.8,2.00971831
+Rice,2009,Summer     ,Uttar Pradesh,24695.0,61514,585.8,2.13
+Wheat,2009,Rabi       ,Uttar Pradesh,9668152.0,27518022,585.8,2.80915493
+Maize,2009,Kharif     ,Uttarakhand,26103.0,36088,847.8,1.236153846
+Maize,2009,Rabi       ,Uttarakhand,63.0,103,847.8,1.6
+Onion,2009,Whole Year ,Uttarakhand,2158.0,9211,847.8,4.625833333
+Rice,2009,Kharif     ,Uttarakhand,270608.0,551716,847.8,1.613846154
+Rice,2009,Rabi       ,Uttarakhand,13775.0,39300,847.8,2.85
+Wheat,2009,Rabi       ,Uttarakhand,372846.0,829319,847.8,1.674615385
+Maize,2009,Autumn     ,Jharkhand,60448.0,54087,996.1,0.947916667
+Onion,2009,Rabi       ,Jharkhand,2948.0,12878,996.1,4.763809524
+Rice,2009,Autumn     ,Jharkhand,157262.0,87970,996.1,0.515217391
+Rice,2009,Winter     ,Jharkhand,825787.0,504508,996.1,0.58625
+Wheat,2009,Rabi       ,Jharkhand,52510.0,61618,996.1,1.314166667
+Maize,2009,Autumn     ,West Bengal,36330.0,79299,1317.2,1.94
+Maize,2009,Rabi       ,West Bengal,23585.0,132526,1317.2,3.632727273
+Maize,2009,Summer     ,West Bengal,37801.0,173394,1317.2,2.912352941
+Rice,2009,Autumn     ,West Bengal,214062.0,466766,1317.2,2.095
+Rice,2009,Summer     ,West Bengal,1429703.0,4275871,1317.2,2.79
+Rice,2009,Winter     ,West Bengal,3986330.0,9597968,1317.2,2.346111111
+Wheat,2009,Rabi       ,West Bengal,315888.0,846657,1317.2,2.401764706
+Maize,2009,Whole Year ,Madhya Pradesh,812456.0,1018820,904.1,1.0752
+Onion,2009,Whole Year ,Madhya Pradesh,51151.0,785475,904.1,13.143
+Rice,2009,Whole Year ,Madhya Pradesh,1593071.0,1355660,904.1,0.906041667
+Wheat,2009,Whole Year ,Madhya Pradesh,4458995.0,8865378,904.1,1.8538
+Maize,2010,Autumn     ,Bihar,234466.0,468518,629.2,1.910789474
+Maize,2010,Rabi       ,Bihar,237723.0,922285,629.2,3.635882353
+Maize,2010,Summer     ,Bihar,181513.0,717393,629.2,3.725135135
+Rice,2010,Autumn     ,Bihar,495218.0,444042,629.2,0.919642857
+Rice,2010,Summer     ,Bihar,84465.0,163031,629.2,1.827916667
+Rice,2010,Winter     ,Bihar,2265685.0,2505545,629.2,0.979210526
+Wheat,2010,Rabi       ,Bihar,2100181.0,5094030,629.2,2.282631579
+Maize,2010,Kharif     ,Chhattisgarh,104861.0,190489,1283.1,1.733888889
+Onion,2010,Whole Year ,Chhattisgarh,4984.0,26101,1283.1,5.32625
+Rice,2010,Kharif     ,Chhattisgarh,3937796.0,6637737,1283.1,1.702222222
+Wheat,2010,Rabi       ,Chhattisgarh,103701.0,121745,1283.1,1.395882353
+Maize,2010,Kharif     ,Gujarat,422500.0,692100,1107.5,1.692631579
+Maize,2010,Rabi       ,Gujarat,110000.0,220000,1107.5,1.882307692
+Maize,2010,Summer     ,Gujarat,33000.0,66000,1107.5,2.00125
+Onion,2010,Whole Year ,Gujarat,67100.0,1847900,1107.5,26.0365
+Rice,2010,Kharif     ,Gujarat,728300.0,1423800,1107.5,1.8275
+Rice,2010,Summer     ,Gujarat,79800.0,242000,1107.5,2.987777778
+Wheat,2010,Rabi       ,Gujarat,1588600.0,5013400,1107.5,3.0388
+Maize,2010,Kharif     ,Haryana,9662.0,19000,639.2,0.8175
+Onion,2010,Whole Year ,Haryana,2150.0,43800,639.2,19.95642857
+Rice,2010,Kharif     ,Haryana,1243281.0,3465000,639.2,2.561428571
+Wheat,2010,Rabi       ,Haryana,2503963.0,11578000,639.2,4.483333333
+Maize,2010,Kharif     ,Himachal Pradesh,281664.0,641530,1319.8,2.593333333
+Rice,2010,Kharif     ,Himachal Pradesh,75426.0,110238,1319.8,1.561818182
+Wheat,2010,Rabi       ,Himachal Pradesh,346936.0,534707,1319.8,1.539166667
+Maize,2010,Kharif     ,Madhya Pradesh,837865.0,1332205,856.3,1.3712
+Onion,2010,Whole Year ,Madhya Pradesh,56243.0,902250,856.3,14.7518
+Rice,2010,Kharif     ,Madhya Pradesh,1573535.0,1766596,856.3,1.211666667
+Wheat,2010,Rabi       ,Madhya Pradesh,4633125.0,9219781,856.3,1.8744
+Maize,2010,Kharif     ,Maharashtra,730600.0,2208900,1389.0,2.230769231
+Maize,2010,Rabi       ,Maharashtra,137600.0,361800,1389.0,2.514
+Maize,2010,Summer     ,Maharashtra,22300.0,31300,1389.0,1.26
+Rice,2010,Kharif     ,Maharashtra,1486200.0,2625100,1389.0,1.3116
+Rice,2010,Summer     ,Maharashtra,29500.0,65800,1389.0,2.388888889
+Wheat,2010,Rabi       ,Maharashtra,1306600.0,2300800,1389.0,1.709333333
+Maize,2010,Kharif     ,Manipur,18520.0,33510,2160.5,1.74
+Maize,2010,Rabi       ,Manipur,3850.0,8000,2160.5,2.051111111
+Rice,2010,Kharif     ,Manipur,212680.0,480240,2160.5,1.945555556
+Wheat,2010,Rabi       ,Manipur,2100.0,5250,2160.5,2.475
+Maize,2010,Kharif     ,Mizoram,8721.0,13055,2738.7,1.62125
+Maize,2010,Rabi       ,Mizoram,284.0,445,2738.7,2.362
+Onion,2010,Rabi       ,Mizoram,3.0,9,2738.7,3.0
+Rice,2010,Autumn     ,Mizoram,28562.0,26499,2738.7,0.92625
+Rice,2010,Kharif     ,Mizoram,12123.0,20697,2738.7,1.495
+Rice,2010,Rabi       ,Mizoram,7.0,6,2738.7,0.86
+Maize,2010,Kharif     ,Nagaland,63430.0,124200,1771.8,1.958181818
+Maize,2010,Rabi       ,Nagaland,5000.0,9800,1771.8,1.956666667
+Rice,2010,Kharif     ,Nagaland,180060.0,378210,1771.8,2.051818182
+Rice,2010,Rabi       ,Nagaland,1330.0,3150,1771.8,2.38
+Wheat,2010,Rabi       ,Nagaland,3120.0,5340,1771.8,1.712222222
+Maize,2010,Kharif     ,Punjab,133000.0,491000,392.7,3.710909091
+Rice,2010,Kharif     ,Punjab,2831000.0,10837000,392.7,3.834
+Wheat,2010,Rabi       ,Punjab,3510000.0,16472000,392.7,4.6485
+Maize,2010,Kharif     ,Tamil Nadu,230489.0,1027536,1095.2,4.527857143
+Rice,2010,Kharif     ,Tamil Nadu,1905726.0,5792415,1095.2,3.597419355
+Maize,2010,Kharif     ,Tripura,3101.0,4104,2348.3,1.3325
+Rice,2010,Kharif     ,Tripura,264558.0,702473,2348.3,2.5725
+Wheat,2010,Rabi       ,Tripura,316.0,637,2348.3,2.02
+Maize,2010,Kharif     ,Uttar Pradesh,718026.0,1052727,742.6,1.40915493
+Maize,2010,Rabi       ,Uttar Pradesh,5492.0,16498,742.6,3.0012
+Maize,2010,Summer     ,Uttar Pradesh,30204.0,44279,742.6,1.469285714
+Onion,2010,Rabi       ,Uttar Pradesh,9830.0,180951,742.6,18.39901408
+Rice,2010,Kharif     ,Uttar Pradesh,5631949.0,11938078,742.6,2.052916667
+Rice,2010,Summer     ,Uttar Pradesh,25121.0,54221,742.6,2.032222222
+Wheat,2010,Rabi       ,Uttar Pradesh,9636540.0,30000632,742.6,3.077222222
+Maize,2010,Kharif     ,Uttarakhand,26193.0,40494,1419.0,1.386153846
+Maize,2010,Rabi       ,Uttarakhand,64.0,130,1419.0,1.896666667
+Onion,2010,Whole Year ,Uttarakhand,2230.0,11814,1419.0,5.695833333
+Rice,2010,Kharif     ,Uttarakhand,270416.0,495083,1419.0,1.540769231
+Rice,2010,Rabi       ,Uttarakhand,15277.0,50503,1419.0,2.25
+Wheat,2010,Rabi       ,Uttarakhand,371225.0,882920,1419.0,1.863846154
+Maize,2010,Kharif     ,Jammu and Kashmir,308215.0,527690,1352.0,1.5675
+Onion,2010,Kharif     ,Jammu and Kashmir,187.0,166,1352.0,0.984285714
+Onion,2010,Rabi       ,Jammu and Kashmir,462.0,1110,1352.0,2.207142857
+Rice,2010,Kharif     ,Jammu and Kashmir,261347.0,507404,1352.0,1.874
+Wheat,2010,Rabi       ,Jammu and Kashmir,286777.0,442706,1352.0,1.468
+Onion,2010,Rabi       ,Jharkhand,3026.0,17427,694.6,6.59
+Wheat,2010,Rabi       ,Jharkhand,49596.0,54110,694.6,1.091666667
+Maize,2010,Autumn     ,West Bengal,32295.0,83580,1096.0,2.453846154
+Maize,2010,Rabi       ,West Bengal,17229.0,84356,1096.0,3.234545455
+Maize,2010,Summer     ,West Bengal,39124.0,184380,1096.0,2.883529412
+Rice,2010,Autumn     ,West Bengal,212132.0,453439,1096.0,2.081666667
+Rice,2010,Summer     ,West Bengal,1369892.0,4506848,1096.0,3.123888889
+Rice,2010,Winter     ,West Bengal,3362122.0,8429323,1096.0,2.487222222
+Wheat,2010,Rabi       ,West Bengal,316808.0,874415,1096.0,2.496666667
+Maize,2011,Autumn     ,Bihar,263936.0,622416,1097.1,2.402432432
+Maize,2011,Rabi       ,Bihar,239586.0,1098173,1097.1,4.221764706
+Maize,2011,Summer     ,Bihar,193311.0,836474,1097.1,4.129166667
+Rice,2011,Autumn     ,Bihar,570397.0,914228,1097.1,1.546774194
+Rice,2011,Summer     ,Bihar,96160.0,182628,1097.1,1.736190476
+Rice,2011,Winter     ,Bihar,2684379.0,7141115,1097.1,2.491578947
+Wheat,2011,Rabi       ,Bihar,2141892.0,6530955,1097.1,3.028684211
+Maize,2011,Kharif     ,Chhattisgarh,107435.0,177805,1302.7,1.542592593
+Onion,2011,Whole Year ,Chhattisgarh,5284.0,27352,1302.7,4.764782609
+Rice,2011,Kharif     ,Chhattisgarh,3939826.0,6300825,1302.7,1.527777778
+Wheat,2011,Rabi       ,Chhattisgarh,104825.0,135121,1302.7,1.512
+Maize,2011,Kharif     ,Gujarat,387000.0,539400,890.5,1.466
+Maize,2011,Rabi       ,Gujarat,106100.0,199900,890.5,2.026363636
+Maize,2011,Summer     ,Gujarat,22800.0,47300,890.5,1.792857143
+Onion,2011,Rabi       ,Gujarat,63600.0,1860500,890.5,24.66956522
+Onion,2011,Summer     ,Gujarat,9200.0,258600,890.5,26.965
+Rice,2011,Kharif     ,Gujarat,751300.0,1521800,890.5,1.951666667
+Rice,2011,Summer     ,Gujarat,84200.0,267900,890.5,3.122222222
+Wheat,2011,Rabi       ,Gujarat,1350600.0,4072100,890.5,3.01
+Maize,2011,Kharif     ,Haryana,11045.0,30000,471.5409091,1.145
+Onion,2011,Whole Year ,Haryana,1860.0,32400,471.5409091,16.7075
+Rice,2011,Kharif     ,Haryana,1234094.0,3574300,471.5409091,2.63047619
+Wheat,2011,Rabi       ,Haryana,2531302.0,13119000,471.5409091,5.031904762
+Maize,2011,Kharif     ,Himachal Pradesh,290241.0,612701,1108.3,2.435
+Onion,2011,Rabi       ,Himachal Pradesh,724.0,6262,1108.3,9.198
+Rice,2011,Kharif     ,Himachal Pradesh,75043.0,108648,1108.3,1.545454545
+Wheat,2011,Rabi       ,Himachal Pradesh,345182.0,506782,1108.3,1.423333333
+Maize,2011,Kharif     ,Madhya Pradesh,848894.0,1316635,852.6,1.111428571
+Onion,2011,Whole Year ,Madhya Pradesh,67857.0,1267840,852.6,17.7412
+Rice,2011,Kharif     ,Madhya Pradesh,1693231.0,2273045,852.6,1.400416667
+Wheat,2011,Rabi       ,Madhya Pradesh,5248479.0,14537038,852.6,2.5908
+Maize,2011,Kharif     ,Maharashtra,736200.0,2126700,1174.095455,2.101851852
+Maize,2011,Rabi       ,Maharashtra,116200.0,294500,1174.095455,2.656666667
+Maize,2011,Summer     ,Maharashtra,24900.0,36400,1174.095455,1.311666667
+Rice,2011,Kharif     ,Maharashtra,1516400.0,2784600,1174.095455,1.319642857
+Rice,2011,Summer     ,Maharashtra,27800.0,64300,1174.095455,2.427777778
+Wheat,2011,Rabi       ,Maharashtra,878100.0,1498800,1174.095455,1.646666667
+Maize,2011,Kharif     ,Manipur,20000.0,35500,1533.561905,1.696666667
+Maize,2011,Rabi       ,Manipur,4850.0,10500,1533.561905,2.156666667
+Rice,2011,Kharif     ,Manipur,223670.0,591000,1533.561905,2.34
+Wheat,2011,Rabi       ,Manipur,2150.0,5370,1533.561905,2.473333333
+Maize,2011,Kharif     ,Mizoram,6696.0,8130,2439.340909,1.32
+Maize,2011,Rabi       ,Mizoram,209.0,268,2439.340909,1.326666667
+Onion,2011,Rabi       ,Mizoram,2.0,8,2439.340909,4.0
+Rice,2011,Autumn     ,Mizoram,25826.0,26644,2439.340909,1.04125
+Rice,2011,Kharif     ,Mizoram,12700.0,25304,2439.340909,2.03125
+Rice,2011,Rabi       ,Mizoram,450.0,947,2439.340909,2.3775
+Maize,2011,Kharif     ,Nagaland,63500.0,124460,1544.354545,1.954545455
+Maize,2011,Rabi       ,Nagaland,5020.0,9840,1544.354545,1.956666667
+Rice,2011,Kharif     ,Nagaland,179050.0,376390,1544.354545,2.049090909
+Rice,2011,Rabi       ,Nagaland,2530.0,5990,1544.354545,2.34
+Wheat,2011,Rabi       ,Nagaland,3150.0,5390,1544.354545,1.711111111
+Maize,2011,Kharif     ,Punjab,126000.0,502000,705.2,4.359090909
+Rice,2011,Kharif     ,Punjab,2818000.0,10542000,705.2,3.7495
+Wheat,2011,Rabi       ,Punjab,3528000.0,17982000,705.2,5.0675
+Maize,2011,Kharif     ,Tripura,3743.0,5058,2295.609091,1.3375
+Rice,2011,Kharif     ,Tripura,265999.0,718304,2295.609091,2.63
+Wheat,2011,Rabi       ,Tripura,274.0,536,2295.609091,1.9375
+Maize,2011,Kharif     ,Uttar Pradesh,745217.0,1232077,777.4,1.535352113
+Maize,2011,Rabi       ,Uttar Pradesh,8864.0,21143,777.4,2.371153846
+Maize,2011,Summer     ,Uttar Pradesh,33320.0,55078,777.4,1.666065574
+Onion,2011,Rabi       ,Uttar Pradesh,11464.0,262239,777.4,22.87569444
+Onion,2011,Summer     ,Uttar Pradesh,13138.0,142324,777.4,10.79070423
+Rice,2011,Kharif     ,Uttar Pradesh,5922643.0,13962896,777.4,2.294444444
+Rice,2011,Summer     ,Uttar Pradesh,23642.0,59496,777.4,2.335909091
+Wheat,2011,Rabi       ,Uttar Pradesh,9731150.0,31892480,777.4,3.253333333
+Maize,2011,Kharif     ,Uttarakhand,25472.0,38284,1564.7,1.37
+Maize,2011,Summer     ,Uttarakhand,47.0,94,1564.7,1.873333333
+Onion,2011,Whole Year ,Uttarakhand,2149.0,11529,1564.7,5.808461538
+Rice,2011,Kharif     ,Uttarakhand,261319.0,544497,1564.7,1.684615385
+Rice,2011,Summer     ,Uttarakhand,13680.0,45267,1564.7,3.31
+Wheat,2011,Rabi       ,Uttarakhand,355549.0,864836,1564.7,1.873076923
+Maize,2011,Autumn     ,Jharkhand,65931.0,92140,1374.7,1.34625
+Onion,2011,Rabi       ,Jharkhand,3184.0,20676,1374.7,6.4995
+Rice,2011,Autumn     ,Jharkhand,150654.0,126012,1374.7,0.79173913
+Rice,2011,Winter     ,Jharkhand,832047.0,1250312,1374.7,1.554166667
+Wheat,2011,Rabi       ,Jharkhand,47933.0,73657,1374.7,1.486666667
+Maize,2011,Autumn     ,West Bengal,34052.0,77279,1686.5,2.037272727
+Maize,2011,Rabi       ,West Bengal,22614.0,107784,1686.5,3.447272727
+Maize,2011,Summer     ,West Bengal,41172.0,179065,1686.5,2.755555556
+Rice,2011,Autumn     ,West Bengal,212971.0,471282,1686.5,2.072222222
+Rice,2011,Summer     ,West Bengal,1221076.0,3875100,1686.5,3.035
+Rice,2011,Winter     ,West Bengal,3999653.0,10259384,1686.5,2.475555556
+Wheat,2011,Rabi       ,West Bengal,315659.0,872895,1686.5,2.49
+Maize,2012,Autumn     ,Bihar,261039.0,926315,924.1,3.673513514
+Maize,2012,Rabi       ,Bihar,242336.0,791005,924.1,3.189714286
+Maize,2012,Summer     ,Bihar,189961.0,1038634,924.1,5.096756757
+Rice,2012,Autumn     ,Bihar,540424.0,960007,924.1,1.743793103
+Rice,2012,Summer     ,Bihar,105117.0,285835,924.1,2.396086957
+Rice,2012,Winter     ,Bihar,2653346.0,7076168,924.1,2.567894737
+Wheat,2012,Rabi       ,Bihar,2207704.0,6174260,924.1,2.749210526
+Maize,2012,Kharif     ,Chhattisgarh,116839.0,225109,1366.8,1.844814815
+Onion,2012,Whole Year ,Chhattisgarh,5428.0,18613,1366.8,3.120416667
+Rice,2012,Kharif     ,Chhattisgarh,3982172.0,7848401,1366.8,1.91962963
+Wheat,2012,Rabi       ,Chhattisgarh,102230.0,143226,1366.8,1.6104
+Maize,2012,Kharif     ,Gujarat,373200.0,625000,460.6,1.673888889
+Maize,2012,Rabi       ,Gujarat,80600.0,157100,460.6,1.858
+Maize,2012,Summer     ,Gujarat,4000.0,8300,460.6,1.715
+Onion,2012,Rabi       ,Gujarat,14500.0,354200,460.6,23.321
+Onion,2012,Summer     ,Gujarat,2200.0,55000,460.6,22.094
+Rice,2012,Kharif     ,Gujarat,672000.0,1408100,460.6,1.98
+Rice,2012,Summer     ,Gujarat,29100.0,89200,460.6,2.943
+Wheat,2012,Rabi       ,Gujarat,1023500.0,2944000,460.6,2.9216
+Maize,2012,Kharif     ,Haryana,9878.0,26000,307.9,1.236
+Onion,2012,Whole Year ,Haryana,2330.0,65900,307.9,25.96909091
+Rice,2012,Kharif     ,Haryana,1206255.0,3941000,307.9,3.041
+Wheat,2012,Rabi       ,Haryana,2496905.0,11117000,307.9,4.409047619
+Maize,2012,Kharif     ,Himachal Pradesh,275973.0,605082,1035.0,2.4975
+Onion,2012,Rabi       ,Himachal Pradesh,748.0,6967,1035.0,9.482
+Rice,2012,Kharif     ,Himachal Pradesh,75380.0,111252,1035.0,1.577272727
+Wheat,2012,Rabi       ,Himachal Pradesh,350121.0,656543,1035.0,1.894166667
+Maize,2012,Kharif     ,Madhya Pradesh,854518.0,2380688,1049.5,2.280204082
+Onion,2012,Whole Year ,Madhya Pradesh,72818.0,1423301,1049.5,19.753
+Rice,2012,Kharif     ,Madhya Pradesh,1791157.0,3106146,1049.5,1.631041667
+Wheat,2012,Rabi       ,Madhya Pradesh,5601025.0,16510524,1049.5,2.8566
+Maize,2012,Kharif     ,Maharashtra,688800.0,1581900,1003.4,1.825769231
+Maize,2012,Rabi       ,Maharashtra,121000.0,229800,1003.4,1.665
+Maize,2012,Summer     ,Maharashtra,12100.0,14700,1003.4,1.124444444
+Rice,2012,Kharif     ,Maharashtra,1528100.0,3001640,1003.4,1.316153846
+Rice,2012,Summer     ,Maharashtra,30900.0,76400,1003.4,2.38
+Wheat,2012,Rabi       ,Maharashtra,785000.0,1198700,1003.4,1.461034483
+Maize,2012,Kharif     ,Manipur,12640.0,25470,1176.7,1.998888889
+Maize,2012,Rabi       ,Manipur,6800.0,19000,1176.7,2.796666667
+Rice,2012,Kharif     ,Manipur,122690.0,257580,1176.7,1.937777778
+Wheat,2012,Rabi       ,Manipur,2400.0,6000,1176.7,2.5
+Maize,2012,Kharif     ,Mizoram,5995.2,7769,2050.2,1.375
+Maize,2012,Rabi       ,Mizoram,180.0,295,2050.2,2.025
+Rice,2012,Autumn     ,Mizoram,24706.0,27128,2050.2,1.095
+Rice,2012,Kharif     ,Mizoram,14330.0,29983,2050.2,2.2925
+Rice,2012,Rabi       ,Mizoram,306.0,589,2050.2,2.3525
+Maize,2012,Kharif     ,Nagaland,63530.0,124580,1296.6,1.955454545
+Maize,2012,Rabi       ,Nagaland,5140.0,10070,1296.6,1.96
+Rice,2012,Kharif     ,Nagaland,179780.0,396230,1296.6,2.15
+Rice,2012,Rabi       ,Nagaland,3550.0,8950,1296.6,2.52
+Wheat,2012,Rabi       ,Nagaland,3270.0,5890,1296.6,1.797777778
+Maize,2012,Kharif     ,Punjab,131000.0,483000,338.9,3.5125
+Rice,2012,Kharif     ,Punjab,2849000.0,11390000,338.9,3.923636364
+Wheat,2012,Rabi       ,Punjab,3517000.0,16614000,338.9,4.677272727
+Maize,2012,Kharif     ,Tamil Nadu,291052.0,946363,706.8,3.498214286
+Rice,2012,Kharif     ,Tamil Nadu,1493276.0,4050334,706.8,3.293225806
+Maize,2012,Kharif     ,Tripura,3948.0,5177,1882.2,1.3175
+Rice,2012,Kharif     ,Tripura,254743.0,713222,1882.2,2.78
+Wheat,2012,Rabi       ,Tripura,334.0,827,1882.2,2.43625
+Maize,2012,Kharif     ,Uttar Pradesh,698089.0,1289406,746.3,1.696666667
+Maize,2012,Rabi       ,Uttar Pradesh,7261.0,22734,746.3,3.108695652
+Maize,2012,Summer     ,Uttar Pradesh,30649.0,56607,746.3,1.849677419
+Onion,2012,Rabi       ,Uttar Pradesh,10934.0,251513,746.3,23.00081081
+Onion,2012,Summer     ,Uttar Pradesh,12387.0,134766,746.3,10.85549296
+Rice,2012,Kharif     ,Uttar Pradesh,5837298.0,14353736,746.3,2.4092
+Rice,2012,Summer     ,Uttar Pradesh,23984.0,62203,746.3,2.434761905
+Wheat,2012,Rabi       ,Uttar Pradesh,9733617.0,31332434,746.3,3.2492
+Maize,2012,Kharif     ,Uttarakhand,26096.0,38701,1309.8,1.387692308
+Maize,2012,Summer     ,Uttarakhand,51.0,102,1309.8,1.453333333
+Onion,2012,Whole Year ,Uttarakhand,2322.0,12287,1309.8,5.809166667
+Rice,2012,Kharif     ,Uttarakhand,255037.0,561339,1309.8,1.750769231
+Rice,2012,Summer     ,Uttarakhand,14200.0,45552,1309.8,3.21
+Wheat,2012,Rabi       ,Uttarakhand,349669.0,853769,1309.8,1.954615385
+Maize,2012,Autumn     ,Jharkhand,93589.0,118472,1102.0,1.367916667
+Onion,2012,Rabi       ,Jharkhand,3087.0,17468,1102.0,6.117826087
+Rice,2012,Autumn     ,Jharkhand,148761.0,129693,1102.0,0.761304348
+Rice,2012,Winter     ,Jharkhand,942310.0,1292796,1102.0,1.338333333
+Wheat,2012,Rabi       ,Jharkhand,69336.0,128571,1102.0,1.663333333
+Maize,2012,Autumn     ,West Bengal,40588.0,96769,1566.0,2.358
+Maize,2012,Rabi       ,West Bengal,33709.0,157468,1566.0,3.544166667
+Maize,2012,Summer     ,West Bengal,48715.0,207174,1566.0,2.873888889
+Rice,2012,Autumn     ,West Bengal,205082.0,471150,1566.0,2.259444444
+Rice,2012,Summer     ,West Bengal,1228263.0,4065052,1566.0,3.206111111
+Rice,2012,Winter     ,West Bengal,4010973.0,10410533,1566.0,2.53
+Wheat,2012,Rabi       ,West Bengal,321572.0,895927,1566.0,2.555
+Maize,2013,Autumn     ,Bihar,276577.0,778209,1069.9,2.933783784
+Maize,2013,Rabi       ,Bihar,263499.0,1199389,1069.9,4.180294118
+Maize,2013,Summer     ,Bihar,192263.0,926639,1069.9,4.573243243
+Rice,2013,Autumn     ,Bihar,549404.0,798676,1069.9,1.413
+Rice,2013,Summer     ,Bihar,92207.0,215952,1069.9,2.233157895
+Rice,2013,Winter     ,Bihar,2509203.0,5634961,1069.9,2.066842105
+Wheat,2013,Rabi       ,Bihar,2148818.0,6134679,1069.9,2.835
+Maize,2013,Kharif     ,Chhattisgarh,123430.0,254134,1418.3,1.981481481
+Maize,2013,Rabi       ,Chhattisgarh,33.0,117,1418.3,3.55
+Maize,2013,Summer     ,Chhattisgarh,127.0,233,1418.3,1.83
+Onion,2013,Rabi       ,Chhattisgarh,87.0,1769,1418.3,20.33
+Onion,2013,Summer     ,Chhattisgarh,90.0,1211,1418.3,13.46
+Onion,2013,Whole Year ,Chhattisgarh,5745.0,40905,1418.3,6.4736
+Rice,2013,Kharif     ,Chhattisgarh,3987721.0,7102729,1418.3,1.75037037
+Wheat,2013,Rabi       ,Chhattisgarh,105033.0,140756,1418.3,1.5332
+Maize,2013,Kharif     ,Gujarat,333135.0,421915,1006.5,1.345
+Maize,2013,Rabi       ,Gujarat,92747.0,196862,1006.5,2.120714286
+Maize,2013,Summer     ,Gujarat,6541.0,13374,1006.5,1.894
+Onion,2013,Rabi       ,Gujarat,68688.0,2095709,1006.5,30.73391304
+Onion,2013,Summer     ,Gujarat,11011.0,312805,1006.5,27.96125
+Rice,2013,Kharif     ,Gujarat,787300.0,1672585,1006.5,1.939411765
+Rice,2013,Summer     ,Gujarat,33099.0,105505,1006.5,3.133636364
+Wheat,2013,Rabi       ,Gujarat,1442288.0,4607993,1006.5,3.072
+Maize,2013,Kharif     ,Haryana,8000.0,24000,452.2,3.2
+Onion,2013,Whole Year ,Haryana,30163.0,672164,452.2,22.45714286
+Rice,2013,Kharif     ,Haryana,1244000.0,4041000,452.2,3.112
+Wheat,2013,Rabi       ,Haryana,2499000.0,11800000,452.2,4.623809524
+Maize,2013,Kharif     ,Himachal Pradesh,291960.0,594280,1216.9,2.336666667
+Onion,2013,Rabi       ,Himachal Pradesh,764.0,7246,1216.9,9.466666667
+Rice,2013,Kharif     ,Himachal Pradesh,73139.0,106899,1216.9,1.565454545
+Wheat,2013,Rabi       ,Himachal Pradesh,415665.0,324283,1216.9,0.786666667
+Maize,2013,Kharif     ,Madhya Pradesh,851639.0,1486110,1451.4,1.5412
+Onion,2013,Whole Year ,Madhya Pradesh,79260.0,1476852,1451.4,17.25431373
+Rice,2013,Kharif     ,Madhya Pradesh,1881546.0,3321724,1451.4,1.410204082
+Wheat,2013,Rabi       ,Madhya Pradesh,6123044.0,15722722,1451.4,2.538431373
+Maize,2013,Kharif     ,Maharashtra,746700.0,2643900,1409.8,2.6244
+Maize,2013,Rabi       ,Maharashtra,171600.0,443600,1409.8,2.4765
+Maize,2013,Summer     ,Maharashtra,28200.0,36300,1409.8,1.265833333
+Rice,2013,Kharif     ,Maharashtra,1567500.0,3016600,1409.8,1.436
+Rice,2013,Summer     ,Maharashtra,37400.0,91690,1409.8,2.423333333
+Wheat,2013,Rabi       ,Maharashtra,1028200.0,1480000,1409.8,1.462413793
+Maize,2013,Kharif     ,Manipur,19590.0,42750,1428.8,2.186666667
+Maize,2013,Rabi       ,Manipur,6310.0,15190,1428.8,2.408888889
+Rice,2013,Kharif     ,Manipur,222800.0,597670,1428.8,2.354444444
+Wheat,2013,Rabi       ,Manipur,2160.0,5400,1428.8,2.495
+Maize,2013,Kharif     ,Mizoram,5618.0,7994,1848.8,1.65625
+Maize,2013,Rabi       ,Mizoram,175.0,227,1848.8,1.4325
+Rice,2013,Autumn     ,Mizoram,22633.0,25671,1848.8,1.10625
+Rice,2013,Kharif     ,Mizoram,15620.0,32440,1848.8,2.1475
+Rice,2013,Rabi       ,Mizoram,550.0,883,1848.8,1.666666667
+Maize,2013,Kharif     ,Nagaland,63570.0,125160,1350.9,1.97
+Maize,2013,Rabi       ,Nagaland,5210.0,10280,1350.9,1.971666667
+Rice,2013,Kharif     ,Nagaland,185670.0,419640,1350.9,2.203636364
+Rice,2013,Rabi       ,Nagaland,3810.0,10000,1350.9,2.633333333
+Wheat,2013,Rabi       ,Nagaland,3000.0,5470,1350.9,1.824444444
+Maize,2013,Kharif     ,Punjab,130000.0,507000,586.6,4.231428571
+Rice,2013,Kharif     ,Punjab,2851000.0,11267000,586.6,3.834090909
+Wheat,2013,Rabi       ,Punjab,3512000.0,17620000,586.6,4.936818182
+Maize,2013,Kharif     ,Telangana,552897.0,2436849,1348.7,4.022222222
+Maize,2013,Rabi       ,Telangana,197322.0,1074644,1348.7,5.292222222
+Onion,2013,Kharif     ,Telangana,3984.0,74919,1348.7,18.82666667
+Onion,2013,Rabi       ,Telangana,10794.0,359826,1348.7,31.81375
+Rice,2013,Kharif     ,Telangana,1166334.0,3768045,1348.7,3.115555556
+Rice,2013,Rabi       ,Telangana,828103.0,2813045,1348.7,3.203333333
+Wheat,2013,Rabi       ,Telangana,7039.0,4366,1348.7,0.74
+Maize,2013,Kharif     ,Tripura,4549.0,5805,2043.5,1.29375
+Rice,2013,Kharif     ,Tripura,254254.0,711831,2043.5,2.775
+Wheat,2013,Rabi       ,Tripura,150.0,300,2043.5,1.93375
+Maize,2013,Kharif     ,Uttar Pradesh,695526.0,1277851,995.2,1.702
+Maize,2013,Rabi       ,Uttar Pradesh,13418.0,47674,995.2,3.5572
+Maize,2013,Summer     ,Uttar Pradesh,58002.0,106550,995.2,1.840877193
+Onion,2013,Rabi       ,Uttar Pradesh,12232.0,248779,995.2,20.33626667
+Onion,2013,Summer     ,Uttar Pradesh,12195.0,164098,995.2,13.33986301
+Rice,2013,Kharif     ,Uttar Pradesh,5955306.0,14565665,995.2,2.396133333
+Rice,2013,Summer     ,Uttar Pradesh,27063.0,70171,995.2,2.479047619
+Wheat,2013,Rabi       ,Uttar Pradesh,9839197.0,31492656,995.2,3.2156
+Maize,2013,Kharif     ,Uttarakhand,23534.0,33712,1735.4,1.412307692
+Maize,2013,Summer     ,Uttarakhand,48.0,118,1735.4,2.4325
+Onion,2013,Whole Year ,Uttarakhand,2359.0,12452,1735.4,5.754166667
+Rice,2013,Kharif     ,Uttarakhand,246959.0,551758,1735.4,1.736153846
+Rice,2013,Summer     ,Uttarakhand,12420.0,41310,1735.4,3.353333333
+Wheat,2013,Rabi       ,Uttarakhand,343637.0,848134,1735.4,1.978461538
+Maize,2013,Autumn     ,Jharkhand,85854.0,136388,1253.6,1.467916667
+Onion,2013,Rabi       ,Jharkhand,3640.0,24604,1253.6,21.76956522
+Rice,2013,Autumn     ,Jharkhand,154068.0,131682,1253.6,0.854782609
+Rice,2013,Winter     ,Jharkhand,933073.0,1366639,1253.6,1.422083333
+Wheat,2013,Rabi       ,Jharkhand,73527.0,106208,1253.6,1.550416667
+Maize,2013,Autumn     ,West Bengal,43701.0,117402,1939.9,2.767777778
+Maize,2013,Rabi       ,West Bengal,46869.0,252419,1939.9,3.530833333
+Maize,2013,Summer     ,West Bengal,53334.0,250660,1939.9,2.987222222
+Rice,2013,Autumn     ,West Bengal,210036.0,493651,1939.9,2.252777778
+Rice,2013,Summer     ,West Bengal,1286995.0,4338142,1939.9,3.127222222
+Rice,2013,Winter     ,West Bengal,4016656.0,10545076,1939.9,2.626111111
+Wheat,2013,Rabi       ,West Bengal,331481.0,927837,1939.9,2.538888889
+Maize,2014,Autumn     ,Bihar,277416.0,825146,1061.0,2.717368421
+Maize,2014,Rabi       ,Bihar,251716.0,913784,1061.0,3.269705882
+Maize,2014,Summer     ,Bihar,177386.0,739815,1061.0,3.988378378
+Rice,2014,Autumn     ,Bihar,581128.0,1010341,1061.0,1.738965517
+Rice,2014,Summer     ,Bihar,82265.0,181555,1061.0,1.971764706
+Rice,2014,Winter     ,Bihar,2599981.0,7049728,1061.0,2.625263158
+Wheat,2014,Rabi       ,Bihar,2154423.0,3570211,1061.0,1.676315789
+Maize,2014,Kharif     ,Chhattisgarh,125074.0,235014,1274.7,1.803333333
+Onion,2014,Whole Year ,Chhattisgarh,4808.0,42902,1274.7,8.960869565
+Rice,2014,Kharif     ,Chhattisgarh,4035700.0,7977746,1274.7,1.92962963
+Wheat,2014,Rabi       ,Chhattisgarh,103195.0,153321,1274.7,1.745384615
+Maize,2014,Kharif     ,Gujarat,308788.0,387805,605.6,1.409090909
+Maize,2014,Rabi       ,Gujarat,79664.0,169660,605.6,1.969375
+Maize,2014,Summer     ,Gujarat,5890.0,11341,605.6,1.847857143
+Onion,2014,Rabi       ,Gujarat,38809.0,1081939,605.6,28.18724138
+Onion,2014,Summer     ,Gujarat,8185.0,233276,605.6,26.506
+Rice,2014,Kharif     ,Gujarat,763205.0,1671308,605.6,1.867368421
+Rice,2014,Summer     ,Gujarat,31238.0,100275,605.6,3.144166667
+Wheat,2014,Rabi       ,Gujarat,1171449.0,3293487,605.6,2.8178125
+Maize,2014,Kharif     ,Haryana,9000.0,18000,301.3,2.0
+Onion,2014,Whole Year ,Haryana,28688.0,640215,301.3,22.56047619
+Rice,2014,Kharif     ,Haryana,1277000.0,3989000,301.3,2.9465
+Wheat,2014,Rabi       ,Haryana,2628000.0,10457000,301.3,3.782857143
+Maize,2014,Kharif     ,Himachal Pradesh,289204.0,503715,1019.9,1.985
+Onion,2014,Rabi       ,Himachal Pradesh,806.0,7600,1019.9,9.471
+Rice,2014,Kharif     ,Himachal Pradesh,72380.0,116365,1019.9,1.72
+Wheat,2014,Rabi       ,Himachal Pradesh,345548.0,639209,1019.9,1.846666667
+Maize,2014,Kharif     ,Madhya Pradesh,1131000.0,2530000,891.2,2.093061224
+Rice,2014,Kharif     ,Madhya Pradesh,2057000.0,3522660,891.2,1.663488372
+Wheat,2014,Rabi       ,Madhya Pradesh,5999000.0,18463000,891.2,2.904705882
+Maize,2014,Kharif     ,Maharashtra,800500.0,1496100,1001.6,1.76
+Maize,2014,Rabi       ,Maharashtra,239800.0,651400,1001.6,1.730869565
+Maize,2014,Summer     ,Maharashtra,35900.0,53700,1001.6,1.240454545
+Rice,2014,Kharif     ,Maharashtra,1508400.0,2835400,1001.6,1.3064
+Rice,2014,Summer     ,Maharashtra,42800.0,111200,1001.6,2.52375
+Wheat,2014,Rabi       ,Maharashtra,1067300.0,1307700,1001.6,1.20137931
+Maize,2014,Kharif     ,Manipur,19590.0,43350,987.5,2.234444444
+Maize,2014,Rabi       ,Manipur,6600.0,15400,987.5,2.334444444
+Rice,2014,Kharif     ,Manipur,224380.0,501980,987.5,2.073333333
+Wheat,2014,Rabi       ,Manipur,2160.0,5620,987.5,2.631666667
+Maize,2014,Kharif     ,Mizoram,5553.0,8444,2029.9,1.65875
+Maize,2014,Rabi       ,Mizoram,142.0,180,2029.9,2.23
+Rice,2014,Autumn     ,Mizoram,20064.0,23583,2029.9,1.14875
+Rice,2014,Kharif     ,Mizoram,16380.0,35983,2029.9,2.2825
+Rice,2014,Rabi       ,Mizoram,486.0,1113,2029.9,2.063333333
+Maize,2014,Kharif     ,Nagaland,63600.0,125630,1333.3,1.973636364
+Maize,2014,Rabi       ,Nagaland,5220.0,10310,1333.3,1.975
+Rice,2014,Kharif     ,Nagaland,191230.0,443450,1333.3,2.260909091
+Rice,2014,Rabi       ,Nagaland,4010.0,10740,1333.3,2.683333333
+Wheat,2014,Rabi       ,Nagaland,3070.0,5600,1333.3,1.823333333
+Maize,2014,Kharif     ,Punjab,126000.0,460000,382.7,3.918571429
+Rice,2014,Kharif     ,Punjab,2894000.0,11107000,382.7,3.728181818
+Wheat,2014,Rabi       ,Punjab,3505000.0,15050000,382.7,4.174090909
+Maize,2014,Kharif     ,Telangana,521865.0,1408615,746.4,2.935555556
+Maize,2014,Rabi       ,Telangana,169606.0,899436,746.4,4.993333333
+Onion,2014,Kharif     ,Telangana,5552.0,86305,746.4,15.05142857
+Onion,2014,Rabi       ,Telangana,8367.0,228542,746.4,26.84555556
+Rice,2014,Kharif     ,Telangana,920307.0,2854873,746.4,2.958888889
+Rice,2014,Rabi       ,Telangana,495113.0,1690109,746.4,3.332222222
+Wheat,2014,Rabi       ,Telangana,5828.0,6929,746.4,1.156
+Maize,2014,Kharif     ,Tripura,4519.0,5963,2015.7,1.30875
+Rice,2014,Kharif     ,Tripura,257273.0,746954,2015.7,2.885
+Wheat,2014,Rabi       ,Tripura,135.0,304,2015.7,2.21375
+Maize,2014,Kharif     ,Uttar Pradesh,642726.0,1142861,616.4,1.693783784
+Maize,2014,Rabi       ,Uttar Pradesh,10653.0,25493,616.4,2.444166667
+Maize,2014,Summer     ,Uttar Pradesh,62374.0,110903,616.4,1.784310345
+Onion,2014,Rabi       ,Uttar Pradesh,10021.0,153311,616.4,15.2939726
+Onion,2014,Summer     ,Uttar Pradesh,11256.0,170211,616.4,14.41890411
+Rice,2014,Kharif     ,Uttar Pradesh,5842029.0,13241518,616.4,2.240533333
+Rice,2014,Summer     ,Uttar Pradesh,29947.0,75449,616.4,2.384090909
+Wheat,2014,Rabi       ,Uttar Pradesh,9846466.0,20054791,616.4,2.065466667
+Maize,2014,Kharif     ,Uttarakhand,23757.0,49135,1287.4,1.822307692
+Maize,2014,Summer     ,Uttarakhand,36.0,80,1287.4,2.205
+Onion,2014,Whole Year ,Uttarakhand,2825.0,14786,1287.4,5.744166667
+Rice,2014,Kharif     ,Uttarakhand,247698.0,561856,1287.4,1.738461538
+Rice,2014,Summer     ,Uttarakhand,12394.0,39004,1287.4,3.15
+Wheat,2014,Rabi       ,Uttarakhand,343879.0,662026,1287.4,1.543076923
+Maize,2014,Autumn     ,Jharkhand,106524.0,230750,1156.6,1.71625
+Onion,2014,Rabi       ,Jharkhand,3714.0,21861,1156.6,6.09375
+Rice,2014,Autumn     ,Jharkhand,139909.0,143816,1156.6,1.01
+Rice,2014,Winter     ,Jharkhand,849093.0,1248966,1156.6,1.416666667
+Wheat,2014,Rabi       ,Jharkhand,63741.0,96435,1156.6,1.46625
+Wheat,2014,Winter     ,Jharkhand,23515.0,42516,1156.6,1.436428571
+Maize,2014,Autumn     ,West Bengal,45415.0,122104,1483.5,3.369166667
+Maize,2014,Rabi       ,West Bengal,51093.0,278224,1483.5,3.430833333
+Maize,2014,Summer     ,West Bengal,55289.0,249556,1483.5,3.143333333
+Rice,2014,Autumn     ,West Bengal,227829.0,591451,1483.5,2.516111111
+Rice,2014,Summer     ,West Bengal,1290020.0,4351753,1483.5,3.254444444
+Rice,2014,Winter     ,West Bengal,4008662.0,10983992,1483.5,2.700555556
+Wheat,2014,Rabi       ,West Bengal,334640.0,939254,1483.5,2.615
+Maize,2015,Autumn     ,Bihar,270700.0,692696,874.0,2.795263158
+Maize,2015,Rabi       ,Bihar,249982.0,1105141,874.0,3.842352941
+Maize,2015,Summer     ,Bihar,184273.0,719263,874.0,3.562972973
+Rice,2015,Autumn     ,Bihar,549012.0,725206,874.0,1.347142857
+Rice,2015,Summer     ,Bihar,81302.0,200983,874.0,2.528333333
+Rice,2015,Winter     ,Bihar,2602000.0,5876027,874.0,2.166052632
+Wheat,2015,Rabi       ,Bihar,2110750.0,4736448,874.0,2.312631579
+Maize,2015,Kharif     ,Chhattisgarh,126356.0,237676,1136.0,1.733333333
+Onion,2015,Whole Year ,Chhattisgarh,5170.0,31072,1136.0,5.973043478
+Rice,2015,Kharif     ,Chhattisgarh,3959746.0,5154328,1136.0,1.21962963
+Wheat,2015,Rabi       ,Chhattisgarh,105785.0,142329,1136.0,1.522
+Maize,2015,Kharif     ,Gujarat,297588.0,393828,584.3,1.486818182
+Maize,2015,Rabi       ,Gujarat,88311.0,201807,584.3,2.075714286
+Maize,2015,Summer     ,Gujarat,6022.0,12876,584.3,2.067272727
+Onion,2015,Rabi       ,Gujarat,52885.0,1424267,584.3,26.94153846
+Onion,2015,Summer     ,Gujarat,10091.0,286289,584.3,26.179
+Rice,2015,Kharif     ,Gujarat,741042.0,1584355,584.3,1.895238095
+Rice,2015,Summer     ,Gujarat,33140.0,107509,584.3,3.201818182
+Wheat,2015,Rabi       ,Gujarat,857696.0,2315849,584.3,2.6759375
+Maize,2015,Kharif     ,Haryana,5800.0,17900,426.8,2.93
+Onion,2015,Whole Year ,Haryana,30645.0,705795,426.8,23.16333333
+Rice,2015,Kharif     ,Haryana,1353000.0,4142000,426.8,2.963
+Wheat,2015,Rabi       ,Haryana,2576000.0,11350000,426.8,4.252857143
+Maize,2015,Kharif     ,Himachal Pradesh,280811.0,708527,1223.2,2.868333333
+Onion,2015,Rabi       ,Himachal Pradesh,854.0,8696,1223.2,9.954
+Rice,2015,Kharif     ,Himachal Pradesh,71614.0,114670,1223.2,1.612727273
+Wheat,2015,Rabi       ,Himachal Pradesh,342675.0,602287,1223.2,1.605
+Maize,2015,Kharif     ,Madhya Pradesh,1100000.0,3138000,1000.7,2.075416667
+Onion,2015,Whole Year ,Madhya Pradesh,147866.95,3413490,1000.7,22.43019608
+Rice,2015,Kharif     ,Madhya Pradesh,2027000.0,3546790,1000.7,1.701904762
+Wheat,2015,Rabi       ,Madhya Pradesh,5914000.0,18408000,1000.7,2.961372549
+Maize,2015,Kharif     ,Maharashtra,789100.0,1159800,875.7,1.200833333
+Maize,2015,Rabi       ,Maharashtra,248690.0,460920,875.7,1.55962963
+Maize,2015,Summer     ,Maharashtra,29100.0,39150,875.7,1.352608696
+Rice,2015,Kharif     ,Maharashtra,1471400.0,2517100,875.7,1.334583333
+Rice,2015,Summer     ,Maharashtra,31400.0,76000,875.7,2.538888889
+Wheat,2015,Rabi       ,Maharashtra,910854.0,981351,875.7,1.0278125
+Maize,2015,Kharif     ,Manipur,19720.0,44380,1329.1,2.287777778
+Maize,2015,Rabi       ,Manipur,7000.0,17180,1329.1,2.462222222
+Rice,2015,Kharif     ,Manipur,237000.0,508140,1329.1,1.876666667
+Wheat,2015,Rabi       ,Manipur,2250.0,5620,1329.1,2.503333333
+Maize,2015,Kharif     ,Mizoram,5672.0,9868,2310.8,1.94625
+Maize,2015,Rabi       ,Mizoram,205.0,427,2310.8,2.57
+Onion,2015,Rabi       ,Mizoram,5.0,73,2310.8,14.6
+Rice,2015,Autumn     ,Mizoram,19851.0,24343,2310.8,1.22375
+Rice,2015,Kharif     ,Mizoram,16804.0,36471,2310.8,2.16
+Rice,2015,Rabi       ,Mizoram,498.0,1275,2310.8,2.515
+Maize,2015,Kharif     ,Nagaland,63640.0,125920,1308.3,1.978181818
+Maize,2015,Rabi       ,Nagaland,5270.0,10440,1308.3,1.981666667
+Rice,2015,Kharif     ,Nagaland,176790.0,427240,1308.3,2.41
+Rice,2015,Rabi       ,Nagaland,4520.0,12220,1308.3,2.703333333
+Wheat,2015,Rabi       ,Nagaland,3250.0,5950,1308.3,1.828888889
+Maize,2015,Kharif     ,Punjab,115000.0,424000,512.6,3.759230769
+Rice,2015,Kharif     ,Punjab,2975000.0,11823000,512.6,3.923181818
+Wheat,2015,Rabi       ,Punjab,3508000.0,16077000,512.6,4.552272727
+Maize,2015,Kharif     ,Telangana,454308.0,1161260,747.9,2.983333333
+Maize,2015,Rabi       ,Telangana,118486.0,589814,747.9,4.658888889
+Onion,2015,Kharif     ,Telangana,5269.0,74452,747.9,13.5075
+Onion,2015,Rabi       ,Telangana,10462.0,315376,747.9,28.95888889
+Rice,2015,Kharif     ,Telangana,748713.0,2197030,747.9,2.822222222
+Rice,2015,Rabi       ,Telangana,297475.0,850259,747.9,2.785555556
+Wheat,2015,Rabi       ,Telangana,4952.0,16902,747.9,2.9475
+Maize,2015,Kharif     ,Tripura,7334.0,10101,2334.4,1.385
+Maize,2015,Rabi       ,Tripura,1412.0,2076,2334.4,1.4625
+Rice,2015,Kharif     ,Tripura,199818.0,575826,2334.4,2.895
+Rice,2015,Summer     ,Tripura,69975.0,219022,2334.4,3.04625
+Wheat,2015,Rabi       ,Tripura,182.0,407,2334.4,2.221428571
+Maize,2015,Kharif     ,Uttar Pradesh,605036.0,1118656,596.7,1.640133333
+Maize,2015,Rabi       ,Uttar Pradesh,10620.0,23341,596.7,2.162391304
+Maize,2015,Summer     ,Uttar Pradesh,87544.0,161869,596.7,1.851754386
+Onion,2015,Rabi       ,Uttar Pradesh,10390.0,122238,596.7,11.76805556
+Onion,2015,Summer     ,Uttar Pradesh,13796.0,187324,596.7,13.14577465
+Rice,2015,Kharif     ,Uttar Pradesh,5837445.0,12434053,596.7,2.096133333
+Rice,2015,Summer     ,Uttar Pradesh,24595.0,67107,596.7,2.295
+Wheat,2015,Rabi       ,Uttar Pradesh,9644838.0,26874361,596.7,2.768
+Maize,2015,Kharif     ,Uttarakhand,22123.0,38135,1247.6,1.593076923
+Maize,2015,Summer     ,Uttarakhand,43.0,73,1247.6,1.32
+Onion,2015,Whole Year ,Uttarakhand,3268.0,17246,1247.6,5.505833333
+Rice,2015,Kharif     ,Uttarakhand,252163.0,591755,1247.6,1.795384615
+Rice,2015,Summer     ,Uttarakhand,13043.0,50137,1247.6,3.81
+Wheat,2015,Rabi       ,Uttarakhand,342650.0,790370,1247.6,1.675384615
+Maize,2015,Autumn     ,Jharkhand,118741.0,115121,1085.6,1.133333333
+Onion,2015,Rabi       ,Jharkhand,3129.0,19999,1085.6,8.018181818
+Rice,2015,Autumn     ,Jharkhand,145866.0,88110,1085.6,0.606956522
+Rice,2015,Winter     ,Jharkhand,1016623.0,674135,1085.6,0.6625
+Wheat,2015,Rabi       ,Jharkhand,71027.0,113701,1085.6,1.456666667
+Maize,2015,Autumn     ,West Bengal,45635.0,122780,1717.0,2.642307692
+Maize,2015,Rabi       ,West Bengal,52130.0,284572,1717.0,3.6
+Maize,2015,Summer     ,West Bengal,55352.0,255082,1717.0,3.279444444
+Rice,2015,Autumn     ,West Bengal,235970.0,612966,1717.0,2.48
+Rice,2015,Summer     ,West Bengal,1310585.0,4424392,1717.0,3.155
+Rice,2015,Winter     ,West Bengal,3977400.0,10910896,1717.0,2.670555556
+Wheat,2015,Rabi       ,West Bengal,339851.0,788503,1717.0,2.191111111
+Maize,2016,Kharif     ,Arunachal Pradesh,50300.0,75450,2933.7,1.584
+Rice,2016,Kharif     ,Arunachal Pradesh,131000.0,220000,2933.7,1.606
+Wheat,2016,Rabi       ,Arunachal Pradesh,3910.0,7700,2933.7,2.105
+Maize,2016,Autumn     ,Bihar,241450.0,624300,1205.6,2.579459459
+Maize,2016,Rabi       ,Bihar,284883.0,2131513,1205.6,6.058181818
+Maize,2016,Summer     ,Bihar,194577.0,1089887,1205.6,4.561666667
+Onion,2016,Rabi       ,Bihar,13634.0,161682,1205.6,10.70864865
+Rice,2016,Autumn     ,Bihar,556827.0,949371,1205.6,1.736153846
+Rice,2016,Summer     ,Bihar,84323.0,224329,1205.6,2.493333333
+Rice,2016,Winter     ,Bihar,2698627.0,7065073,1205.6,2.571052632
+Wheat,2016,Rabi       ,Bihar,2105811.0,5985841,1205.6,2.781315789
+Maize,2016,Kharif     ,Chhattisgarh,120547.0,309324,1298.9,2.348518519
+Onion,2016,Whole Year ,Chhattisgarh,5075.0,16342,1298.9,2.786956522
+Rice,2016,Kharif     ,Chhattisgarh,4052587.0,8793273,1298.9,2.076666667
+Wheat,2016,Rabi       ,Chhattisgarh,102114.0,151078,1298.9,1.660769231
+Maize,2016,Kharif     ,Gujarat,321379.0,539081,710.5,1.789545455
+Maize,2016,Rabi       ,Gujarat,117169.0,277521,710.5,2.16
+Maize,2016,Summer     ,Gujarat,11311.0,24059,710.5,2.081428571
+Onion,2016,Rabi       ,Gujarat,42408.0,1104672,710.5,26.38703704
+Onion,2016,Summer     ,Gujarat,13489.0,400128,710.5,26.55533333
+Rice,2016,Kharif     ,Gujarat,792207.0,1808275,710.5,2.0745
+Rice,2016,Summer     ,Gujarat,55403.0,180196,710.5,3.133333333
+Wheat,2016,Rabi       ,Gujarat,999370.0,2757755,710.5,2.7428125
+Maize,2016,Kharif     ,Haryana,6300.0,19500,554.7,3.132222222
+Onion,2016,Whole Year ,Haryana,28164.0,650394,554.7,24.83
+Rice,2016,Kharif     ,Haryana,1384700.0,4451000,554.7,2.9505
+Wheat,2016,Rabi       ,Haryana,2542100.0,12310000,554.7,4.744761905
+Maize,2016,Kharif     ,Himachal Pradesh,262595.0,483441,1373.9,2.094166667
+Rice,2016,Kharif     ,Himachal Pradesh,70855.0,103557,1373.9,1.559090909
+Wheat,2016,Rabi       ,Himachal Pradesh,325910.0,331303,1373.9,1.0275
+Maize,2016,Kharif     ,Madhya Pradesh,1264000.0,4300000,1048.4,2.479130435
+Onion,2016,Whole Year ,Madhya Pradesh,150839.21,3821047,1048.4,23.96137255
+Rice,2016,Kharif     ,Madhya Pradesh,2260000.0,5400540,1048.4,2.040294118
+Wheat,2016,Rabi       ,Madhya Pradesh,6423000.0,21916000,1048.4,3.294509804
+Maize,2016,Kharif     ,Maharashtra,658330.0,2136362,1151.1,2.413448276
+Maize,2016,Rabi       ,Maharashtra,344895.0,1084699,1151.1,2.637857143
+Maize,2016,Summer     ,Maharashtra,50200.0,107630,1151.1,1.8748
+Rice,2016,Kharif     ,Maharashtra,1465730.0,3419021,1151.1,1.664444444
+Rice,2016,Summer     ,Maharashtra,69640.0,161900,1151.1,2.369166667
+Wheat,2016,Rabi       ,Maharashtra,1272006.0,2214012,1151.1,1.73483871
+Maize,2016,Kharif     ,Manipur,19740.0,41800,2039.8,2.102222222
+Maize,2016,Rabi       ,Manipur,7060.0,17000,2039.8,2.412222222
+Rice,2016,Kharif     ,Manipur,244000.0,645600,2039.8,2.313333333
+Wheat,2016,Rabi       ,Manipur,2250.0,5620,2039.8,2.503333333
+Maize,2016,Kharif     ,Mizoram,5481.0,8443,2626.8,1.665
+Maize,2016,Rabi       ,Mizoram,298.0,468,2626.8,1.73
+Onion,2016,Rabi       ,Mizoram,35.0,127,2626.8,3.63
+Rice,2016,Autumn     ,Mizoram,19602.0,23665,2626.8,1.21125
+Rice,2016,Kharif     ,Mizoram,16862.0,36979,2626.8,2.2325
+Rice,2016,Rabi       ,Mizoram,394.0,872,2626.8,2.21
+Maize,2016,Kharif     ,Nagaland,63660.0,126040,1959.8,1.98
+Maize,2016,Rabi       ,Nagaland,5300.0,10500,1959.8,1.978333333
+Rice,2016,Kharif     ,Nagaland,201860.0,491660,1959.8,2.391818182
+Rice,2016,Rabi       ,Nagaland,4800.0,13400,1959.8,2.79
+Wheat,2016,Rabi       ,Nagaland,3380.0,6220,1959.8,1.838888889
+Maize,2016,Kharif     ,Punjab,116000.0,445000,635.9,3.600769231
+Rice,2016,Kharif     ,Punjab,3046000.0,12638000,635.9,4.066818182
+Wheat,2016,Rabi       ,Punjab,3495000.0,17636000,635.9,4.975
+Maize,2016,Kharif     ,Telangana,636407.0,1756790,942.6,3.304333333
+Maize,2016,Rabi       ,Telangana,165415.0,1125685,942.6,6.661666667
+Onion,2016,Kharif     ,Telangana,6153.0,92896,942.6,15.68529412
+Onion,2016,Rabi       ,Telangana,9423.0,309477,942.6,31.11925926
+Rice,2016,Kharif     ,Telangana,889351.0,3028634,942.6,3.229666667
+Rice,2016,Rabi       ,Telangana,939223.0,3570445,942.6,3.585
+Wheat,2016,Rabi       ,Telangana,5409.0,7413,942.6,1.223571429
+Maize,2016,Kharif     ,Tripura,12196.0,16608,2475.3,1.38375
+Maize,2016,Rabi       ,Tripura,2500.0,3887,2475.3,1.56
+Rice,2016,Autumn     ,Tripura,38136.0,101574,2475.3,2.5475
+Rice,2016,Kharif     ,Tripura,16843.0,18190,2475.3,1.05875
+Rice,2016,Summer     ,Tripura,71877.0,231509,2475.3,3.145
+Rice,2016,Winter     ,Tripura,150250.0,463371,2475.3,3.05375
+Wheat,2016,Rabi       ,Tripura,200.0,460,2475.3,2.25625
+Maize,2016,Kharif     ,Uttar Pradesh,727231.0,1364579,965.3,1.737808219
+Maize,2016,Rabi       ,Uttar Pradesh,12320.0,34521,965.3,2.64037037
+Maize,2016,Summer     ,Uttar Pradesh,66929.0,125558,965.3,1.884827586
+Onion,2016,Rabi       ,Uttar Pradesh,10526.0,146606,965.3,13.93273973
+Onion,2016,Summer     ,Uttar Pradesh,12815.0,173372,965.3,13.28542857
+Rice,2016,Kharif     ,Uttar Pradesh,5965657.0,14396168,965.3,2.3668
+Rice,2016,Summer     ,Uttar Pradesh,26051.0,74184,965.3,2.484117647
+Wheat,2016,Rabi       ,Uttar Pradesh,9884913.0,34971381,965.3,3.558666667
+Maize,2016,Kharif     ,Uttarakhand,21692.0,36649,1580.9,1.57
+Maize,2016,Summer     ,Uttarakhand,90.0,133,1580.9,1.705
+Onion,2016,Whole Year ,Uttarakhand,3557.0,29892,1580.9,7.258333333
+Rice,2016,Kharif     ,Uttarakhand,251498.0,582720,1580.9,1.779230769
+Rice,2016,Summer     ,Uttarakhand,14703.0,55577,1580.9,3.77
+Wheat,2016,Rabi       ,Uttarakhand,339572.0,891700,1580.9,1.962307692
+Maize,2016,Autumn     ,Jharkhand,124673.0,270738,1296.3,2.102608696
+Onion,2016,Rabi       ,Jharkhand,3646.0,29203,1296.3,7.856666667
+Rice,2016,Autumn     ,Jharkhand,137925.0,154026,1296.3,0.912
+Rice,2016,Winter     ,Jharkhand,1204133.0,2621003,1296.3,2.251666667
+Wheat,2016,Rabi       ,Jharkhand,112109.0,226854,1296.3,2.145416667
+Maize,2016,Autumn     ,West Bengal,46431.0,124996,1795.8,2.783333333
+Maize,2016,Rabi       ,West Bengal,56211.0,317798,1795.8,3.726666667
+Maize,2016,Summer     ,West Bengal,60813.0,310486,1795.8,3.493333333
+Rice,2016,Autumn     ,West Bengal,247978.0,642310,1795.8,2.493809524
+Rice,2016,Summer     ,West Bengal,1185381.0,4005685,1795.8,3.244285714
+Rice,2016,Winter     ,West Bengal,3963495.0,10996579,1795.8,2.691363636
+Wheat,2016,Rabi       ,West Bengal,321621.0,862712,1795.8,2.394545455
+Maize,2017,Kharif     ,Arunachal Pradesh,50797.0,77216,2745.5,1.628
+Rice,2017,Kharif     ,Arunachal Pradesh,132000.0,233335,2745.5,1.6915
+Wheat,2017,Rabi       ,Arunachal Pradesh,3930.0,7742,2745.5,2.102
+Maize,2017,Autumn     ,Bihar,223242.0,535877,1112.0,2.639189189
+Maize,2017,Rabi       ,Bihar,268085.0,1645555,1112.0,5.3121875
+Maize,2017,Summer     ,Bihar,186119.0,939340,1112.0,4.354705882
+Onion,2017,Rabi       ,Bihar,13130.0,185740,1112.0,13.78428571
+Rice,2017,Autumn     ,Bihar,522698.0,903286,1112.0,1.78173913
+Rice,2017,Summer     ,Bihar,67865.0,143832,1112.0,2.034285714
+Rice,2017,Winter     ,Bihar,2716420.0,7046043,1112.0,2.466842105
+Wheat,2017,Rabi       ,Bihar,2101311.0,6104303,1112.0,2.866315789
+Maize,2017,Kharif     ,Chhattisgarh,119617.0,306937,1124.5,2.26037037
+Onion,2017,Whole Year ,Chhattisgarh,4238.0,28864,1124.5,6.250869565
+Rice,2017,Kharif     ,Chhattisgarh,3976626.0,5749044,1124.5,1.386296296
+Wheat,2017,Rabi       ,Chhattisgarh,102195.0,141642,1124.5,1.497692308
+Maize,2017,Kharif     ,Gujarat,302790.0,469550,814.8,1.676363636
+Maize,2017,Rabi       ,Gujarat,92558.0,235342,814.8,2.460952381
+Maize,2017,Summer     ,Gujarat,4636.0,9848,814.8,2.028888889
+Onion,2017,Rabi       ,Gujarat,42668.0,1223608,814.8,28.7637931
+Onion,2017,Summer     ,Gujarat,11801.0,318222,814.8,25.194
+Rice,2017,Kharif     ,Gujarat,802674.0,1749613,814.8,2.0375
+Rice,2017,Summer     ,Gujarat,52616.0,140196,814.8,2.657857143
+Wheat,2017,Rabi       ,Gujarat,1058778.0,3101037,814.8,2.926666667
+Maize,2017,Kharif     ,Haryana,6600.0,20600,417.1,2.711
+Onion,2017,Whole Year ,Haryana,29931.0,701504,417.1,23.97666667
+Rice,2017,Kharif     ,Haryana,1422100.0,4880000,417.1,3.096190476
+Wheat,2017,Rabi       ,Haryana,2530500.0,12265100,417.1,4.705454545
+Maize,2017,Kharif     ,Himachal Pradesh,280811.0,711114,1182.2,2.886666667
+Onion,2017,Rabi       ,Himachal Pradesh,594.0,3732,1182.2,6.06
+Rice,2017,Kharif     ,Himachal Pradesh,71613.0,114785,1182.2,1.618181818
+Wheat,2017,Rabi       ,Himachal Pradesh,342675.0,603587,1182.2,1.608333333
+Maize,2017,Kharif     ,Jharkhand,284565.0,576153,1165.7,2.102916667
+Maize,2017,Rabi       ,Jharkhand,10133.0,20579,1165.7,1.887777778
+Rice,2017,Kharif     ,Jharkhand,1735411.0,3421253,1165.7,2.023333333
+Wheat,2017,Rabi       ,Jharkhand,220963.0,468754,1165.7,2.164583333
+Maize,2017,Kharif     ,Madhya Pradesh,1316520.0,4679550,800.0,2.5508
+Maize,2017,Summer     ,Madhya Pradesh,35640.0,133020,800.0,3.540357143
+Onion,2017,Whole Year ,Madhya Pradesh,150865.6,3701014,800.0,23.00568627
+Rice,2017,Kharif     ,Madhya Pradesh,2023070.0,4869658,800.0,1.806888889
+Rice,2017,Summer     ,Madhya Pradesh,12070.0,29400,800.0,1.965294118
+Wheat,2017,Rabi       ,Madhya Pradesh,5802980.0,20019950,800.0,3.345882353
+Maize,2017,Kharif     ,Maharashtra,694785.0,2165565,1129.5,2.253461538
+Maize,2017,Rabi       ,Maharashtra,333739.0,904932,1129.5,1.973793103
+Maize,2017,Summer     ,Maharashtra,35002.0,54906,1129.5,1.334444444
+Rice,2017,Kharif     ,Maharashtra,1424765.0,2668600,1129.5,1.637916667
+Rice,2017,Summer     ,Maharashtra,26178.0,62200,1129.5,2.535833333
+Wheat,2017,Rabi       ,Maharashtra,1137731.5,1884842,1129.5,1.505483871
+Maize,2017,Kharif     ,Manipur,19810.0,45840,1780.0,2.284444444
+Maize,2017,Rabi       ,Manipur,7120.0,17250,1780.0,2.426666667
+Rice,2017,Kharif     ,Manipur,236710.0,607820,1780.0,2.18
+Wheat,2017,Rabi       ,Manipur,2250.0,5620,1780.0,2.503333333
+Maize,2017,Kharif     ,Mizoram,5474.0,8786,3865.8,1.67375
+Maize,2017,Rabi       ,Mizoram,505.2,686,3865.8,1.3575
+Onion,2017,Rabi       ,Mizoram,110.9,430,3865.8,7.24
+Rice,2017,Autumn     ,Mizoram,19587.5,23580,3865.8,1.18625
+Rice,2017,Kharif     ,Mizoram,16039.7,35029,3865.8,2.15625
+Rice,2017,Rabi       ,Mizoram,487.0,998,3865.8,2.09
+Maize,2017,Kharif     ,Nagaland,63680.0,126220,1722.1,1.981818182
+Maize,2017,Rabi       ,Nagaland,5330.0,10560,1722.1,1.981666667
+Rice,2017,Kharif     ,Nagaland,206750.0,509590,1722.1,2.421818182
+Rice,2017,Rabi       ,Nagaland,5250.0,14850,1722.1,2.826666667
+Wheat,2017,Rabi       ,Nagaland,3410.0,6260,1722.1,1.834444444
+Maize,2017,Kharif     ,Punjab,114000.0,423000,497.5,3.750833333
+Rice,2017,Kharif     ,Punjab,3065000.0,13382000,497.5,4.252727273
+Wheat,2017,Rabi       ,Punjab,3512000.0,17830000,497.5,5.013181818
+Maize,2017,Kharif     ,Telangana,463203.0,1597928,815.7,4.169333333
+Maize,2017,Rabi       ,Telangana,167254.0,1154219,815.7,6.646333333
+Onion,2017,Kharif     ,Telangana,4319.0,79105,815.7,18.15833333
+Onion,2017,Rabi       ,Telangana,9378.0,341048,815.7,34.61428571
+Rice,2017,Kharif     ,Telangana,1046987.0,2946004,815.7,2.672333333
+Rice,2017,Rabi       ,Telangana,915389.0,3317425,815.7,3.532666667
+Wheat,2017,Kharif     ,Telangana,2.0,2,815.7,1.0
+Wheat,2017,Rabi       ,Telangana,4156.0,5771,815.7,1.429
+Maize,2017,Kharif     ,Tripura,13596.0,19137,3326.8,1.4275
+Maize,2017,Rabi       ,Tripura,2140.0,3336,3326.8,1.55
+Rice,2017,Autumn     ,Tripura,37775.0,104258,3326.8,2.68125
+Rice,2017,Kharif     ,Tripura,15837.0,16787,3326.8,1.02625
+Rice,2017,Summer     ,Tripura,72224.0,235115,3326.8,3.1475
+Rice,2017,Winter     ,Tripura,148232.0,455932,3326.8,3.045
+Wheat,2017,Rabi       ,Tripura,195.0,396,3326.8,2.025
+Maize,2017,Kharif     ,Uttar Pradesh,664457.0,1456460,652.1,1.973013699
+Maize,2017,Rabi       ,Uttar Pradesh,13788.0,41388,652.1,2.979298246
+Maize,2017,Summer     ,Uttar Pradesh,46098.0,101045,652.1,2.1865
+Onion,2017,Rabi       ,Uttar Pradesh,13007.0,189992,652.1,14.51013514
+Onion,2017,Summer     ,Uttar Pradesh,12557.0,180634,652.1,14.14591549
+Rice,2017,Kharif     ,Uttar Pradesh,5897871.0,15441958,652.1,2.541333333
+Rice,2017,Summer     ,Uttar Pradesh,25761.0,76645,652.1,2.67
+Wheat,2017,Rabi       ,Uttar Pradesh,9752941.0,35645666,652.1,3.649866667
+Maize,2017,Kharif     ,Uttarakhand,20806.0,42563,1475.8,1.868461538
+Maize,2017,Summer     ,Uttarakhand,66.0,96,1475.8,1.415
+Onion,2017,Whole Year ,Uttarakhand,3499.0,56138,1475.8,16.44
+Rice,2017,Kharif     ,Uttarakhand,246539.0,620027,1475.8,1.909230769
+Rice,2017,Summer     ,Uttarakhand,13953.0,44845,1475.8,3.223333333
+Wheat,2017,Rabi       ,Uttarakhand,330401.0,929884,1475.8,2.100769231
+Maize,2017,Autumn     ,West Bengal,56185.0,151542,1830.0,2.583157895
+Maize,2017,Rabi       ,West Bengal,117678.0,903874,1830.0,4.360666667
+Maize,2017,Summer     ,West Bengal,71365.0,368001,1830.0,3.45952381
+Rice,2017,Autumn     ,West Bengal,249341.0,633542,1830.0,2.45
+Rice,2017,Summer     ,West Bengal,1295678.0,4671912,1830.0,3.375714286
+Rice,2017,Winter     ,West Bengal,3992412.0,11010468,1830.0,2.684545455
+Wheat,2017,Rabi       ,West Bengal,117360.0,362744,1830.0,2.676666667
+Maize,2018,Kharif     ,Arunachal Pradesh,51000.0,78030,2992.9,1.659090909
+Rice,2018,Kharif     ,Arunachal Pradesh,133200.0,239998,2992.9,1.737727273
+Wheat,2018,Rabi       ,Arunachal Pradesh,3930.0,7742,2992.9,2.151818182
+Maize,2018,Autumn     ,Bihar,223317.0,464137,1521.4,2.154375
+Maize,2018,Rabi       ,Bihar,282344.0,2098443,1521.4,5.559705882
+Maize,2018,Summer     ,Bihar,163817.0,631331,1521.4,3.415151515
+Onion,2018,Rabi       ,Bihar,13014.0,170865,1521.4,11.76916667
+Rice,2018,Autumn     ,Bihar,445393.0,615668,1521.4,1.439545455
+Rice,2018,Summer     ,Bihar,60400.0,136281,1521.4,2.205
+Rice,2018,Winter     ,Bihar,2653929.0,5403580,1521.4,1.809210526
+Wheat,2018,Rabi       ,Bihar,2156652.0,6465905,1521.4,2.959473684
+Maize,2018,Kharif     ,Chhattisgarh,118047.0,303145,1515.5,2.280740741
+Onion,2018,Whole Year ,Chhattisgarh,4619.0,25561,1515.5,5.641818182
+Rice,2018,Kharif     ,Chhattisgarh,4141378.0,6509430,1515.5,1.521481481
+Wheat,2018,Rabi       ,Chhattisgarh,99925.0,166979,1515.5,1.792692308
+Maize,2018,Kharif     ,Gujarat,310536.0,549680,1125.4,1.835238095
+Maize,2018,Rabi       ,Gujarat,95598.0,245862,1125.4,2.710526316
+Maize,2018,Summer     ,Gujarat,3090.0,6356,1125.4,1.765
+Onion,2018,Rabi       ,Gujarat,23847.0,673001,1125.4,27.7052
+Onion,2018,Summer     ,Gujarat,1854.0,51062,1125.4,27.54
+Rice,2018,Kharif     ,Gujarat,809367.0,1819260,1125.4,2.131
+Rice,2018,Summer     ,Gujarat,29582.0,92755,1125.4,2.676153846
+Wheat,2018,Rabi       ,Gujarat,797156.0,2407132,1125.4,3.0109375
+Maize,2018,Kharif     ,Haryana,5900.0,15600,533.2,3.206
+Onion,2018,Whole Year ,Haryana,32010.0,780150,533.2,24.73863636
+Rice,2018,Kharif     ,Haryana,1447000.0,4516000,533.2,2.94952381
+Wheat,2018,Rabi       ,Haryana,2553100.0,12573000,533.2,4.825
+Maize,2018,Kharif     ,Himachal Pradesh,286780.0,725553,1052.2,2.600833333
+Onion,2018,Rabi       ,Himachal Pradesh,640.0,4015,1052.2,6.001
+Rice,2018,Kharif     ,Himachal Pradesh,71810.0,114896,1052.2,1.623636364
+Wheat,2018,Rabi       ,Himachal Pradesh,319002.0,564634,1052.2,1.594166667
+Maize,2018,Kharif     ,Jharkhand,255145.0,443992,1222.7,1.8175
+Maize,2018,Rabi       ,Jharkhand,5944.0,11324,1222.7,1.835789474
+Rice,2018,Kharif     ,Jharkhand,1527103.0,2894101,1222.7,1.817916667
+Wheat,2018,Rabi       ,Jharkhand,163847.0,302559,1222.7,1.921666667
+Maize,2018,Kharif     ,Madhya Pradesh,1256645.0,4090669,1102.2,2.330588235
+Onion,2018,Whole Year ,Madhya Pradesh,149843.45,3683098,1102.2,23.08392157
+Rice,2018,Kharif     ,Madhya Pradesh,2794020.0,5238850,1102.2,1.444901961
+Wheat,2018,Rabi       ,Madhya Pradesh,7721549.0,25276038,1102.2,3.141764706
+Maize,2018,Kharif     ,Maharashtra,707963.0,1364959,1387.4,1.515
+Maize,2018,Rabi       ,Maharashtra,201409.0,379865,1387.4,1.349230769
+Maize,2018,Summer     ,Maharashtra,17135.0,20570,1387.4,1.0155
+Rice,2018,Kharif     ,Maharashtra,1417445.0,3143748,1387.4,1.657916667
+Rice,2018,Summer     ,Maharashtra,47541.0,132050,1387.4,2.755833333
+Wheat,2018,Rabi       ,Maharashtra,834423.25,1249407,1387.4,1.388666667
+Maize,2018,Kharif     ,Manipur,19160.0,41020,1196.9,2.253333333
+Maize,2018,Rabi       ,Manipur,7220.0,17140,1196.9,2.371111111
+Rice,2018,Kharif     ,Manipur,233500.0,602430,1196.9,2.232222222
+Wheat,2018,Rabi       ,Manipur,2290.0,5730,1196.9,2.395555556
+Maize,2018,Kharif     ,Mizoram,5733.0,10300,1665.2,1.79125
+Maize,2018,Rabi       ,Mizoram,430.0,670,1665.2,1.643333333
+Onion,2018,Rabi       ,Mizoram,19.0,64,1665.2,4.2925
+Rice,2018,Autumn     ,Mizoram,18957.0,23372,1665.2,1.215
+Rice,2018,Kharif     ,Mizoram,16133.0,35678,1665.2,2.1975
+Rice,2018,Rabi       ,Mizoram,460.0,960,1665.2,2.115
+Maize,2018,Kharif     ,Nagaland,63710.0,126270,1372.7,1.981818182
+Maize,2018,Rabi       ,Nagaland,5360.0,10630,1372.7,1.983333333
+Rice,2018,Kharif     ,Nagaland,208990.0,519600,1372.7,2.444545455
+Rice,2018,Rabi       ,Nagaland,5460.0,15440,1372.7,2.8275
+Wheat,2018,Rabi       ,Nagaland,3420.0,6260,1372.7,1.83
+Maize,2018,Kharif     ,Punjab,109200.0,395900,585.5,3.54625
+Rice,2018,Kharif     ,Punjab,3103000.0,12822000,585.5,4.011818182
+Wheat,2018,Rabi       ,Punjab,3520000.0,18262000,585.5,5.068636364
+Maize,2018,Kharif     ,Telangana,426342.0,1323976,1350.3,3.95625
+Maize,2018,Rabi       ,Telangana,116724.0,759015,1350.3,6.026451613
+Onion,2018,Kharif     ,Telangana,4812.0,62954,1350.3,12.82
+Onion,2018,Rabi       ,Telangana,7422.0,216343,1350.3,28.15518519
+Rice,2018,Kharif     ,Telangana,1189264.0,4135049,1350.3,3.3065625
+Rice,2018,Rabi       ,Telangana,742508.0,2533895,1350.3,3.208125
+Wheat,2018,Rabi       ,Telangana,4844.0,9093,1350.3,1.807
+Maize,2018,Kharif     ,Tripura,13519.0,17430,2169.1,1.3075
+Maize,2018,Rabi       ,Tripura,2463.0,5265,2169.1,2.12375
+Rice,2018,Autumn     ,Tripura,35340.0,93453,2169.1,2.50625
+Rice,2018,Kharif     ,Tripura,15382.0,16267,2169.1,1.05375
+Rice,2018,Summer     ,Tripura,70742.0,232551,2169.1,3.0775
+Rice,2018,Winter     ,Tripura,147900.0,450930,2169.1,3.03375
+Wheat,2018,Rabi       ,Tripura,157.0,332,2169.1,2.08625
+Maize,2018,Kharif     ,Uttar Pradesh,673768.0,1392479,792.8,1.9284
+Maize,2018,Rabi       ,Uttar Pradesh,13442.0,37694,792.8,2.801395349
+Maize,2018,Summer     ,Uttar Pradesh,45815.0,94700,792.8,2.061333333
+Onion,2018,Rabi       ,Uttar Pradesh,14729.0,227984,792.8,15.80146667
+Onion,2018,Summer     ,Uttar Pradesh,12749.0,150144,792.8,11.87676056
+Rice,2018,Kharif     ,Uttar Pradesh,5894983.0,15932429,792.8,2.6056
+Rice,2018,Summer     ,Uttar Pradesh,29145.0,87266,792.8,2.662631579
+Wheat,2018,Rabi       ,Uttar Pradesh,9855900.0,38039724,792.8,3.8556
+Maize,2018,Kharif     ,Uttarakhand,21266.0,40107,1373.0,1.77
+Maize,2018,Summer     ,Uttarakhand,118.0,166,1373.0,1.656
+Onion,2018,Whole Year ,Uttarakhand,3345.0,53748,1373.0,16.14384615
+Rice,2018,Kharif     ,Uttarakhand,243666.0,574963,1373.0,1.804615385
+Rice,2018,Summer     ,Uttarakhand,15682.0,51570,1373.0,3.283333333
+Wheat,2018,Rabi       ,Uttarakhand,307452.0,927657,1373.0,2.349230769
+Maize,2018,Autumn     ,West Bengal,53660.0,182239,2012.6,3.236666667
+Maize,2018,Rabi       ,West Bengal,102911.0,745795,2012.6,4.09
+Maize,2018,Summer     ,West Bengal,107731.0,804847,2012.6,3.972380952
+Rice,2018,Autumn     ,West Bengal,230980.0,609496,2012.6,2.672380952
+Rice,2018,Summer     ,West Bengal,1279500.0,4615344,2012.6,3.45952381
+Rice,2018,Winter     ,West Bengal,4002092.0,11282409,2012.6,2.744545455
+Wheat,2018,Rabi       ,West Bengal,112147.0,337751,2012.6,2.483
+Maize,2019,Kharif     ,Arunachal Pradesh,51100.0,79205,2433.3,1.6756
+Rice,2019,Kharif     ,Arunachal Pradesh,133500.0,244741,2433.3,1.7792
+Wheat,2019,Rabi       ,Arunachal Pradesh,3930.0,7742,2433.3,2.168333333
+Maize,2019,Autumn     ,Bihar,209307.0,434878,1194.7,2.31625
+Maize,2019,Rabi       ,Bihar,301268.0,2279174,1194.7,5.7365625
+Maize,2019,Summer     ,Bihar,162563.0,781348,1194.7,4.237941176
+Onion,2019,Rabi       ,Bihar,12965.0,173086,1194.7,12.60526316
+Rice,2019,Autumn     ,Bihar,443965.0,727611,1194.7,1.759583333
+Rice,2019,Summer     ,Bihar,60399.0,128812,1194.7,2.142857143
+Rice,2019,Winter     ,Bihar,2593026.0,6096095,1194.7,2.173157895
+Wheat,2019,Rabi       ,Bihar,2150180.0,5579348,1194.7,2.569473684
+Maize,2019,Kharif     ,Chhattisgarh,130433.0,406821,1420.3,2.808214286
+Onion,2019,Whole Year ,Chhattisgarh,4395.0,24013,1420.3,5.0708
+Rice,2019,Kharif     ,Chhattisgarh,4266022.0,8569367,1420.3,1.936428571
+Wheat,2019,Rabi       ,Chhattisgarh,116274.0,135888,1420.3,1.336538462
+Maize,2019,Kharif     ,Gujarat,300503.0,449952,1067.8,1.603636364
+Maize,2019,Rabi       ,Gujarat,132342.0,333579,1067.8,2.556190476
+Maize,2019,Summer     ,Gujarat,5516.0,12676,1067.8,2.189
+Onion,2019,Rabi       ,Gujarat,41408.0,1211977,1067.8,28.8925
+Onion,2019,Summer     ,Gujarat,7176.0,204332,1067.8,28.464
+Rice,2019,Kharif     ,Gujarat,849599.0,1821136,1067.8,1.948571429
+Rice,2019,Summer     ,Gujarat,54751.0,161497,1067.8,2.848571429
+Wheat,2019,Rabi       ,Gujarat,1393487.0,4553681,1067.8,3.1434375
+Maize,2019,Kharif     ,Haryana,6050.0,17290,351.8,3.085263158
+Onion,2019,Whole Year ,Haryana,23749.0,610443,351.8,24.54181818
+Rice,2019,Kharif     ,Haryana,1558900.0,5194600,351.8,3.048095238
+Wheat,2019,Rabi       ,Haryana,2533800.0,11876900,351.8,4.618181818
+Maize,2019,Kharif     ,Himachal Pradesh,287444.0,744603,1217.7,2.630833333
+Onion,2019,Rabi       ,Himachal Pradesh,952.0,7050,1217.7,7.29
+Rice,2019,Kharif     ,Himachal Pradesh,72620.0,116879,1217.7,1.656363636
+Wheat,2019,Rabi       ,Himachal Pradesh,319098.0,619689,1217.7,1.7575
+Maize,2019,Kharif     ,Jharkhand,249127.0,494885,1137.8,2.047916667
+Maize,2019,Rabi       ,Jharkhand,7644.0,16043,1137.8,1.985238095
+Rice,2019,Kharif     ,Jharkhand,1357726.0,3612589,1137.8,2.663333333
+Wheat,2019,Rabi       ,Jharkhand,214780.0,439401,1137.8,2.055
+Maize,2019,Kharif     ,Madhya Pradesh,1516103.0,4369819,1446.7,1.999411765
+Maize,2019,Summer     ,Madhya Pradesh,20995.0,119761,1446.7,2.768387097
+Onion,2019,Whole Year ,Madhya Pradesh,173886.5,4270702,1446.7,23.21745098
+Rice,2019,Kharif     ,Madhya Pradesh,3076000.0,7268659,1446.7,1.858
+Rice,2019,Summer     ,Madhya Pradesh,34311.0,94770,1446.7,0.8775
+Wheat,2019,Rabi       ,Madhya Pradesh,10216517.0,37507219,1446.7,3.519423077
+Maize,2019,Kharif     ,Maharashtra,771711.0,1051683,1555.8,1.363214286
+Maize,2019,Rabi       ,Maharashtra,297952.0,795312,1555.8,2.171333333
+Maize,2019,Summer     ,Maharashtra,56994.0,112994,1555.8,1.783913043
+Rice,2019,Kharif     ,Maharashtra,1478093.0,2701810,1555.8,1.256296296
+Rice,2019,Summer     ,Maharashtra,74896.0,195623,1555.8,2.660833333
+Wheat,2019,Rabi       ,Maharashtra,1056965.0,1793440,1555.8,1.564
+Maize,2019,Kharif     ,Mizoram,5860.0,10903,2178.5,1.77625
+Maize,2019,Rabi       ,Mizoram,493.0,765,2178.5,1.645
+Onion,2019,Rabi       ,Mizoram,18.3,34,2178.5,3.76
+Rice,2019,Autumn     ,Mizoram,18510.0,22904,2178.5,1.18875
+Rice,2019,Kharif     ,Mizoram,16232.0,36357,2178.5,2.2025
+Rice,2019,Rabi       ,Mizoram,468.0,978,2178.5,2.135
+Maize,2019,Kharif     ,Nagaland,63740.0,126460,1593.0,1.982727273
+Maize,2019,Rabi       ,Nagaland,5390.0,10700,1593.0,1.983333333
+Rice,2019,Kharif     ,Nagaland,211280.0,528920,1593.0,2.459090909
+Rice,2019,Rabi       ,Nagaland,5670.0,16050,1593.0,2.83
+Wheat,2019,Rabi       ,Nagaland,3430.0,6280,1593.0,1.831111111
+Maize,2019,Autumn     ,Odisha,61041.0,175675,1593.9,2.048181818
+Maize,2019,Summer     ,Odisha,3934.0,13113,1593.9,2.243
+Maize,2019,Winter     ,Odisha,95.0,226,1593.9,2.48125
+Onion,2019,Rabi       ,Odisha,35120.0,437140,1593.9,12.21413793
+Rice,2019,Autumn     ,Odisha,426080.0,769480,1593.9,1.8825
+Rice,2019,Summer     ,Odisha,292610.0,932910,1593.9,2.796896552
+Rice,2019,Winter     ,Odisha,3222020.0,8052660,1593.9,2.564666667
+Wheat,2019,Summer     ,Odisha,118.0,164,1593.9,1.495
+Maize,2019,Kharif     ,Punjab,114600.0,410500,653.2,3.539444444
+Rice,2019,Kharif     ,Punjab,3142000.0,12675000,653.2,3.930909091
+Wheat,2019,Rabi       ,Punjab,3521000.0,17619000,653.2,4.892272727
+Maize,2019,Kharif     ,Telangana,390692.0,1893085,1031.7,5.12125
+Maize,2019,Rabi       ,Telangana,252561.0,1750601,1031.7,6.5721875
+Onion,2019,Kharif     ,Telangana,2383.0,53176,1031.7,21.95478261
+Onion,2019,Rabi       ,Telangana,5026.0,172149,1031.7,32.85966667
+Rice,2019,Kharif     ,Telangana,1631151.0,5985349,1031.7,3.575625
+Rice,2019,Rabi       ,Telangana,1585062.0,5900447,1031.7,3.610625
+Wheat,2019,Kharif     ,Telangana,1.0,0,1031.7,0.0
+Wheat,2019,Rabi       ,Telangana,4471.0,8237,1031.7,1.798461538
+Maize,2019,Kharif     ,Tripura,12485.0,17757,2252.8,1.42
+Maize,2019,Rabi       ,Tripura,2150.0,5217,2252.8,2.41875
+Rice,2019,Autumn     ,Tripura,34235.0,94357,2252.8,2.6425
+Rice,2019,Kharif     ,Tripura,15228.0,16175,2252.8,1.06875
+Rice,2019,Summer     ,Tripura,70577.0,228104,2252.8,3.13
+Rice,2019,Winter     ,Tripura,147295.0,471608,2252.8,3.17375
+Wheat,2019,Rabi       ,Tripura,148.0,331,2252.8,2.228333333
+Maize,2019,Kharif     ,Uttar Pradesh,665264.0,1641286,814.5,2.039466667
+Maize,2019,Rabi       ,Uttar Pradesh,14992.0,42414,814.5,2.745813953
+Maize,2019,Summer     ,Uttar Pradesh,48817.0,120432,814.5,2.467962963
+Onion,2019,Rabi       ,Uttar Pradesh,11734.0,167327,814.5,14.46173333
+Onion,2019,Summer     ,Uttar Pradesh,16231.0,265715,814.5,16.15106061
+Rice,2019,Kharif     ,Uttar Pradesh,5898690.0,16947998,814.5,2.823466667
+Rice,2019,Summer     ,Uttar Pradesh,25659.0,79891,814.5,2.968717949
+Wheat,2019,Rabi       ,Uttar Pradesh,9852504.0,36209665,814.5,3.688533333
+Maize,2019,Kharif     ,Uttarakhand,21193.0,40823,1378.9,1.706923077
+Maize,2019,Summer     ,Uttarakhand,362.0,491,1378.9,1.7
+Onion,2019,Whole Year ,Uttarakhand,3474.0,56216,1378.9,16.14615385
+Rice,2019,Kharif     ,Uttarakhand,240411.0,615514,1378.9,1.933846154
+Rice,2019,Summer     ,Uttarakhand,17370.0,61915,1378.9,3.563333333
+Wheat,2019,Rabi       ,Uttarakhand,303283.0,887440,1378.9,2.376923077
+Maize,2019,Autumn     ,West Bengal,50026.0,170292,1733.4,3.178333333
+Maize,2019,Rabi       ,West Bengal,171547.0,1284319,1733.4,4.138235294
+Maize,2019,Summer     ,West Bengal,140811.0,992934,1733.4,3.916666667
+Rice,2019,Autumn     ,West Bengal,215126.0,514586,1733.4,2.434285714
+Rice,2019,Summer     ,West Bengal,1271772.0,4616835,1733.4,3.464285714
+Rice,2019,Winter     ,West Bengal,4004077.0,11344600,1733.4,2.771363636
+Wheat,2019,Rabi       ,West Bengal,188308.0,509970,1733.4,2.647619048
+Maize,2020,Kharif     ,Uttarakhand,19697.0,41108,1313.947826,1.973076923
+Maize,2020,Summer     ,Uttarakhand,198.0,430,1313.947826,2.125
+Onion,2020,Whole Year ,Uttarakhand,3590.0,49670,1313.947826,14.18461538
+Rice,2020,Kharif     ,Uttarakhand,241936.0,669372,1313.947826,2.093076923
+Rice,2020,Summer     ,Uttarakhand,15315.0,55057,1313.947826,3.563333333
+Wheat,2020,Rabi       ,Uttarakhand,297189.0,937003,1313.947826,2.216153846
+Maize,2001,Kharif     ,Delhi,53.0,95,611.9,1.79
+Rice,2001,Kharif     ,Delhi,6405.0,12063,611.9,1.88
+Wheat,2001,Rabi       ,Delhi,26114.0,91660,611.9,3.51
+Maize,2001,Kharif     ,Jammu and Kashmir,326476.0,538070,953.8,1.493333333
+Onion,2001,Whole Year ,Jammu and Kashmir,518.0,1159,953.8,1.86
+Rice,2001,Kharif     ,Jammu and Kashmir,249830.0,422298,953.8,1.634166667
+Wheat,2001,Rabi       ,Jammu and Kashmir,255514.0,339390,953.8,1.418333333
+Maize,2002,Kharif     ,Delhi,94.0,228,593.6,2.43
+Rice,2002,Kharif     ,Delhi,6096.0,12907,593.6,2.12
+Wheat,2002,Rabi       ,Delhi,19860.0,79718,593.6,4.01
+Maize,2002,Kharif     ,Jammu and Kashmir,329465.0,465090,933.2,1.3475
+Onion,2002,Whole Year ,Jammu and Kashmir,495.0,1107,933.2,1.975714286
+Rice,2002,Kharif     ,Jammu and Kashmir,236199.0,421457,933.2,1.708333333
+Wheat,2002,Rabi       ,Jammu and Kashmir,244157.0,401900,933.2,1.465
+Onion,2002,Whole Year ,Puducherry,3.0,45,1434.5875,15.0
+Rice,2002,Kharif     ,Puducherry,24142.0,57514,1434.5875,2.56
+Maize,2002,Kharif     ,Uttar Pradesh,755265.0,836410,664.0,1.069565217
+Maize,2002,Rabi       ,Uttar Pradesh,19933.0,22064,664.0,1.100689655
+Onion,2002,Rabi       ,Uttar Pradesh,8199.0,84614,664.0,10.3219697
+Onion,2002,Summer     ,Uttar Pradesh,11157.0,124734,664.0,11.18074627
+Onion,2002,Whole Year ,Uttar Pradesh,61.0,630,664.0,10.325
+Rice,2002,Kharif     ,Uttar Pradesh,5209137.0,9586935,664.0,1.765942029
+Rice,2002,Summer     ,Uttar Pradesh,4292.0,9411,664.0,1.960952381
+Wheat,2002,Rabi       ,Uttar Pradesh,9162749.0,23745162,664.0,2.558550725
+Maize,2003,Kharif     ,Himachal Pradesh,298467.0,729571,1112.6,2.503333333
+Rice,2003,Kharif     ,Himachal Pradesh,81335.0,120624,1112.6,1.469090909
+Wheat,2003,Rabi       ,Himachal Pradesh,365359.0,496930,1112.6,1.3625
+Maize,2003,Kharif     ,Jammu and Kashmir,321189.0,532620,1430.3,1.561666667
+Onion,2003,Whole Year ,Jammu and Kashmir,631.0,1136,1430.3,1.967142857
+Rice,2003,Kharif     ,Jammu and Kashmir,259815.0,504797,1430.3,1.870833333
+Wheat,2003,Rabi       ,Jammu and Kashmir,250282.0,455540,1430.3,1.513333333
+Maize,2004,Kharif     ,Himachal Pradesh,297887.0,636294,939.2,2.1625
+Rice,2004,Kharif     ,Himachal Pradesh,79519.0,109129,939.2,1.454545455
+Wheat,2004,Rabi       ,Himachal Pradesh,367770.0,687452,939.2,1.843333333
+Maize,2004,Kharif     ,Jammu and Kashmir,322699.0,492270,1032.1,1.44
+Rice,2004,Kharif     ,Jammu and Kashmir,250044.0,492732,1032.1,1.838333333
+Wheat,2004,Rabi       ,Jammu and Kashmir,248613.0,474415,1032.1,1.814545455
+Maize,2004,Autumn     ,Odisha,58692.0,94954,1290.4,1.0572
+Maize,2004,Summer     ,Odisha,2071.0,4226,1290.4,1.267727273
+Maize,2004,Winter     ,Odisha,1575.0,3107,1290.4,1.461538462
+Onion,2004,Whole Year ,Odisha,26684.0,241852,1290.4,8.963333333
+Rice,2004,Autumn     ,Odisha,824000.0,677000,1290.4,0.98
+Rice,2004,Summer     ,Odisha,293000.0,652000,1290.4,1.938148148
+Rice,2004,Winter     ,Odisha,3375000.0,5207000,1290.4,1.511333333
+Wheat,2004,Summer     ,Odisha,4054.0,5313,1290.4,1.266071429
+Maize,2004,Kharif     ,Uttar Pradesh,841751.0,1294882,704.0,1.431142857
+Maize,2004,Rabi       ,Uttar Pradesh,4156.0,19263,704.0,4.646785714
+Onion,2004,Whole Year ,Uttar Pradesh,18430.0,210477,704.0,11.42328571
+Rice,2004,Kharif     ,Uttar Pradesh,5934405.0,10749989,704.0,1.827714286
+Wheat,2004,Rabi       ,Uttar Pradesh,9373402.0,23430044,704.0,2.471714286
+Maize,2005,Kharif     ,Jammu and Kashmir,320924.0,453450,1721.8,1.325833333
+Onion,2005,Kharif     ,Jammu and Kashmir,94.0,82,1721.8,0.966666667
+Rice,2005,Kharif     ,Jammu and Kashmir,259014.0,556774,1721.8,2.040833333
+Wheat,2005,Kharif     ,Jammu and Kashmir,436.0,60,1721.8,0.14
+Wheat,2005,Rabi       ,Jammu and Kashmir,436.0,60,1721.8,0.14
+Maize,2005,Kharif     ,Uttar Pradesh,810306.0,1040607,751.9,1.291940299
+Onion,2005,Whole Year ,Uttar Pradesh,25535.0,328222,751.9,12.85246377
+Rice,2005,Kharif     ,Uttar Pradesh,5571524.0,11119095,751.9,1.951714286
+Wheat,2005,Rabi       ,Uttar Pradesh,9163949.0,23573776,751.9,2.538142857
+Maize,2006,Kharif     ,Jammu and Kashmir,323598.0,486900,1786.5,1.449166667
+Onion,2006,Rabi       ,Jammu and Kashmir,372.0,907,1786.5,2.424
+Rice,2006,Kharif     ,Jammu and Kashmir,252516.0,554258,1786.5,2.060833333
+Wheat,2006,Rabi       ,Jammu and Kashmir,261584.0,494300,1786.5,1.821818182
+Maize,2007,Kharif     ,Delhi,69.0,126,677.5,1.83
+Rice,2007,Kharif     ,Delhi,7419.0,20946,677.5,2.82
+Wheat,2007,Rabi       ,Delhi,17482.0,76222,677.5,4.36
+Maize,2007,Kharif     ,Jammu and Kashmir,302441.0,474484,1042.2,1.377
+Onion,2007,Kharif     ,Jammu and Kashmir,131.0,114,1042.2,0.92
+Onion,2007,Rabi       ,Jammu and Kashmir,372.0,906,1042.2,2.42125
+Rice,2007,Kharif     ,Jammu and Kashmir,263246.0,561355,1042.2,1.9745
+Wheat,2007,Kharif     ,Jammu and Kashmir,20.0,2,1042.2,0.12
+Wheat,2007,Rabi       ,Jammu and Kashmir,261584.0,494300,1042.2,1.762666667
+Maize,2008,Kharif     ,Delhi,54.0,99,614.6,1.83
+Rice,2008,Kharif     ,Delhi,7039.0,19873,614.6,2.82
+Wheat,2008,Rabi       ,Delhi,18430.0,80355,614.6,4.36
+Maize,2009,Kharif     ,Delhi,48.0,1054,528.4,21.96
+Rice,2009,Kharif     ,Delhi,6821.0,19008,528.4,2.79
+Wheat,2009,Rabi       ,Delhi,21309.0,92480,528.4,4.34
+Maize,2009,Kharif     ,Jammu and Kashmir,311022.0,486988,751.7,1.507
+Onion,2009,Kharif     ,Jammu and Kashmir,249.0,214,751.7,1.027142857
+Onion,2009,Rabi       ,Jammu and Kashmir,470.0,1145,751.7,2.413333333
+Rice,2009,Kharif     ,Jammu and Kashmir,259892.0,500880,751.7,1.859
+Wheat,2009,Rabi       ,Jammu and Kashmir,284644.0,286143,751.7,1.167142857
+Maize,2010,Kharif     ,Delhi,40.0,878,989.5,21.95
+Rice,2010,Kharif     ,Delhi,6848.0,19083,989.5,2.79
+Wheat,2010,Rabi       ,Delhi,20135.0,87385,989.5,4.34
+Maize,2011,Kharif     ,Delhi,38.0,843,641.3954545,22.18
+Rice,2011,Kharif     ,Delhi,7248.0,20198,641.3954545,2.79
+Wheat,2011,Rabi       ,Delhi,18927.0,82142,641.3954545,4.34
+Maize,2011,Kharif     ,Jammu and Kashmir,314034.0,504995,887.6,1.4925
+Onion,2011,Kharif     ,Jammu and Kashmir,144.0,128,887.6,0.9325
+Onion,2011,Rabi       ,Jammu and Kashmir,430.0,1036,887.6,2.205714286
+Rice,2011,Kharif     ,Jammu and Kashmir,262169.0,544396,887.6,2.0225
+Wheat,2011,Rabi       ,Jammu and Kashmir,291994.0,496542,887.6,1.423571429
+Maize,2012,Kharif     ,Delhi,37.0,828,451.9,22.38
+Rice,2012,Kharif     ,Delhi,6068.0,19768,451.9,3.26
+Wheat,2012,Rabi       ,Delhi,19450.0,84802,451.9,4.36
+Maize,2012,Kharif     ,Jammu and Kashmir,310909.0,512296,1116.7,1.407
+Onion,2012,Kharif     ,Jammu and Kashmir,86.0,76,1116.7,0.94
+Onion,2012,Rabi       ,Jammu and Kashmir,432.0,1046,1116.7,2.391428571
+Rice,2012,Kharif     ,Jammu and Kashmir,261663.0,545186,1116.7,1.8875
+Wheat,2012,Rabi       ,Jammu and Kashmir,289964.0,462422,1116.7,1.328461538
+Onion,2012,Rabi       ,Puducherry,1.0,18,1098.3,18.0
+Onion,2012,Summer     ,Puducherry,1.0,18,1098.3,18.0
+Rice,2012,Kharif     ,Puducherry,3559.0,11637,1098.3,3.076666667
+Rice,2012,Rabi       ,Puducherry,8979.0,23373,1098.3,3.233333333
+Rice,2012,Summer     ,Puducherry,3743.0,11509,1098.3,2.54
+Maize,2013,Kharif     ,Delhi,37.0,828,706.8,22.38
+Rice,2013,Kharif     ,Delhi,6068.0,19768,706.8,3.26
+Wheat,2013,Rabi       ,Delhi,19450.0,86498,706.8,4.45
+Onion,2013,Kharif     ,Puducherry,1.0,18,1083.2,18.0
+Onion,2013,Summer     ,Puducherry,3.0,54,1083.2,18.0
+Rice,2013,Kharif     ,Puducherry,3671.0,12091,1083.2,2.696666667
+Rice,2013,Rabi       ,Puducherry,8382.0,24736,1083.2,3.78
+Rice,2013,Summer     ,Puducherry,3769.0,12965,1083.2,3.41
+Maize,2014,Kharif     ,Delhi,35.0,783,416.4,22.37
+Rice,2014,Kharif     ,Delhi,6035.0,17269,416.4,2.86
+Wheat,2014,Rabi       ,Delhi,19360.0,85558,416.4,4.42
+Maize,2014,Kharif     ,Jammu and Kashmir,297496.0,359960,1278.4,1.048421053
+Onion,2014,Kharif     ,Jammu and Kashmir,110.0,99,1278.4,0.84
+Rice,2014,Kharif     ,Jammu and Kashmir,275861.0,344823,1278.4,1.098947368
+Onion,2014,Kharif     ,Puducherry,1.0,9,1330.0,9.0
+Onion,2014,Summer     ,Puducherry,3.0,29,1330.0,9.67
+Rice,2014,Kharif     ,Puducherry,3643.0,11821,1330.0,2.936666667
+Rice,2014,Rabi       ,Puducherry,9006.0,26378,1330.0,3.506666667
+Rice,2014,Summer     ,Puducherry,4005.0,14518,1330.0,3.62
+Maize,2015,Kharif     ,Delhi,34.0,174,757.7,5.12
+Rice,2015,Kharif     ,Delhi,5884.0,16837,757.7,2.86
+Wheat,2015,Rabi       ,Delhi,19050.0,83419,757.7,4.38
+Maize,2015,Kharif     ,Jammu and Kashmir,293858.0,523609,1572.6,1.5905
+Onion,2015,Kharif     ,Jammu and Kashmir,42.0,22,1572.6,0.6
+Onion,2015,Rabi       ,Jammu and Kashmir,405.0,961,1572.6,2.405
+Rice,2015,Kharif     ,Jammu and Kashmir,304503.0,646362,1572.6,2.05
+Wheat,2015,Rabi       ,Jammu and Kashmir,281870.0,544889,1572.6,1.332857143
+Maize,2016,Kharif     ,Delhi,34.0,174,747.1,5.12
+Rice,2016,Kharif     ,Delhi,5973.0,17260,747.1,2.89
+Wheat,2016,Rabi       ,Delhi,19622.0,87182,747.1,4.44
+Maize,2016,Kharif     ,Jammu and Kashmir,295174.0,541120,902.8,1.6325
+Onion,2016,Kharif     ,Jammu and Kashmir,16.0,8,902.8,0.5
+Onion,2016,Rabi       ,Jammu and Kashmir,612.0,1458,902.8,2.425555556
+Rice,2016,Kharif     ,Jammu and Kashmir,283443.0,572213,902.8,2.0255
+Wheat,2016,Rabi       ,Jammu and Kashmir,290301.0,548542,902.8,1.416428571
+Maize,2017,Kharif     ,Delhi,36.0,174,533.7,4.83
+Rice,2017,Kharif     ,Delhi,5854.0,16837,533.7,2.88
+Wheat,2017,Rabi       ,Delhi,19671.0,83419,533.7,4.24
+Maize,2017,Kharif     ,Jammu and Kashmir,302516.0,546169,1279.1,1.534
+Onion,2017,Kharif     ,Jammu and Kashmir,57.0,29,1279.1,0.5
+Onion,2017,Rabi       ,Jammu and Kashmir,552.0,1320,1279.1,2.4
+Rice,2017,Kharif     ,Jammu and Kashmir,273582.0,663755,1279.1,2.31
+Wheat,2017,Rabi       ,Jammu and Kashmir,299336.0,640196,1279.1,1.645
+Maize,2018,Kharif     ,Delhi,20.0,102,678.5,5.1
+Rice,2018,Kharif     ,Delhi,5848.0,16826,678.5,2.88
+Wheat,2018,Rabi       ,Delhi,19220.0,82876,678.5,4.31
+Maize,2018,Kharif     ,Jammu and Kashmir,262353.0,574380,1016.3,1.949
+Onion,2018,Kharif     ,Jammu and Kashmir,17.0,9,1016.3,0.5
+Onion,2018,Rabi       ,Jammu and Kashmir,550.0,1311,1016.3,1.9925
+Rice,2018,Kharif     ,Jammu and Kashmir,262012.0,615799,1016.3,2.35
+Wheat,2018,Rabi       ,Jammu and Kashmir,288387.0,671799,1016.3,1.687142857
+Maize,2019,Kharif     ,Delhi,20.0,102,546.9,5.1
+Rice,2019,Kharif     ,Delhi,5848.0,17580,546.9,3.01
+Wheat,2019,Rabi       ,Delhi,19228.0,82905,546.9,4.31
+Maize,2019,Kharif     ,Jammu and Kashmir,268669.0,541451,1324.1,1.8985
+Onion,2019,Kharif     ,Jammu and Kashmir,26.0,13,1324.1,0.335
+Onion,2019,Rabi       ,Jammu and Kashmir,561.0,1342,1324.1,2.426666667
+Rice,2019,Kharif     ,Jammu and Kashmir,280513.0,587099,1324.1,2.0755
+Wheat,2019,Rabi       ,Jammu and Kashmir,243929.0,488297,1324.1,1.6575
+Maize,2001,Kharif     ,Manipur,5060.0,10090,2013.1,2.0125
+Onion,2001,Whole Year ,Manipur,640.0,1360,2013.1,2.16
+Rice,2001,Kharif     ,Manipur,162570.0,387270,2013.1,2.234444444
+Maize,2002,Kharif     ,Manipur,3540.0,8270,1743.7,2.2
+Onion,2002,Whole Year ,Manipur,240.0,510,1743.7,2.078333333
+Rice,2002,Kharif     ,Manipur,153110.0,335700,1743.7,2.034444444
+Maize,2004,Kharif     ,Manipur,3220.0,8900,1613.3,2.5225
+Onion,2004,Whole Year ,Manipur,500.0,1060,1613.3,2.094
+Rice,2004,Kharif     ,Manipur,176310.0,435930,1613.3,2.327777778
+Onion,2004,Whole Year ,Puducherry,7.0,21,1434.5875,2.165
+Rice,2004,Autumn     ,Puducherry,6237.0,17257,1434.5875,2.76
+Rice,2004,Summer     ,Puducherry,5689.0,15537,1434.5875,2.73
+Rice,2004,Winter     ,Puducherry,12896.0,28242,1434.5875,2.803333333
+Maize,2005,Kharif     ,Manipur,2850.0,7940,1585.4,2.56
+Onion,2005,Whole Year ,Manipur,1760.0,3740,1585.4,2.14
+Rice,2005,Kharif     ,Manipur,166260.0,386070,1585.4,2.238888889
+Onion,2005,Whole Year ,Puducherry,9.0,29,1434.5875,3.22
+Rice,2005,Autumn     ,Puducherry,5348.0,15278,1434.5875,2.57
+Rice,2005,Summer     ,Puducherry,5167.0,13013,1434.5875,1.845
+Rice,2005,Winter     ,Puducherry,12410.0,25326,1434.5875,2.89
+Maize,2006,Kharif     ,Manipur,3340.0,8270,1533.561905,2.48
+Onion,2006,Summer     ,Manipur,480.0,1020,1533.561905,2.125
+Onion,2006,Whole Year ,Manipur,640.0,1360,1533.561905,2.11
+Rice,2006,Kharif     ,Manipur,165370.0,389170,1533.561905,2.276666667
+Maize,2007,Kharif     ,Manipur,2960.0,8450,1435.7,2.8025
+Onion,2007,Whole Year ,Manipur,940.0,2000,1435.7,2.11
+Rice,2007,Kharif     ,Manipur,166150.0,406150,1435.7,2.378888889
+Maize,2001,Kharif     ,Sikkim,40110.0,57014,2372.5,1.405
+Maize,2001,Whole Year ,Sikkim,8000.0,4000,2372.5,0.5
+Rice,2001,Kharif     ,Sikkim,14900.0,21372,2372.5,1.4275
+Wheat,2001,Rabi       ,Sikkim,8710.0,10485,2372.5,1.12
+Maize,2002,Kharif     ,Sikkim,36720.0,53210,2496.2,1.415
+Maize,2002,Whole Year ,Sikkim,6000.0,3000,2496.2,0.5
+Rice,2002,Kharif     ,Sikkim,14790.0,21220,2496.2,1.4325
+Wheat,2002,Rabi       ,Sikkim,8330.0,10400,2496.2,1.2075
+Maize,2003,Kharif     ,Sikkim,36700.0,57050,2838.1,1.5375
+Rice,2003,Kharif     ,Sikkim,14740.0,21190,2838.1,1.4275
+Wheat,2003,Rabi       ,Sikkim,6805.0,8686,2838.1,1.21
+Maize,2004,Kharif     ,Sikkim,36700.0,58280,1650.5,1.635
+Rice,2004,Kharif     ,Sikkim,9070.0,21610,1650.5,4.7875
+Wheat,2004,Rabi       ,Sikkim,5740.0,8250,1650.5,1.39
+Maize,2005,Kharif     ,Sikkim,25450.0,61100,2041.6,5.21
+Rice,2005,Kharif     ,Sikkim,9790.0,23690,2041.6,5.3425
+Wheat,2005,Rabi       ,Sikkim,5740.0,9250,2041.6,1.5525
+Maize,2006,Kharif     ,Sikkim,40850.0,64890,2270.2,1.605
+Rice,2006,Kharif     ,Sikkim,9200.0,21450,2270.2,4.84
+Wheat,2006,Rabi       ,Sikkim,6380.0,10360,2270.2,1.57
+Maize,2007,Kharif     ,Sikkim,39770.0,59120,2003.4,1.415
+Rice,2007,Kharif     ,Sikkim,11860.0,19480,2003.4,1.5475
+Wheat,2007,Rabi       ,Sikkim,4460.0,4460,2003.4,1.0
+Maize,2008,Kharif     ,Sikkim,39200.0,65740,2247.5,1.8
+Rice,2008,Kharif     ,Sikkim,13000.0,22230,2247.5,1.5925
+Wheat,2008,Rabi       ,Sikkim,3900.0,3500,2247.5,0.8825
+Maize,2009,Kharif     ,Sikkim,39500.0,64690,2176.6,1.5875
+Rice,2009,Kharif     ,Sikkim,12270.0,20930,2176.6,1.595
+Wheat,2009,Rabi       ,Sikkim,5200.0,4720,2176.6,0.93
+Maize,2010,Kharif     ,Sikkim,40170.0,276023,2527.0,5.2675
+Rice,2010,Kharif     ,Sikkim,12140.0,20973,2527.0,1.6225
+Wheat,2010,Rabi       ,Sikkim,2650.0,2710,2527.0,1.03
+Maize,2011,Kharif     ,Sikkim,39950.0,66210,2585.486364,1.6125
+Rice,2011,Kharif     ,Sikkim,12070.0,20880,2585.486364,1.6225
+Wheat,2011,Rabi       ,Sikkim,2500.0,2650,2585.486364,1.065
+Maize,2012,Kharif     ,Sikkim,39970.0,67950,3006.9,1.66
+Rice,2012,Kharif     ,Sikkim,11920.0,21340,3006.9,1.7175
+Wheat,2012,Rabi       ,Sikkim,520.0,550,3006.9,1.0475
+Onion,2013,Rabi       ,Jammu and Kashmir,432.0,1046,1193.8,2.391428571
+Wheat,2013,Rabi       ,Jammu and Kashmir,292380.0,464577,1193.8,1.27
+Maize,2013,Kharif     ,Sikkim,39930.0,68825,2567.6,1.685
+Rice,2013,Kharif     ,Sikkim,11158.0,20260,2567.6,1.76
+Wheat,2013,Rabi       ,Sikkim,360.0,385,2567.6,1.03
+Maize,2014,Kharif     ,Sikkim,39880.0,68890,2627.0,1.69
+Rice,2014,Kharif     ,Sikkim,11040.0,20070,2627.0,1.76
+Wheat,2014,Rabi       ,Sikkim,390.0,420,2627.0,1.05
+Maize,2015,Kharif     ,Sikkim,38955.0,68310,2949.1,1.72
+Rice,2015,Kharif     ,Sikkim,10669.0,19687,2949.1,1.7925
+Wheat,2015,Rabi       ,Sikkim,323.0,346,2949.1,1.0375
+Maize,2016,Kharif     ,Sikkim,38498.0,67992,2971.6,1.73
+Rice,2016,Kharif     ,Sikkim,10481.0,19453,2971.6,1.8075
+Wheat,2016,Rabi       ,Sikkim,265.0,286,2971.6,1.046666667
+Maize,2017,Kharif     ,Sikkim,38458.0,67968,2873.6,1.7325
+Rice,2017,Kharif     ,Sikkim,9501.0,17636,2873.6,1.815
+Wheat,2017,Rabi       ,Sikkim,172.0,185,2873.6,1.03
+Maize,2018,Kharif     ,Sikkim,37778.0,66789,3350.1,1.7325
+Rice,2018,Kharif     ,Sikkim,9256.0,17182,3350.1,1.82
+Wheat,2018,Rabi       ,Sikkim,163.0,176,3350.1,1.04
+Maize,2019,Kharif     ,Sikkim,38387.0,67908,2740.0,1.735
+Rice,2019,Kharif     ,Sikkim,8685.0,16137,2740.0,1.8225
+Wheat,2019,Rabi       ,Sikkim,165.0,178,2740.0,1.035
+Rice,2004,Kharif     ,Goa,52442.0,145174,2518.0,2.75
+Rice,2005,Kharif     ,Goa,52177.0,147236,3392.8,2.81
+Rice,2006,Kharif     ,Goa,52985.0,128945,2928.8,2.41
+Rice,2007,Kharif     ,Goa,52191.0,121679,3674.7,2.32
+Maize,2001,Kharif     ,Tripura,2080.0,2080,2284.4,0.99
+Rice,2001,Kharif     ,Tripura,246750.0,587390,2284.4,2.28
+Wheat,2001,Rabi       ,Tripura,1220.0,2455,2284.4,2.015
+Maize,2002,Kharif     ,Tripura,2305.0,2205,2579.8,0.9525
+Rice,2002,Kharif     ,Tripura,255270.0,602410,2579.8,2.255
+Wheat,2002,Rabi       ,Tripura,919.0,1827,2579.8,2.0025
+Maize,2003,Kharif     ,Tripura,2240.0,2150,2487.9,0.9575
+Rice,2003,Kharif     ,Tripura,257440.0,616820,2487.9,2.31
+Wheat,2003,Rabi       ,Tripura,895.0,1810,2487.9,2.0275
+Maize,2004,Kharif     ,Mizoram,9785.0,18257,2640.8,2.14125
+Maize,2004,Rabi       ,Mizoram,719.0,1530,2640.8,2.61
+Rice,2004,Kharif     ,Mizoram,57085.0,107660,2640.8,1.9225
+Wheat,2004,Rabi       ,Mizoram,3.0,4,2640.8,1.33
+Maize,2006,Kharif     ,Mizoram,10436.0,20219,2353.0,1.885
+Maize,2006,Rabi       ,Mizoram,339.0,750,2353.0,2.106666667
+Rice,2006,Kharif     ,Mizoram,50619.0,25789,2353.0,0.4525
+Rice,2006,Rabi       ,Mizoram,2232.0,3675,2353.0,1.58
+Maize,2007,Kharif     ,Mizoram,7153.0,506,3095.2,0.12375
+Maize,2007,Rabi       ,Mizoram,175.0,223,3095.2,1.22
+Rice,2007,Kharif     ,Mizoram,54393.0,15501,3095.2,0.2625
+Rice,2007,Rabi       ,Mizoram,148.0,187,3095.2,1.264
+Maize,2008,Kharif     ,Mizoram,9173.0,8906,1912.1,0.9125
+Maize,2008,Rabi       ,Mizoram,385.0,412,1912.1,1.884
+Rice,2008,Kharif     ,Mizoram,51859.0,68637,1912.1,1.20625
+Rice,2008,Rabi       ,Mizoram,131.0,280,1912.1,2.555
+Maize,2009,Kharif     ,Mizoram,8310.0,11136,2086.3,1.3625
+Maize,2009,Rabi       ,Mizoram,241.0,374,2086.3,1.61
+Rice,2009,Kharif     ,Mizoram,47085.0,65893,2086.3,1.3175
+Rice,2009,Rabi       ,Mizoram,119.0,238,2086.3,2.0
+Maize,2001,Kharif     ,Arunachal Pradesh,38577.0,52511,2128.5,1.455384615
+Rice,2001,Kharif     ,Arunachal Pradesh,119455.0,134621,2128.5,1.135384615
+Wheat,2001,Rabi       ,Arunachal Pradesh,3805.0,5341,2128.5,1.4325
+Maize,2002,Kharif     ,Arunachal Pradesh,40548.0,55941,2832.8,1.402
+Rice,2002,Kharif     ,Arunachal Pradesh,124584.0,152500,2832.8,1.182666667
+Wheat,2002,Rabi       ,Arunachal Pradesh,4114.0,6250,2832.8,1.481538462
+Maize,2003,Kharif     ,Arunachal Pradesh,38605.0,54510,2782.2,1.446666667
+Rice,2003,Kharif     ,Arunachal Pradesh,119205.0,154589,2782.2,1.201333333
+Wheat,2003,Rabi       ,Arunachal Pradesh,4150.0,6320,2782.2,1.511818182
+Maize,2004,Kharif     ,Arunachal Pradesh,37800.0,54985,2939.5,1.495
+Rice,2004,Kharif     ,Arunachal Pradesh,121642.0,134950,2939.5,1.080625
+Wheat,2004,Rabi       ,Arunachal Pradesh,4278.0,6652,2939.5,1.549230769
+Maize,2005,Kharif     ,Arunachal Pradesh,41853.0,57898,2767.0,1.4125
+Rice,2005,Kharif     ,Arunachal Pradesh,122267.0,146191,2767.0,1.16125
+Wheat,2005,Rabi       ,Arunachal Pradesh,3976.0,6140,2767.0,1.589166667
+Maize,2006,Kharif     ,Arunachal Pradesh,46281.0,63524,1940.0,1.439375
+Rice,2006,Kharif     ,Arunachal Pradesh,123038.0,144635,1940.0,1.151875
+Wheat,2006,Rabi       ,Arunachal Pradesh,3979.0,6301,1940.0,1.668461538
+Maize,2007,Kharif     ,Arunachal Pradesh,42736.0,57430,3223.9,1.4625
+Rice,2007,Kharif     ,Arunachal Pradesh,124029.0,158146,3223.9,1.225625
+Wheat,2007,Rabi       ,Arunachal Pradesh,3558.0,5294,3223.9,1.579230769
+Maize,2008,Kharif     ,Arunachal Pradesh,42897.0,58830,2244.4,1.459375
+Rice,2008,Kharif     ,Arunachal Pradesh,126799.0,164538,2244.4,1.183125
+Wheat,2008,Rabi       ,Arunachal Pradesh,3278.0,5169,2244.4,1.57
+Maize,2009,Kharif     ,Arunachal Pradesh,43630.0,60144,1701.9,1.47875
+Rice,2009,Kharif     ,Arunachal Pradesh,121468.0,143893,1701.9,1.12
+Wheat,2009,Rabi       ,Arunachal Pradesh,3170.0,4770,1701.9,1.59
+Maize,2010,Kharif     ,Arunachal Pradesh,45061.0,64714,2574.1,1.515625
+Rice,2010,Kharif     ,Arunachal Pradesh,121570.0,155993,2574.1,1.219375
+Wheat,2010,Rabi       ,Arunachal Pradesh,3699.0,5872,2574.1,1.647
+Maize,2011,Kharif     ,Arunachal Pradesh,46500.0,68500,2193.7,1.554375
+Rice,2011,Kharif     ,Arunachal Pradesh,123500.0,159543,2193.7,1.21875
+Wheat,2011,Rabi       ,Arunachal Pradesh,3700.0,6500,2193.7,1.818
+Maize,2012,Kharif     ,Arunachal Pradesh,47486.0,68192,2760.7,1.5375
+Rice,2012,Kharif     ,Arunachal Pradesh,126085.0,174662,2760.7,1.308125
+Wheat,2012,Rabi       ,Arunachal Pradesh,2937.0,4401,2760.7,1.73
+Maize,2013,Kharif     ,Arunachal Pradesh,47018.0,68978,2042.9,1.607647059
+Rice,2013,Kharif     ,Arunachal Pradesh,131989.0,184104,2042.9,1.300588235
+Wheat,2013,Rabi       ,Arunachal Pradesh,2960.0,4470,2042.9,1.73
+Maize,2014,Kharif     ,Arunachal Pradesh,48000.0,75000,2403.2,1.752941176
+Rice,2014,Kharif     ,Arunachal Pradesh,127200.0,189992,2403.2,1.447058824
+Wheat,2014,Rabi       ,Arunachal Pradesh,3800.0,7500,2403.2,2.454444444
+Maize,2015,Kharif     ,Arunachal Pradesh,48800.0,75226,2593.2,1.687
+Rice,2015,Kharif     ,Arunachal Pradesh,128800.0,204001,2593.2,2.0875
+Wheat,2015,Rabi       ,Arunachal Pradesh,3910.0,7700,2593.2,2.105
+Maize,2005,Autumn     ,Odisha,56216.0,85608,1503.4,0.9388
+Maize,2005,Summer     ,Odisha,1585.0,3455,1503.4,1.497142857
+Maize,2005,Winter     ,Odisha,5786.0,12841,1503.4,1.32
+Rice,2005,Autumn     ,Odisha,781000.0,681000,1503.4,1.016428571
+Rice,2005,Summer     ,Odisha,325000.0,702000,1503.4,2.04
+Rice,2005,Winter     ,Odisha,3373000.0,5475000,1503.4,1.639666667
+Wheat,2005,Summer     ,Odisha,3276.0,4486,1503.4,1.2124
+Maize,2006,Autumn     ,Odisha,53460.0,82868,1716.9,0.964583333
+Maize,2006,Summer     ,Odisha,1916.0,4497,1716.9,1.6265
+Maize,2006,Winter     ,Odisha,5894.0,15471,1716.9,1.662857143
+Rice,2006,Autumn     ,Odisha,757000.0,765000,1716.9,1.056785714
+Rice,2006,Summer     ,Odisha,315000.0,720000,1716.9,2.012
+Rice,2006,Winter     ,Odisha,3379000.0,5338000,1716.9,1.580333333
+Wheat,2006,Summer     ,Odisha,3913.0,5802,1716.9,1.303076923
+Maize,2007,Autumn     ,Odisha,64690.0,122879,1633.8,1.096923077
+Maize,2007,Summer     ,Odisha,2874.0,6495,1633.8,1.383043478
+Maize,2007,Winter     ,Odisha,6505.0,17797,1633.8,1.561333333
+Rice,2007,Autumn     ,Odisha,742000.0,814000,1633.8,1.082857143
+Rice,2007,Summer     ,Odisha,334000.0,816000,1633.8,2.108928571
+Rice,2007,Winter     ,Odisha,3376000.0,5910000,1633.8,1.747
+Wheat,2007,Summer     ,Odisha,5548.0,8721,1633.8,1.398
+Maize,2008,Autumn     ,Odisha,64461.0,128056,1539.0,1.1028
+Maize,2008,Summer     ,Odisha,2249.0,5960,1539.0,1.528888889
+Maize,2008,Winter     ,Odisha,307.0,676,1539.0,1.625333333
+Rice,2008,Autumn     ,Odisha,707000.0,735000,1539.0,1.062142857
+Rice,2008,Summer     ,Odisha,331000.0,811000,1539.0,2.051538462
+Rice,2008,Winter     ,Odisha,3417000.0,5266000,1539.0,1.545333333
+Wheat,2008,Summer     ,Odisha,5267.0,7386,1539.0,1.3836
+Rice,2008,Kharif     ,Goa,33638.0,78705,3271.6,2.325
+Rice,2008,Rabi       ,Goa,15688.0,43162,3271.6,2.755
+Maize,2009,Autumn     ,Odisha,78682.0,169659,1330.3,1.0184
+Maize,2009,Summer     ,Odisha,2265.0,5048,1330.3,1.505217391
+Maize,2009,Winter     ,Odisha,211.0,302,1330.3,1.5675
+Rice,2009,Autumn     ,Odisha,687000.0,618000,1330.3,1.024074074
+Rice,2009,Summer     ,Odisha,265000.0,714000,1330.3,2.163636364
+Rice,2009,Winter     ,Odisha,3413000.0,5581000,1330.3,1.575666667
+Wheat,2009,Summer     ,Odisha,3994.0,5782,1330.3,1.3456
+Rice,2009,Kharif     ,Goa,31166.0,59267,3334.9,1.895
+Rice,2009,Rabi       ,Goa,15938.0,41338,3334.9,2.57
+Maize,2010,Autumn     ,Odisha,111982.0,284745,1291.9,1.3952
+Maize,2010,Summer     ,Odisha,4454.0,12540,1291.9,1.8296
+Maize,2010,Winter     ,Odisha,740.0,1529,1291.9,1.978666667
+Rice,2010,Autumn     ,Odisha,678000.0,563000,1291.9,0.939642857
+Rice,2010,Summer     ,Odisha,293000.0,863000,1291.9,2.1024
+Rice,2010,Winter     ,Odisha,3255000.0,5398000,1291.9,1.633
+Wheat,2010,Summer     ,Odisha,2857.0,4176,1291.9,1.3396
+Rice,2010,Kharif     ,Goa,30632.0,72221,4193.3,2.35
+Rice,2010,Rabi       ,Goa,15980.0,42773,4193.3,2.68
+Maize,2011,Autumn     ,Odisha,98714.0,202050,1346.2,1.3072
+Maize,2011,Summer     ,Odisha,3971.0,9914,1346.2,2.039130435
+Maize,2011,Winter     ,Odisha,177.0,227,1346.2,1.776153846
+Rice,2011,Autumn     ,Odisha,536000.0,418000,1346.2,0.8
+Rice,2011,Summer     ,Odisha,236000.0,755000,1346.2,2.363913043
+Rice,2011,Winter     ,Odisha,3233000.0,4633000,1346.2,1.405333333
+Wheat,2011,Summer     ,Odisha,1461.0,2396,1346.2,1.39
+Rice,2011,Kharif     ,Goa,31247.0,78770,3340.395455,2.495
+Rice,2011,Rabi       ,Goa,15990.0,43221,3340.395455,2.7
+Maize,2012,Autumn     ,Odisha,90572.0,216990,1430.2,1.4536
+Maize,2012,Summer     ,Odisha,3578.0,10000,1430.2,1.860909091
+Maize,2012,Winter     ,Odisha,331.0,483,1430.2,2.008461538
+Rice,2012,Autumn     ,Odisha,561000.0,970000,1430.2,1.56
+Rice,2012,Summer     ,Odisha,8629000.0,868000,1430.2,0.077333333
+Rice,2012,Winter     ,Odisha,3188000.0,7658000,1430.2,2.490666667
+Wheat,2012,Summer     ,Odisha,1039.0,1974,1430.2,1.622857143
+Rice,2012,Kharif     ,Goa,31255.0,81229,3048.9,2.59
+Rice,2012,Rabi       ,Goa,14575.0,41592,3048.9,2.85
+Maize,2013,Autumn     ,Odisha,91261.0,252778,1632.4,1.566666667
+Maize,2013,Summer     ,Odisha,3591.0,10430,1632.4,1.905454545
+Maize,2013,Winter     ,Odisha,278.0,420,1632.4,1.802222222
+Rice,2013,Autumn     ,Odisha,582000.0,851000,1632.4,1.2972
+Rice,2013,Summer     ,Odisha,300000.0,1025000,1632.4,2.857307692
+Rice,2013,Winter     ,Odisha,3298000.0,5734000,1632.4,1.853
+Wheat,2013,Summer     ,Odisha,678.0,1069,1632.4,1.665555556
+Maize,2014,Autumn     ,Odisha,89218.0,181982,1536.9,1.46875
+Maize,2014,Summer     ,Odisha,2266.0,5918,1536.9,2.085
+Maize,2014,Winter     ,Odisha,180.0,302,1536.9,2.656363636
+Rice,2014,Autumn     ,Odisha,583000.0,1036000,1536.9,1.599166667
+Rice,2014,Summer     ,Odisha,301000.0,1002000,1536.9,2.62
+Rice,2014,Winter     ,Odisha,3282000.0,7802000,1536.9,2.379333333
+Wheat,2014,Summer     ,Odisha,403.0,658,1536.9,1.440625
+Maize,2015,Autumn     ,Odisha,52843.0,103999,1210.1,1.629130435
+Maize,2015,Summer     ,Odisha,2489.0,6521,1210.1,1.936111111
+Maize,2015,Winter     ,Odisha,255.0,458,1210.1,2.528
+Rice,2015,Autumn     ,Odisha,541000.0,390000,1210.1,0.864583333
+Rice,2015,Summer     ,Odisha,234000.0,782000,1210.1,2.619090909
+Rice,2015,Winter     ,Odisha,3167000.0,4702000,1210.1,1.417666667
+Wheat,2015,Summer     ,Odisha,367.0,494,1210.1,1.2675
+Maize,2016,Autumn     ,Odisha,68457.0,195388,1460.5,1.746521739
+Maize,2016,Summer     ,Odisha,2589.0,7542,1460.5,1.770769231
+Maize,2016,Winter     ,Odisha,1344.0,1736,1460.5,1.541818182
+Rice,2016,Autumn     ,Odisha,511550.0,657520,1460.5,1.444074074
+Rice,2016,Summer     ,Odisha,224780.0,793690,1460.5,2.745333333
+Rice,2016,Winter     ,Odisha,3226450.0,8343100,1460.5,2.543
+Wheat,2016,Summer     ,Odisha,57.0,80,1460.5,0.95
+Maize,2017,Autumn     ,Odisha,44436.0,111619,1344.4,1.745714286
+Maize,2017,Summer     ,Odisha,2132.0,5803,1344.4,2.552857143
+Maize,2017,Winter     ,Odisha,374.0,527,1344.4,2.14625
+Rice,2017,Autumn     ,Odisha,530320.0,576840,1344.4,1.218928571
+Rice,2017,Summer     ,Odisha,221940.0,695400,1344.4,2.673571429
+Rice,2017,Winter     ,Odisha,3014130.0,5279130,1344.4,1.747
+Wheat,2017,Summer     ,Odisha,73.0,158,1344.4,2.387142857
+Maize,2018,Autumn     ,Odisha,49126.0,113342,1635.9,1.665652174
+Maize,2018,Summer     ,Odisha,2855.0,7452,1635.9,2.334615385
+Maize,2018,Winter     ,Odisha,67.0,164,1635.9,2.231
+Rice,2018,Autumn     ,Odisha,454370.0,527490,1635.9,1.322916667
+Rice,2018,Summer     ,Odisha,274230.0,925810,1635.9,2.586071429
+Rice,2018,Winter     ,Odisha,3130820.0,6280410,1635.9,1.982333333
+Wheat,2018,Summer     ,Odisha,147.0,268,1635.9,1.825
